@@ -1,0 +1,73 @@
+.layer-old-1 .slide-bao-mat-ssl {
+    background: url("images/slide-bao-mat-ssl.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.layer-old-1 .content-1 {
+  margin-top: 70px;
+  margin-bottom: 25px;
+}
+
+.layer-old-1 .content-1 .text-1,
+  .layer-old-1 .content-1 .text-2,
+    .layer-old-1 .content-1 .text-3,
+      .layer-old-1 .content-1 .text-4,
+        .layer-old-1 .content-1 .text-5 {
+      font-weight: 300;
+    }
+
+.layer-old-1 .content-1 .text-1 {
+  font-size: 2.7em;
+  text-transform: uppercase;
+}
+
+.layer-old-1 .content-1 .text-2 {
+  font-size: 1.8em;
+}
+
+.layer-old-1 .content-1 .text-3 {
+  font-size: 1.8em;
+}
+
+.layer-old-1 .content-1 .text-4 {
+  font-size: 3em;
+  text-transform: uppercase;
+}
+
+.layer-old-1 .content-1 .text-5 {
+  font-size: 1.7em;
+}
+
+.layer-old-1 .content-1 .description-ssl {
+  background: #eaeaea;
+  margin-top: -30px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.layer-old-1 .content-2 {
+    background: url("images/bg-bao-mat-ssl.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.layer-old-1 .content-2 .row-content-2 {
+  background: #fff;
+  margin: 70px 0;
+  padding: 70px 20px 10px 20px;
+}
+
+.layer-old-1 .content-2 .text-1 {
+  font-size: 3em;
+  font-weight: normal;
+}
+
+.layer-old-1 .content-2 .text-2 {
+  font-size: 1.7em;
+  font-weight: 300;
+}
+
+.layer-old-1 .content-2 img {
+  margin-top: 315px;
+}
