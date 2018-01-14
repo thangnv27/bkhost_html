@@ -4,6 +4,12 @@
     background-size: 100% 100%;
 }
 
+.layer-old-2 .slide-chung-chi-bao-mat-ssl {
+    background: url("images/slide-chung-chi-bao-mat-ssl.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
 .layer-old-1 .content-1 {
   margin-top: 70px;
   margin-bottom: 25px;
@@ -70,4 +76,142 @@
 
 .layer-old-1 .content-2 img {
   margin-top: 315px;
+}
+
+.layer-old-2 .text-slide-3 {
+  background: #ffcc00 !important;
+}
+
+.layer-old-2 .content-1 {
+  margin-top: 70px;
+}
+
+.layer-old-2 .content-1 .col-left-content-1 {
+  background: url("images/bg-content-1-chung-chi-bao-mat-ssl.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.layer-old-2 .content-1 .col-left-content-1 .wrap-content {
+  background: #fff;
+  max-width: 100%;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.layer-old-2 .content-1 .text-1 {
+  font-size: 2.7em;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.layer-old-2 .content-1 .text-2 {
+  font-size: 1.8em;
+  font-weight: 300;
+}
+
+.layer-old-2 .content-1 .text-3 {
+  font-size: 2.5em;
+  font-weight: normal;
+}
+
+.layer-old-2 .content-1 .text-4 {
+  font-size: 4.3em;
+  font-weight: bold;
+  color: #ff0000;
+}
+
+.layer-old-2 .content-1 .text-5 {
+  font-size: 1.3em;
+  font-weight: 300;
+  margin-bottom: 52px;
+}
+
+.layer-old-2 .content-1 .text-6 {
+  font-size: 3em;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.layer-old-2 .content-1 .text-7 {
+  font-size: 1.7em;
+  font-weight: 300;
+}
+
+.layer-old-2 .content-1 .text-8 {
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #ff0000;
+}
+
+.layer-old-2 .content-1 a {
+  font-size: 1.5em;
+  font-weight: 300;
+  color: #fff;
+  background: #ff9c00;
+  text-transform: uppercase;
+  padding: 15px 50px;
+  border-radius: 2px;
+}
+
+.layer-old-2 .content-1 ul li {
+  list-style: url('images/icon-mui-ten-web-yeu-cau.png');
+  font-size: 1.7em;
+  font-weight: 300;
+}
+
+.layer-old-2 .content-2 {
+  margin-top: 100px;
+  padding-bottom: 113px;
+  border-bottom: 1px solid #cecece;
+}
+
+.layer-old-2 .content-2 .text-1 {
+  font-size: 3em;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 72px;
+}
+
+.layer-old-2 .content-2 .text-2 {
+  font-size: 2.4em;
+  font-weight: lighter;
+  color: #797979;
+  margin-bottom: 32px;
+}
+
+.layer-old-2 .content-3 {
+  margin-top: 70px;
+  margin-bottom: 75px;
+}
+
+.layer-old-2 .content-3 .text-1 {
+  font-size: 3.6em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.layer-old-2 .tab-hosting {
+  background: url(images/bg-chung-chi-bao-mat-ssl.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  text-align: center;
+  padding-bottom: 80px;
+}
+
+.layer-old-2 .nav-hosting ul {
+  padding-left: 33%;
+}
+
+.layer-old-2 .nav-hosting ul li a {
+  font-size: 2.4em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.layer-old-2 .tab-hosting .tab-content {
+  background: #d6dada;
+  padding: 52px 46px;
 }
