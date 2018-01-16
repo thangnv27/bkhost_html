@@ -10,6 +10,12 @@
     background-size: 100% 100%;
 }
 
+.layer-old-3 .slide-cloude-vps {
+    background: url("images/slide-cloude-vps.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
 .layer-old-1 .content-1 {
   margin-top: 70px;
   margin-bottom: 25px;
@@ -78,7 +84,7 @@
   margin-top: 315px;
 }
 
-.layer-old-2 .text-slide-3 {
+.layer-old-2 .text-slide-3, .layer-old-3 .text-slide-3 {
   background: #ffcc00 !important;
 }
 
@@ -214,4 +220,178 @@
 .layer-old-2 .tab-hosting .tab-content {
   background: #d6dada;
   padding: 52px 46px;
+}
+
+.layer-old-3 .backup-intro {
+  padding-top: 70px;
+  padding-bottom: 88px;
+}
+
+.layer-old-3 .backup-intro .text-1 {
+  margin-bottom: 65px;
+  margin-top: 0;
+  text-transform: uppercase;
+  font-size: 3.6em;
+  font-weight: bold;
+}
+
+.layer-old-3 .hosting-company {
+  background: url(images/bg-cloude-vps-content-2.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+}
+
+.layer-old-3 .info-technical {
+  padding-bottom: 57px;
+}
+
+.layer-old-3 .info-technical .text-1 {
+  font-size: 1.8em;
+  font-weight: 300;
+  text-transform: none;
+  margin-top: 0;
+  margin-bottom: 44px;
+}
+
+.layer-old-3 .info-technical .text-2 {
+  font-size: 2.7em;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #d21d22;
+}
+
+.layer-old-3 .info-technical .text-3 {
+  font-size: 1.8em;
+  font-weight: normal;
+}
+
+.border-content-info-technical {
+  border-right: 5px solid #dee7ee;
+}
+
+.layer-old-3 .content-4 {
+  background: url(images/bg-content-4-cloude-vps.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-bottom: 89px;
+}
+
+.layer-old-3 .content-4 .text-1 {
+  font-size: 4.5em;
+  font-weight: bold;
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 49px;
+  margin-top: 55px;
+}
+
+.layer-old-3 .content-4 .text-2 {
+  font-size: 1.8em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.layer-old-3 .content-4 .text-3 {
+  font-size: 1.6em;
+  font-weight: 300;
+}
+
+.layer-old-3 .content-4 .row-1 {
+  margin-bottom: 33px;
+}
+
+.custom-row-content4-layer3 {
+  background: #fff;
+  margin: 0;
+  padding: 20px;
+}
+
+.layer-old-3 .content-5 {
+  padding-bottom: 83px;
+  border-bottom: 2px solid #e4e4e4;
+}
+
+.layer-old-3 .content-5 .row-1 {
+  margin-bottom: 71px;
+}
+
+.layer-old-3 .content-5 .text-1 {
+  font-size: 4.5em;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 71px 0;
+}
+
+.layer-old-3 .content-5 .text-2 {
+  font-size: 1.8em;
+  font-weight: bold;
+}
+
+.layer-old-3 .content-5 .text-3 {
+  font-size: 1.6em;
+  font-weight: 300;
+}
+
+.layer-old-3 .content-6 {
+  padding-bottom: 67px;
+}
+
+.layer-old-3 .content-6 .text-1 {
+  font-size: 3.6em;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 58px;
+  margin-bottom: 39px;
+}
+
+.layer-old-3 .content-6 .text-2 {
+  font-size: 1.8em;
+  font-weight: bold;
+  margin-top: 36px;
+}
+
+.layer-old-3 .content-6 .text-3 {
+  font-size: 2.4em;
+  font-weight: bold;
+  margin-top: 12px;
+  color: #d71b32;
+}
+
+.layer-old-3 .content-6 .text-4 {
+  font-size: 1.8em;
+  font-weight: 300;
+  margin-top: 14px;
+  color: #a5a5a5;
+}
+
+.layer-old-3 .content-6 .text-5 {
+  margin-top: 15px;
+}
+
+.layer-old-3 .content-6 .text-5 a {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  font-weight: 300;
+  background: #ff9c00;
+  padding: 14px 17px;
+}
+
+.layer-old-3 .content-6 .col-md-4 {
+  padding-top: 31px;
+  padding-bottom: 44px;
+}
+
+.layer-old-3 .content-6 .row-1 {
+  border-bottom: 1px solid #e4e4e4;
+}
+
+.layer-old-3 .content-6 .col-active {
+  background: #f3f3f3;
+}
+
+.layer-old-3 .content-6 .border-col {
+  border-left: 1px solid #e4e4e4;
+  border-right: 1px solid #e4e4e4;
 }
