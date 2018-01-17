@@ -22,6 +22,16 @@
     background-size: 100% 100%;
 }
 
+.layer-old-5 .slide-vps-chung-toi {
+    background: url("images/slide-vps-chung-toi.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.layer-old-5 .text-slide-3 {
+  background: #ffcc00;
+}
+
 body .slide-hosting-ca-nhan {
     background: url("images/slide-hosting-ca-nhan.png");
     background-repeat: no-repeat;
@@ -551,4 +561,25 @@ body .slide-hosting-ca-nhan {
 
 .layer-old-4 .content-6 .col-margin-top > .row {
   margin-bottom: 40px;
+}
+
+.layer-old-5 .content-1 {
+  padding-top: 104px;
+  padding-bottom: 145px;
+}
+
+.layer-old-5 .content-1 img {
+  margin-bottom: 33px;
+}
+
+.layer-old-5 .content-1 .text-1 {
+  font-size: 1.8em;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 14px;
+}
+
+.layer-old-5 .content-1 .text-2 {
+  font-size: 1.8em;
+  font-weight: 300;
 }
