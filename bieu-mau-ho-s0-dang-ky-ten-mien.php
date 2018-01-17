@@ -2,8 +2,8 @@
 
 <div class="slide-2 text-center">
     <div class="container">
-        <p class="text-slide-1">Biểu mẫu hồ sơ đăng ký tên miền</p>
-        <p class="text-slide-2">Biểu mẫu dành cho đăng ký tên miền Việt Nam và Quốc tế</p>
+        <h1 class="text-slide-1">Biểu mẫu hồ sơ đăng ký tên miền</h1>
+        <h2 class="text-slide-2">Biểu mẫu dành cho đăng ký tên miền Việt Nam và Quốc tế</h2>
     </div>
 </div>
 <div class="text-slide-3">
@@ -343,7 +343,7 @@
                 </div>
             </div>
             <!--Bang gia viet nam-->
-            <div id="vn" class="tab-pane fade in active">
+            <div id="vn" class="tab-pane fade">
                 <div class="table-responsive">
                     <table class="table table-bordered custom-table">
                         <thead>

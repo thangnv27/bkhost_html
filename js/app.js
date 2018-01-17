@@ -289,8 +289,8 @@ jQuery(document).ready(function () {
     }
     
     // Services
-    if(jQuery('.service-backup .owl-carousel').length > 0){
-        jQuery('.service-backup .owl-carousel').owlCarousel({
+    if(jQuery('.service-backup .owl-carousel, .service-manager-host .owl-carousel').length > 0){
+        jQuery('.service-backup .owl-carousel, .service-manager-host .owl-carousel').owlCarousel({
             autoplay: true,
             autoplayHoverPause: true,
             loop: true,
@@ -305,14 +305,98 @@ jQuery(document).ready(function () {
                     items: 1,
                     margin: 0
                 },
-                480: {
+                500: {
                     items: 2
                 },
-                768: {
+                992: {
                     items: 3
                 },
-                992: {
+                1200: {
                     items: 4
+                }
+            }
+        });
+    }
+    if(jQuery('.hosting-company .owl-carousel').length > 0){
+        jQuery('.hosting-company .owl-carousel').owlCarousel({
+            autoplay: true,
+            autoplayHoverPause: true,
+            loop: true,
+            margin: 15,
+            navRewind: false,
+            nav: true,
+            navText: ['',''],
+            dots: false,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 1,
+                    margin: 0
+                },
+                500: {
+                    items: 2
+                },
+                992: {
+                    items: 3
+                }
+            }
+        });
+    }
+    if(jQuery('.about-us .owl-carousel').length > 0){
+        jQuery('.about-us .owl-carousel').owlCarousel({
+            autoplay: true,
+            autoplayHoverPause: true,
+            loop: true,
+            margin: 30,
+            navRewind: false,
+            nav: true,
+            navText: ['',''],
+            dots: false,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 1,
+                    margin: 0
+                },
+                768: {
+                    items: 2
+                }
+            }
+        });
+    }
+    if(jQuery('.layer-17 .content-2 .owl-carousel').length > 0){
+        jQuery('.layer-17 .content-2 .owl-carousel').owlCarousel({
+            autoplay: false,
+            autoplayHoverPause: true,
+            loop: true,
+            margin: 15,
+            navRewind: false,
+            nav: true,
+            navText: ['',''],
+            dots: false,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 1,
+                    margin: 0
+                },
+                320: {
+                    items: 2
+                },
+                480: {
+                    items: 3
+                },
+                600: {
+                    items: 4
+                },
+                768: {
+                    items: 5
+                },
+                992: {
+                    items: 6
+                },
+                1200: {
+                    items: 8
                 }
             }
         });
@@ -340,6 +424,31 @@ jQuery(document).ready(function () {
             });
         }
     });
+    
+    jQuery("img").each(function(){
+        var img_src = this.src;
+        if(img_src && img_src.length > 0){
+            var img_alt = jQuery(this).attr('alt');
+            var img_name = img_src.split('/').pop().replace(/\"|\'|\)/g, '');
+            img_name = img_name.substring(0, img_name.lastIndexOf('.'));
+            
+            // For some browsers, `attr` is undefined; for others, `attr` is false. Check for both.
+            if (typeof img_alt !== typeof undefined && img_alt !== false) {
+                if(img_alt.length === 0){
+                    jQuery(this).attr('alt', img_name);
+                }
+            } else {
+                jQuery(this).attr('alt', img_name);
+            }
+        }
+    });
+    
+    if (jQuery("#accordion").length > 0) {
+        jQuery("#accordion").accordion({
+            collapsible: true,
+            heightStyle: "content"
+        });
+    }
     
     /* Counter */
     var counter = 0;

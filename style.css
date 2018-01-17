@@ -4,7 +4,7 @@ body {
 }
 a:hover{color: #000;}
 img{max-width: 100%;height: auto;outline: none}
-input:focus,button:focus{outline: none}
+input:focus,button:focus, .form-control{outline: none}
 iframe[name=google_conversion_frame] {
     position: absolute;
     left: -300px;
@@ -69,6 +69,12 @@ table, .table {max-width: 100%!important}
     font-weight: 300;
 }
 
+.icon-mui-ten-move-data{
+    background: url(images/icon-mui-ten-move-data.png) no-repeat right center;
+    padding-right: 30px;
+    display: inline-block
+}
+
 .font-size-18 {
     font-size: 1.8em;
     font-weight: 300;
@@ -78,6 +84,8 @@ table, .table {max-width: 100%!important}
     font-size: 1.7em;
     font-weight: 300;
 }
+.form-contact a{color: #333}
+.form-contact a:hover{color: #d41617}
 
 .support-intro .text-1 {
     margin-top: 44px;
@@ -97,12 +105,14 @@ table, .table {max-width: 100%!important}
 .btn-form .btn-submit {
     background: #ff9c00;
     border-color: #ff9c00;
+    border-radius: 0;
     color: #fff;
     width: 100px;
     margin-right: 24px;
 }
 
 .btn-form .btn-reset {
+    border-radius: 0;
     background: #ffd800;
     border-color: #ffd800;
     color: #fff;
@@ -174,7 +184,7 @@ body .slide {
 body .slide-2 {
     background: url("images/slide2.png");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: 100% 100%
 }
 
 body .slide-3 {
@@ -317,30 +327,27 @@ body .slide-16 {
 .layer-14 .content-3 {
     border-bottom: 1px solid #cccccc;
     padding-top: 42px;
-    padding-bottom: 75px;
+    padding-bottom: 42px
 }
 
 .layer-17 .slide-17 .bg-content-1 .btn-1,
-.layer-14 .content-1 .bg-content-1 .btn-1 {
+.layer-14 .content-1 .bg-content-1 .btn-1,
+.layer-17 .slide-17 .bg-content-1 .btn-2,
+.layer-14 .content-1 .bg-content-1 .btn-2{
     color: #c43636;
     border: 1px solid #d8d8d8;
     padding: 15px 50px;
     border-radius: 10px;
     text-decoration: none;
+    font-size: 1.4em;
+    display: inline-block
 }
-
-.layer-17 .slide-17 .bg-content-1 .btn-2,
-.layer-14 .content-1 .bg-content-1 .btn-2 {
+.layer-17 .slide-17 .bg-content-1 .btn-1:hover,
+.layer-14 .content-1 .bg-content-1 .btn-1:hover,
+.layer-17 .slide-17 .bg-content-1 .btn-2:hover,
+.layer-14 .content-1 .bg-content-1 .btn-2:hover {
     color: #fff;
-    background: #ff0000;
-    padding: 15px 50px;
-    border-radius: 10px;
-    text-decoration: none;
-}
-
-.screenshot-2 {
-    max-width: 100%;
-    height: auto;
+    background: #ff0000
 }
 
 .half-full-left, .half-full-right{
@@ -354,7 +361,7 @@ body .slide-16 {
     color: #fff;
     text-transform: uppercase;
     font-size: 4.2em;
-    font-weight: bold;
+    font-weight: 600;
     padding-top: 90px;
 }
 
@@ -393,7 +400,7 @@ body .slide-16 {
 
 .form-register-domain .text-register-domain {
     font-size: 3em;
-    font-weight: bold;
+    font-weight: 600;
     text-transform: uppercase;
     margin-top: 80px;
     margin-bottom: 60px;
@@ -517,7 +524,7 @@ body .slide-16 {
 
 .title-price-domain {
     font-size: 2.4em;
-    font-weight: bold;
+    font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 48px;
 }
@@ -587,10 +594,14 @@ body .slide-16 {
     font-weight: 300;
 }
 
-.webhosting, .service-backup, .service-manager-host, .hosting-company,
-.service-hosting {
+.webhosting, .service-backup, .service-manager-host, .hosting-company{
     text-align: center;
     padding-top: 100px;
+    padding-bottom: 50px;
+}
+.service-hosting {
+    text-align: center;
+    padding-top: 50px;
     padding-bottom: 50px;
 }
 
@@ -606,6 +617,30 @@ body .slide-16 {
     background-size: 100% 100%;
     position: relative;
 }
+.service-backup .owl-carousel .owl-next, .service-backup .owl-carousel .owl-prev,
+.service-manager-host .owl-carousel .owl-next, .service-manager-host .owl-carousel .owl-prev,
+.hosting-company .owl-carousel .owl-next, .hosting-company .owl-carousel .owl-prev,
+.about-us .owl-carousel .owl-next, .about-us .owl-carousel .owl-prev {
+    width: 31px;
+    height: 42px;
+    position: absolute;
+    top: calc(50% - 15px);
+    background-image: url(images/btn-nav-white.png);
+    background-repeat: no-repeat
+}
+.service-backup .owl-carousel .owl-next, .service-manager-host .owl-carousel .owl-next,
+.hosting-company .owl-carousel .owl-next, .hosting-company .owl-carousel .owl-next,
+.about-us .owl-carousel .owl-next, .about-us .owl-carousel .owl-next{
+    background-position: 0 0;
+    left: -35px
+}
+.service-backup .owl-carousel .owl-prev, .service-manager-host .owl-carousel .owl-prev,
+.hosting-company .owl-carousel .owl-prev, .hosting-company .owl-carousel .owl-prev,
+.about-us .owl-carousel .owl-prev, .about-us .owl-carousel .owl-prev{
+    background-position: -31px 0;
+    right: -35px
+}
+.about-us .owl-carousel .owl-next, .about-us .owl-carousel .owl-prev{top: calc(50% - 35px)}
 
 .service-manager-host {
     background: url('images/bg-price-manager-host.png');
@@ -625,6 +660,7 @@ body .slide-16 {
     background-repeat: no-repeat;
     background-size: 100% 100%;
     text-align: center;
+    padding: 50px 0 20px
 }
 
 .affilate-bkhost {
@@ -653,17 +689,6 @@ body .slide-16 {
 
 .list-customer .text-1 span {
     font-weight: 300;
-}
-
-.hosting-company .icon-left-backup-email, .hosting-company .icon-right-backup-email {
-    position: absolute;
-    top: 50%;
-}
-.hosting-company .icon-left-backup-email {
-    left: 15%;
-}
-.hosting-company .icon-right-backup-email {
-    right: 15%;
 }
 
 .webhosting .content-web-hosting, .service-backup .content-web-hosting,
@@ -699,12 +724,12 @@ body .slide-16 {
 .content-web-hosting .text-hosting-1 {
     text-transform: uppercase;
     font-size: 2.5em;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .content-web-hosting .text-hosting-2 {
     font-size: 5.3em;
-    font-weight: bold;
+    font-weight: 600
 }
 
 .content-web-hosting .text-hosting-3 {
@@ -725,15 +750,15 @@ body .slide-16 {
 }
 
 .content-web-hosting .discount-code {
-    margin: 20px 40px 57px 40px;
+    margin: 20px 15px
 }
 
 .content-web-hosting .discount-code-email {
-    margin: 20px 40px 35px 40px;
+    margin: 20px 15px
 }
 
 .service-manager-host .content-web-hosting .discount-code-email {
-    margin: 20px 30px 35px 30px;
+    margin: 20px 15px
 }
 
 .intro-backup-2 {
@@ -773,6 +798,7 @@ body .slide-16 {
     font-weight: 300;
 }
 
+.content-web-hosting .details-service{padding-left: 15px;padding-right: 15px}
 .details-service p {
     font-size: 16px;
     font-weight: 300;
@@ -801,7 +827,7 @@ body .slide-16 {
 .discount-code .text-hosting-6, .discount-code-email .text-hosting-6 {
     padding: 20px 0 20px 0;
     font-size: 2.8em;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .content-web-hosting .btn-register-hosting, .details-choose-service .btn-register-hosting {
@@ -857,7 +883,7 @@ body .slide-16 {
 
 .info-hosting .text-1 {
     font-size: 4.5em;
-    font-weight: bold;
+    font-weight: 600;
     text-transform: uppercase;
     margin-top: 77px;
     margin-bottom: 71px;
@@ -899,7 +925,7 @@ body .slide-16 {
 }
 
 .register-service .text-register-service span {
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .register-service .button-register-service {
@@ -913,7 +939,7 @@ body .slide-16 {
 
 .partner .text-partner-1 {
     font-size: 4.2em;
-    font-weight: bold;
+    font-weight: 600;
     text-transform: uppercase;
     margin-top: 90px;
 }
@@ -956,7 +982,7 @@ body .slide-16 {
 
 .count-vote-customer .text-count-1 {
     font-size: 6em;
-    font-weight: bold;
+    font-weight: 600;
     color: #fff;
 }
 
@@ -990,7 +1016,7 @@ body .slide-16 {
     text-transform: uppercase;
     font-size: 4.5em;
     font-weight: 500;
-    margin-bottom: 85px;
+    margin-bottom: 30px
 }
 
 .text-function-backup-2 {
@@ -1014,14 +1040,14 @@ body .slide-16 {
 
 .choose-service .text-choose-service {
     font-size: 3.6em;
-    font-weight: bold;
+    font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 70px;
 }
 
 .choose-service .text-details-1, .backup-intro .text-1 {
-    font-size: 1.8em;
-    font-weight: bold;
+    font-size: 1.6em;
+    font-weight: 600;
     margin-top: 35px;
 }
 
@@ -1041,7 +1067,7 @@ body .slide-16 {
 
 .choose-service .price-details {
     font-size: 2.4em;
-    font-weight: bold;
+    font-weight: 600;
     margin-top: 22px;
     color: #d71b32;
 }
@@ -1054,7 +1080,7 @@ body .slide-16 {
 
 .text-service-manager-host {
     font-size: 30px;
-    font-weight: bold;
+    font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 50px;
 }
@@ -1071,13 +1097,13 @@ body .slide-16 {
     background: url('images/bg-info-service-manager-host.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    height: 810px;
-    padding: 32% 35% 0 20%;
+    height: 700px;
+    padding: 30% 30% 0 20%
 }
 
 .content-jobs-manager-host {
-    padding: 100px 60px;
-    background: #fff;
+    padding: 80px 50px;
+    background: rgba(255,255,255,.7)
 }
 
 .content-jobs-manager-host p {
@@ -1093,7 +1119,7 @@ body .slide-16 {
 
 .wrap-text-content-jobs-2 p {
     font-size: 1.7em;
-    font-weight: bold;
+    font-weight: 600;
     color: #ff0000;
 }
 
@@ -1104,16 +1130,16 @@ body .slide-16 {
 
 .wrap-text-content-jobs-2 ul li {
     list-style-image: url('images/icon-text-content-host.png');
-    font-weight: 300px;
-    font-size: 1.7em;
+    font-weight: 300;
+    font-size: 1.5em
 }
 
 .note-for-customer {
-    padding-bottom: 81px;
+    padding-bottom: 50px
 }
 
 .note-for-customer .wrap-text-content-jobs-2 {
-    margin-top: 70px;
+    margin-top: 50px
 }
 
 .note-for-customer ul li {
@@ -1122,12 +1148,12 @@ body .slide-16 {
 
 .text-1-backup-intro p, .backup-intro .text-2 {
     font-size: 1.8em;
-    font-weight: 300;
+    font-weight: 300
 }
 
 .text-2-backup-intro p {
     font-size: 3.6em;
-    font-weight: bold;
+    font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 65px;
     margin-top: 80px;
@@ -1144,20 +1170,20 @@ body .slide-16 {
     color: #fff;
     text-transform: uppercase;
     font-size: 1.8em;
-    font-weight: bold;
+    font-weight: 600;
     padding: 25px 45px;
 }
 
 .info-technical .title-1 {
     margin-top: 100px;
     font-size: 3.6em;
-    font-weight: bold;
+    font-weight: 600;
     text-transform: uppercase;
 }
 
 .info-technical .text-1 {
     font-size: 2.5em;
-    font-weight: bold;
+    font-weight: 600;
     text-transform: uppercase;
     margin-top: 50px;
 }
@@ -1169,7 +1195,7 @@ body .slide-16 {
 
 .info-technical .text-4 {
     font-size: 2.5em;
-    font-weight: bold;
+    font-weight: 600;
     text-transform: uppercase;
 }
 
@@ -1197,7 +1223,7 @@ body .slide-16 {
     padding-bottom: 95px;
     border-bottom: 1px solid #d9d9d9;
 }
-
+.about-my-system .col-sm-6, .about-my-system-2 .col-sm-6{margin-bottom: 30px}
 .about-my-system-2 .title-2 {
     margin-bottom: 55px;
 }
@@ -1205,14 +1231,14 @@ body .slide-16 {
 .about-my-system .title-1, .about-my-system-2 .title-1  {
     margin-top: 100px;
     font-size: 4.5em;
-    font-weight: bold;
+    font-weight: 300;
     text-transform: uppercase;
     margin-bottom: 70px;
 }
 
 .about-my-system .text-1, .about-my-system-2 .text-1 {
     font-size: 1.8em;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .about-my-system .text-2, .about-my-system-2 .text-2 {
@@ -1222,20 +1248,21 @@ body .slide-16 {
 
 .resgister-website {
     text-align: center;
-    padding: 130px 0 95px 0;
+    padding: 100px 0
 }
-
+.resgister-website a{color: #333}
+.resgister-website a:hover{color: #d41617}
 .resgister-website .title-1, .bg-for-domain .title-1,
 .info-resgister-domain .title-1 {
-    font-size: 3em;
-    font-weight: bold;
+    font-size: 2.8em;
+    font-weight: 600;
     text-transform: uppercase;
 }
 
 .info-resgister-domain {
     text-align: center;
-    padding-top: 110px;
-    padding-bottom: 130px;
+    padding-top: 50px;
+    padding-bottom: 50px
 }
 
 .info-resgister-domain .title-1 {
@@ -1254,10 +1281,12 @@ body .slide-16 {
 .for-domain .bg-for-domain, .form-payment .bg-form-payment {
     background: #f3f3f3;
 }
+.for-domain .half-full-left, .for-domain .half-full-right{width: 48%}
+.for-domain .half-full-right{float: right}
 
 .bg-form-payment .title-1, .bg-form-contact .title-1 {
     font-size: 2.4em;
-    font-weight: bold;
+    font-weight: 600;
     text-transform: uppercase;
     margin-top: 50px;
     margin-bottom: 40px;
@@ -1276,55 +1305,26 @@ body .slide-16 {
     background: #d41617;
     padding: 0 50px;
     color: #fff;
+    overflow: hidden
 }
 
+.form-payment{
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 30px
+}
 .form-payment .wrap-checkbox, .form-contact .wrap-checkbox {
-    background: #fff;
-    position: relative;
-    border-radius: 5px;
-}
-
-.wrap-checkbox .custom-checkbox {
-    width: 28px;
-    height: 28px;
-    position: absolute;
-    top: 21px;
-    left: 17px;
-}
-
-.wrap-checkbox .text-checkbox-1 {
-    color: #000;
-    position: absolute;
-    top: 22px;
-    left: 57px;
-    font-size: 15px;
-}
-
-.wrap-checkbox img {
-    margin-top: 11px;
-}
-
-.wrap-checkbox .text-captcha-1 {
-    margin-top: 6px;
-}
-
-.wrap-checkbox .text-captcha-2 {
-    margin-right: 20px;
-}
-
-.wrap-checkbox .text-captcha-1, .wrap-checkbox .text-captcha-2 {
-    color: #a19ca7;
+    background: #F9F9F9;
+    border-radius: 5px
 }
 
 .form-payment .text-3 {
     font-size: 3em;
-    font-weight: 500;
-    margin-top: 33px;
+    font-weight: 500
 }
 
 .form-contact .text-3 {
     font-size: 1.8em;
-    font-weight: bold;
+    font-weight: 600;
     margin-top: 0;
     text-transform: uppercase;
 }
@@ -1340,25 +1340,82 @@ body .slide-16 {
     padding-bottom: 21px;
 }
 
+.accordion-title{
+    font-size: 14px;
+    margin: 0;
+    position: relative
+}
+.accordion-title a{
+    color: #333;
+    padding: 15px 30px;
+    margin-bottom: 2px;
+    display: block;
+    font-size: 1.3em;
+    font-weight: 500;
+    border-bottom: 1px solid #000;
+    -webkit-transition: border 200ms ease-out;
+    -moz-transition: border 200ms ease-out;
+    transition: border 200ms ease-out;
+}
+.accordion-title a:focus, .accordion-title a:visited{text-decoration: none}
+.accordion-title a span.glyphicon{
+    margin-right: 15px
+}
+.accordion-title a:before{
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 40px;
+    height: 47px;
+    background-image: url(images/icon-mui-ten-form-payment-black.png);
+    background-repeat: no-repeat;
+    background-position: center left
+}
+.accordion-title a:after{
+    content: "\e259";
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 49px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    height: 47px;
+    width: 47px;
+    text-align: right
+}
+.accordion-title.ui-accordion-header-active a:after{
+    content: "\e260"
+}
+.ui-accordion-content {
+    padding: 20px 0;
+    font-size: 1.4em;
+    font-weight: 300
+}
+.ui-accordion-content strong{font-weight: 500}
+
 .service-hosting .text-1 {
     font-size: 3.6em;
-    font-weight: bold;
-    margin-top: 50px;
-    text-transform: uppercase;
+    font-weight: 600;
+    text-transform: uppercase
 }
 
-.nav-hosting a {
+.nav-hosting .nav-tabs>li>a {
     color: #000;
     text-transform: uppercase;
-    font-size: 1.8em;
-    font-weight: bold;
-    padding: 10px 10px 40px 10px ;
+    font-size: 1.6em;
+    font-weight: 600;
+    padding: 0 15px 15px
 }
 
-.nav-hosting .nav-tabs>li.active>a, .nav-hosting .nav-tabs>li.active>a:focus,
-.nav-hosting .nav-tabs>li.active>a:hover,
-.nav-support .nav-tabs>li.active>a, .nav-support .nav-tabs>li.active>a:focus,
-.nav-support .nav-tabs>li.active>a:hover {
+.nav-hosting .nav-tabs>li.active>a, .nav-hosting .nav-tabs>li>a:focus,.nav-hosting .nav-tabs>li>a:hover,
+.nav-support .nav-tabs>li.active>a, .nav-support .nav-tabs>li>a:focus,.nav-support .nav-tabs>li>a:hover {
+    background: #fff;
     color: #d21d22;
     border-top: none;
     border-left: none;
@@ -1366,23 +1423,31 @@ body .slide-16 {
     border-bottom: 2px solid #d32324;
 }
 
-.nav-support ul {
-    border: none ;
+.nav-support ul.nav-tabs {
+    border: none;
 }
-
-.nav-support a {
+.nav-support ul.nav-tabs > li {width: 25%;text-align: center}
+.nav-support ul.nav-tabs > li > a {
     color: #000;
     text-transform: uppercase;
-    font-size: 1.8em;
-    font-weight: bold;
-    padding: 0 0 20px 0 ;
-    margin: 0 85px;
+    font-size: 1.6em;
+    font-weight: 600;
+    padding: 20px;
+    border-bottom: 2px solid #fff
 }
 
 .support-intro {
     text-align: center;
+    padding-bottom: 20px
 }
-
+.support-intro .col-xs-6{margin-bottom: 30px}
+.support-intro-1 .content .half-full-left{
+    background: #efefef;
+    padding-right: 0
+}
+.support-intro-1 .content .half-full-right{
+    padding-left: 30px
+}
 .support-intro-1 .content .text-2 {
     font-size: 3em;
     font-weight: 500;
@@ -1390,7 +1455,7 @@ body .slide-16 {
 
 .support-intro-1 .content .text-3, .wrap-content .text-2 {
     font-size: 4.8em;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .support-intro-1 {
@@ -1407,20 +1472,16 @@ body .slide-16 {
     font-size: 1.8em;
     font-weight: 300;
 }
-
-.screenshot {
-    width: 100%;
-    height: auto;
-}
-
-.backup-intro .screenshot {
-    margin-bottom: 110px;
+.icon-mui-ten-quan-he-doi-tac{
+    background: url(images/icon-mui-ten-quan-he-doi-tac.png) no-repeat 0 5px;
+    padding-left: 30px;
+    margin-bottom: 20px
 }
 
 .tab-support {
-    margin-top: 56px;
-    padding-bottom: 123px;
-    border-bottom: 1px solid #d1c8c1;
+    margin-top: 30px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #d1c8c1
 }
 
 .intro-affiliate .text-1 {
@@ -1449,25 +1510,26 @@ body .slide-16 {
 }
 
 .affilate-bkhost .text-1 span {
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .affilate-bkhost .wrap-affilate {
     background: #fff;
-    padding-top: 93px;
+    padding-top: 50px;
     padding-left: 73px;
     padding-right: 78px;
-    padding-bottom: 143px;
+    padding-bottom: 50px;
 }
 
 .list-customer .wrap-list-customer {
-    padding: 50px 55px 100px 55px;
+    padding: 50px 55px 50px 55px;
     background: #fff;
 }
 
 .wrap-list-customer .add-border {
     border-bottom: 1px solid #e5e5e5
 }
+.wrap-list-customer .add-border:last-child{border-bottom: none}
 .wrap-list-customer .add-border .item{
     padding-bottom: 30px;
     padding-top: 30px
@@ -1475,7 +1537,7 @@ body .slide-16 {
 
 .wrap-list-customer .text-2 {
     font-size: 1.8em;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .wrap-affilate .text-2 {
@@ -1496,15 +1558,14 @@ body .slide-16 {
 
 .video-support-affilate .text-1, .video-support-affilate .text-2 {
     font-size: 4.8em;
-    font-weight: bold;
+    font-weight: 500;
     text-transform: uppercase;
     margin-top: 86px;
 }
-
 .video-support-affilate .text-1 {
     margin-bottom: 66px;
 }
-
+.video-support-affilate .table{font-size: 1.4em}
 .intro-customer-bkhost {
     padding-top: 60px;
     padding-bottom: 90px;
@@ -1571,7 +1632,7 @@ body .slide-16 {
 
 .move-data .text-1 span {
     font-size: 48px;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .solution-webhosting {
@@ -1582,7 +1643,7 @@ body .slide-16 {
 
 .solution-webhosting .text-1 {
     font-size: 4.8em;
-    font-weight: bold;
+    font-weight: 600;
     text-transform: uppercase;
     margin: 0;
 }
@@ -1666,23 +1727,24 @@ body .slide-16 {
 
 .layer-16 .content-1 {
     margin-top: 30px;
+    padding-bottom: 30px
 }
 
 .layer-16 .content-2 .text-1 {
-    margin-top: 100px;
+    margin-top: 50px;
     font-size: 3em;
     font-weight: 500;
 }
 
 .layer-16 .content-2 .text-2 {
     font-size: 4.8em;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .layer-16 .content-3 {
     margin-top: 55px;
 }
-
+.layer-16 .content-3 .col-xs-6{margin-bottom: 30px}
 .layer-16 .content-3 img {
     margin-bottom: 40px;
 }
@@ -1716,8 +1778,7 @@ body .slide-16 {
 .layer-16 .content-6 {
     background: url('images/tai-sao-chon-bkhost-02.png');
     background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin-bottom: 200px;
+    background-size: 100% 100%
 }
 
 .layer-16 .content-4 .text-1, .layer-16 .content-5 .text-1,
@@ -1725,7 +1786,7 @@ body .slide-16 {
     font-size: 2.4em;
     font-weight: 500;
     text-transform: uppercase;
-    margin-bottom: 25px;
+    margin-bottom: 30px
 }
 
 .layer-16 .content-4 .text-2,
@@ -1757,33 +1818,20 @@ body .slide-16 {
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding-top: 48px;
-    position: relative;
+    padding-bottom: 20px;
+    position: relative
 }
-
-.about-us .icon-left-backup-email {
-    position: absolute;
-    left: 15%;
-    top: 50%;
-}
-
-.about-us .icon-right-backup-email {
-    position: absolute;
-    right: 15%;
-    top: 50%;
-}
-
 .about-us .intro-about-us {
     background: url(images/bg-intro-about-us.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 55px 35px;
-    margin-bottom: 40px;
+    margin-bottom: 30px
 }
-
 .about-us .intro-about-us img {
-    margin-bottom: 40px;
+    margin: 30px auto;
+    width: auto
 }
-
 .about-us .text-1 {
     font-size: 3em;
     font-weight: 300;
@@ -1791,13 +1839,12 @@ body .slide-16 {
     text-transform: uppercase;
     margin-bottom: 35px;
 }
-
 .about-us .intro-about-us .text-2 {
     font-size: 1.6em;
     font-weight: 300;
     margin-bottom: 25px;
+    min-height: 218px
 }
-
 .about-us .intro-about-us .text-3 {
     font-size: 2.5em;
     font-weight: 300;
@@ -1806,7 +1853,6 @@ body .slide-16 {
     border-top: 1px solid #d7d7d7;
     padding-top: 25px;
 }
-
 .about-us .intro-about-us .text-4 {
     font-size: 1.7em;
     font-weight: 300;
@@ -1847,6 +1893,7 @@ body .slide-16 {
     font-size: 2em;
     text-decoration: none;
     margin-right: 20px;
+    display: inline-block
 }
 
 .layer-17 .content-2 .order {
@@ -1856,14 +1903,16 @@ body .slide-16 {
     border-radius: 2px;
     font-size: 2em;
     text-decoration: none;
+    display: inline-block
 }
 
 .layer-17 .content-2 .loading {
-    margin-top: 73px;
+    margin-top: 70px;
 }
 
 .layer-17 .content-2 ul {
-    margin-bottom: 74px;
+    margin-bottom: 50px;
+    padding-left: 0
 }
 
 .layer-17 .content-2 ul li {
@@ -1878,18 +1927,30 @@ body .slide-16 {
     padding: 0 10px;
 }
 
-.layer-17 .content-2 ul li a.active {
-    color: #f21a22;
+.layer-17 .content-2 .owl-carousel .owl-item{text-align: center}
+.layer-17 .content-2 .owl-carousel .owl-item a.active{color: #f21a22}
+.layer-17 .content-2 .owl-carousel .owl-next, .layer-17 .content-2 .owl-carousel .owl-prev{
+    position: absolute;
+    top: 0;
+    width: 32px;
+    height: 24px
 }
-
-.layer-17 .content-2 ul li .border-right {
-    border-right: 1px solid #a1a1a1;
+.layer-17 .content-2 .owl-carousel .owl-next{
+    background: url(images/icon-mui-ten-left-slide-thiet-ke-web.png) no-repeat left center;
+    left: 0
+}
+.layer-17 .content-2 .owl-carousel .owl-prev{
+    background: url(images/icon-mui-ten-right-slide-thiet-ke-web.png) no-repeat right center;
+    right: 0
 }
 
 .layer-17 .content-2 .row-1 {
     margin-bottom: 104px;
 }
-
+.layer-17 .content-2 .row-1 .item{
+    margin-bottom: 30px;
+    overflow: hidden
+}
 .layer-14 .content-1 .text-1 {
     font-size: 4.5em;
     font-weight: 300;
@@ -1911,6 +1972,16 @@ body .slide-16 {
     font-size: 1.7em;
     font-weight: 300;
 }
+.layer-14 .content-1 ul.text-4 {
+    margin: 0 0 30px;
+    padding: 0;
+    list-style: none
+}
+.layer-14 .content-1 ul.text-4 > li{
+    background: url(images/icon-mui-ten-web-yeu-cau.png) no-repeat 0 5px;
+    padding-left: 25px;
+    margin-bottom: 5px
+}
 
 .layer-14 .content-2 {
     background: #f1f1f1;
@@ -1927,10 +1998,156 @@ body .slide-16 {
 .layer-14 .content-2 .table {
     font-size: 1.7em;
     font-weight: 300;
+    background: #fff
 }
 
 .width-15 {
     width: 15vw;
+}
+
+.specifications{
+    font-size: 1.4em;
+    padding: 30px 0
+}
+.specifications .column-header {
+    border: 1px solid #ccc;
+    min-height: 160px
+}
+.specifications .column-header .pkg-name{
+    background: #D41617;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold
+}
+.specifications .column-header .pkg-desc{
+    padding: 10px;
+    font-size: 13px
+}
+.specifications table td{
+    border-top: none!important;
+    padding: 5px!important;
+    vertical-align: middle!important
+}
+.specifications table td .rn {
+    float: left;
+    width: calc(100% - 30px);
+    text-align: left
+}
+.specifications table td .rn + .fa{
+    color: #D41617;
+    float: right;
+    margin-top: 4px;
+    cursor: pointer
+}
+.specifications table td .val{
+    border: 1px solid #ccc;
+    padding: 8px;
+    display: block;
+    text-align: center
+}
+.specifications table td .val-odd{background: #f1f1f1}
+.specifications table td .val-even{background: #fff}
+.specifications table td .fa-check-circle{color: green}
+.specifications table td .fa-plus-square{color: #D41617;margin-right: 5px}
+.specifications table td .btn{
+    border-radius: 0;
+    display: block;
+    color: #fff;
+    text-transform: uppercase
+}
+.specifications table td .block-title{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 22px
+}
+.specifications table td .block-title1 span:before, .specifications table td .block-title1 span:after{width: 394px}
+.specifications table td .block-title2 span:before, .specifications table td .block-title2 span:after{width: 430px}
+.specifications table td .block-title3 span:before, .specifications table td .block-title3 span:after{width: 506px}
+.specifications table td .block-title4 span:before, .specifications table td .block-title4 span:after{width: 445px}
+.specifications table td .block-title5 span:before, .specifications table td .block-title5 span:after{width: 458px}
+.specifications table td .block-title6 span:before, .specifications table td .block-title6 span:after{width: 420px}
+
+.block-title {
+    line-height: .5;
+    text-align: center;
+    text-transform: uppercase;
+    color: #d41617;
+    margin: 0 0 50px;
+    font-size: 30px;
+    font-weight: 600
+}
+.block-title span:after, .block-title span:before {
+    content: "";
+    position: absolute;
+    border-top: 1px solid #ccc;
+    top: 8px;
+    width: 460px;
+    height: 0;
+}
+.block-title span:before {
+    right: 100%;
+    margin-right: 15px;
+}
+.block-title span:after {
+    left: 100%;
+    margin-left: 15px;
+}
+.block-title span {
+    display: inline-block;
+    position: relative;
+}
+
+.tab-support .tab-pane{padding: 30px 0;font-size: 1.4em}
+.tab-support .tab-pane .block-title{text-transform: none}
+.tab-support .tab-pane .block-title1 span:before, .tab-support .tab-pane .block-title1 span:after{width: 300px}
+.tab-support .tab-pane .block-title2 span:before, .tab-support .tab-pane .block-title2 span:after{width: 518px}
+.tab-support .tab-pane .block-title3 span:before, .tab-support .tab-pane .block-title3 span:after{width: 450px}
+.tab-support .tab-pane .block-title4 span:before, .tab-support .tab-pane .block-title4 span:after{width: 430px}
+.tab-support .tab-pane .block-title5 span:before, .tab-support .tab-pane .block-title5 span:after{width: 450px}
+.tab-support .tab-pane .block-title6 span:before, .tab-support .tab-pane .block-title6 span:after{width: 323px}
+.tab-support .tab-pane .block-title7 span:before, .tab-support .tab-pane .block-title7 span:after{width: 318px}
+.tab-support .tab-pane .fa{color: #d21d22}
+.tab-support .tab-pane .support-provide .item{margin-bottom: 30px}
+.tab-support .tab-pane .support-provide .item h3{margin-top: 0;color: #d21d22}
+.tab-support .tab-pane .support-provide .item h3 span{color: #333}
+.tab-support .tab-pane .support-sponsor .item {
+    border: 1px solid #ccc;
+    padding: 20px;
+    min-height: 206px
+}
+.tab-support .tab-pane .support-sponsor .item h3, 
+.tab-support .tab-pane .support-speed .item h3{margin: 0 0 15px;color: #d21d22}
+.tab-support .tab-pane .support-sponsor .item .support-method{margin-right: 20px}
+.tab-support .tab-pane .support-procedure{border: 1px solid #ccc;margin: 30px 0}
+.tab-support .tab-pane .support-procedure .right, .tab-support .tab-pane .support-setup .left{padding: 20px}
+.tab-support .tab-pane .support-procedure h2, .tab-support .tab-pane .support-setup h2{
+    text-transform: uppercase;
+    margin: 0 0 20px;
+    color: #d21d22
+}
+.tab-support .tab-pane .support-procedure h3, .tab-support .tab-pane .support-setup h3{margin: 0 0 30px}
+.tab-support .tab-pane .support-setup{
+    background: url(images/ho-tro.jpg) no-repeat right center;
+    border: 1px solid #ccc
+}
+.tab-support .tab-pane .support-insurance-service{text-align: center;margin-bottom: 40px}
+.tab-support .tab-pane .support-hosting{margin-bottom: 40px}
+.tab-support .tab-pane .support-hosting2{
+    border: 1px solid #ccc;
+    padding: 30px 0;
+    margin-bottom: 50px;
+    text-align: center
+}
+.tab-support .tab-pane .support-anti-malware{margin-bottom: 30px}
+.tab-support .tab-pane .support-difficult{margin-top: 50px;margin-bottom: 30px;border: 1px solid #ccc;}
+.tab-support .tab-pane .support-difficult .left{padding: 20px}
+.tab-support .tab-pane .support-difficult h3{color: #d21d22;margin: 0 0 30px}
+.tab-support .tab-pane .support-difficult .support-method{
+    margin-right: 10px;
+    width: 20%;
+    display: inline-block
 }
 
 /* footer */
@@ -1943,7 +2160,7 @@ footer .contact-footer {
 }
 .contact-footer .title-contact {
     font-size: 2.2em;
-    font-weight: bold;
+    font-weight: 600;
     text-transform: uppercase
 }
 
@@ -2013,7 +2230,7 @@ footer .notification-contact .left{
 }
 footer .notification-contact .left .txt1{
     font-size: 2.4em;
-    font-weight: bold;
+    font-weight: 600;
     margin-right: 5px
 }
 footer .notification-contact .left .txt2{
@@ -2450,6 +2667,32 @@ footer .copy-right {
     .intro-company .icon-footer{margin-top: 40px}
     .intro-customer-bkhost{padding: 50px 0}
     .list-customer .text-1{font-size: 4em}
+    .function-backup{padding-bottom: 60px}
+    .about-my-system .title-1, .about-my-system-2 .title-1, .move-data-2 .text-3{font-size: 3.8em}
+    .move-data-2 .text-left{padding: 80px 40px}
+    .solution-webhosting .text-4{font-size: 3.8em}
+    .text-2-backup-intro p{font-size: 3em}
+    .info-technical .text-1, .info-technical .text-4{font-size: 2em;margin-top: 0}
+    .info-technical .title-1{margin-bottom: 30px;font-size: 3em}
+    .form-contact .text-4{font-size: 1.4em}
+    .nav-hosting .nav-tabs>li>a{padding: 0 10px 10px;font-size: 1.4em}
+    .support-intro-1 .text-1, .support-intro-1 .content .text-4, .wrap-content .text-3{font-size: 1.6em}
+    .support-intro-1 .content .text-2{font-size: 2.4em}
+    .support-intro-1 .content .text-3, .wrap-content .text-2{font-size: 4em}
+    .support-intro-1 .content .half-full-left{padding-top: 30px;padding-bottom: 30px}
+    .resgister-website{padding: 50px 0}
+    .bg-for-domain .title-1{font-size: 2.2em}
+    .nav-support ul.nav-tabs > li{width: auto}
+    .nav-support ul.nav-tabs > li > a{padding: 20px 30px}
+    .tab-support .tab-pane .block-title1 span:before, .tab-support .tab-pane .block-title1 span:after{width: 202px}
+    .tab-support .tab-pane .block-title2 span:before, .tab-support .tab-pane .block-title2 span:after{width: 418px}
+    .tab-support .tab-pane .block-title3 span:before, .tab-support .tab-pane .block-title3 span:after{width: 350px}
+    .tab-support .tab-pane .block-title4 span:before, .tab-support .tab-pane .block-title4 span:after{width: 330px}
+    .tab-support .tab-pane .block-title5 span:before, .tab-support .tab-pane .block-title5 span:after{width: 349px}
+    .tab-support .tab-pane .block-title6 span:before, .tab-support .tab-pane .block-title6 span:after{width: 224px}
+    .tab-support .tab-pane .block-title7 span:before, .tab-support .tab-pane .block-title7 span:after{width: 219px}
+    .layer-16 .content-2 .text-1{margin-top: 0}
+    .about-us .intro-about-us .text-2{min-height: 240px}
     footer .notification-contact .container{padding-left: 160px}
     footer .notification-contact .left .txt1{font-size: 2.0em}
     footer .notification-contact .left .txt2{font-size: 1.4em}
@@ -2462,7 +2705,8 @@ footer .copy-right {
 @media (max-width: 991px){
     #desktop-header{display: none}
     .mobile-header{display: block}
-    body .slide{margin-top: 51px}
+    body .slide, body .slide-2, body .slide-3, body .slide-4, body .slide-5, body .slide-6, body .slide-7, body .slide-8, body .slide-9, 
+    body .slide-10, body .slide-11, body .slide-12, body .slide-13, body .slide-14, body .slide-15, body .layer-14, body .layer-16{margin-top: 51px}
     .text-slide-1{font-size: 2.6em}
     .text-slide-2{font-size: 2em;padding-bottom: 80px}
     .text-slide-3 p{font-size: 1.5em;padding-bottom: 10px}
@@ -2491,12 +2735,89 @@ footer .copy-right {
     .slide-intro-customer-bkhost .text-1{font-size: 3em}
     .slide-intro-customer-bkhost .text-1 span{font-size: 50px}
     .list-customer .text-1{font-size: 3em}
+    .intro-backup-2 .intro-backup-content{text-align: center}
+    .function-backup{padding-bottom: 50px}
+    .text-function-backup-2, .text-function-backup-3{text-align: center}
+    .choose-service .text-details-2{font-size: 1.4em}
+    .intro-move-data{padding-bottom: 30px}
+    .move-data .text-right{text-align: center}
+    .move-data .text-1{padding-top: 50px}
+    .move-data .text-1, .move-data .text-2, .move-data-2 .text-1{text-align: center}
+    .about-my-system .title-1, .about-my-system-2 .title-1{margin-top: 50px;font-size: 3em}
+    .move-data-2{padding-top: 50px;padding-bottom: 50px}
+    .move-data-2 .text-left{margin-top: 30px}
+    .move-data-2 .text-2{text-align: center}
+    .move-data-2 .text-3{font-size: 3em;margin-top: 50px}
+    .icon-mui-ten-move-data{background: none;padding-right: 0}
+    .text-service-manager-host-1{padding: 20%;margin-bottom: 30px;height: 500px}
+    .text-service-manager-host-2{padding: 20%;height: 500px}
+    .content-jobs-manager-host{padding: 50px 30px}
+    .info-service-manager-host .half-full-left .text-right{text-align: left}
+    .info-service-manager-host .half-full-left + .col-md-6{clear: both}
+    .note-for-customer .wrap-text-content-jobs-2{margin-top: 20px}
+    .service-backup .owl-carousel .owl-prev, .service-manager-host .owl-carousel .owl-prev,.about-us .owl-carousel .owl-prev{right: -15px}
+    .service-backup .owl-carousel .owl-next, .service-manager-host .owl-carousel .owl-next,.about-us .owl-carousel .owl-next{left: -15px}
+    .solution-webhosting{margin-top: 50px}
+    .solution-webhosting .text-1, .solution-webhosting .text-2{text-align: center}
+    .solution-webhosting .text-4{font-size: 3em}
+    .network-architecture, .network-architecture .text-right, .network-architecture .text-left{text-align: center}
+    .bg-form-payment .text-center{margin: 0;overflow: hidden}
+    .form-payment .custom-padding {padding-left: 30px;padding-top: 30px}
+    .info-technical .title-1{margin-bottom: 30px;font-size: 3em}
+    .info-technical .text-left{text-align: center}
+    .info-technical .text-right{text-align: center}
+    .specifications table td .block-title{text-align: left;padding-left: 180px}
+    .specifications table td .block-title span:before, .specifications table td .block-title span:after{display: none}
+    .specifications .table-responsive {
+        width: 100%;
+        margin-bottom: 15px;
+        overflow-y: hidden;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        border: 1px solid #ddd;
+    }
+    .specifications table, .specifications .table{width: 1080px;max-width: 1080px!important}
+    .specifications .table td{width: 180px!important}
+    .bg-form-contact{margin-bottom: 30px}
+    .info-hosting .col-xs-6{margin-bottom: 30px}
+    .support-intro-1 .text-1{margin-bottom: 30px}
+    .support-intro-1 .content .half-full-left{
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-right: 30px;
+        margin-bottom: 30px;
+        text-align: center
+    }
+    .resgister-website{padding: 50px 0 20px}
+    .resgister-website .title-1{font-size: 2.2em}
+    .bg-for-domain .title-1{font-size: 2.2em}
+    .for-domain .half-full-left, .for-domain .half-full-right{width: 100%;padding: 30px}
+    .for-domain .half-full-left .text-right, .for-domain .half-full-right .text-left{text-align: center}
+    .contact-2{margin-top: 0}
+    .nav-support ul.nav-tabs > li{width: 100%}
+    .nav-support ul.nav-tabs > li > a{padding: 10px;border-bottom-color: #ccc}
+    .tab-support .tab-pane .block-title span:before, .tab-support .tab-pane .block-title span:after{display: none}
+    .layer-16 .content-2 .bg-img-support{padding: 0}
+    .layer-16 .content-2 .row{margin: 0}
+    .layer-16 .screenshot{margin-bottom: 30px}
+    .layer-16 .content-4 .text-3, .layer-16 .content-5 .text-3, .layer-16 .content-6 .text-3{margin-bottom: 30px}
+    .layer-16 .content-4 .text-1, .layer-16 .content-5 .text-1, .layer-16 .content-6 .text-1{text-align: center}
+    .bg-img-support .col-md-offset-4{padding: 15px;text-align: center}
+    .wrap-content .content .text-right{text-align: center;margin-bottom: 30px}
+    .about-us .intro-about-us .text-2{min-height: 260px;font-size: 1.4em}
+    .about-us .intro-about-us .text-3{font-size: 2em;margin: 0}
+    .about-us .text-1{font-size: 2em;padding: 0 15px}
+    .layer-14 .content-1 .bg-content-1{margin-top: 30px}
+    .layer-14 .content-1 .text-1{font-size: 3em;font-weight: 500}
+    .layer-14 .content-1 .text-2, .layer-14 .content-1 .text-4, .layer-14 .content-2 .table{font-size: 1.4em}
+    .layer-17 .slide-17 .bg-content-1 .text-1, .layer-14 .content-1 .bg-content-1 .text-1{margin-top: 15px;font-size: 2em}
+    footer .notification-contact .left{border-right: none}
     footer .notification-contact .container:before{display: none}
     footer .notification-contact .container{padding-left: 15px}
     footer .notification-contact .left{margin-bottom: 15px}
     footer .contact-footer{padding-top: 30px;padding-bottom: 30px}
 }
 @media (max-width: 767px){
+    .block-title{line-height: 1.2em}
     .count-vote-customer .text-count-2{margin-bottom: 30px}
     .title-price-domain{font-size: 2em}
     .price-domain ul{margin-left: 0}
@@ -2515,10 +2836,36 @@ footer .copy-right {
     }
     .list-customer .wrap-list-customer{padding-bottom: 50px}
     .wrap-list-customer .add-border{border: none}
+    .about-my-system .text-1, .about-my-system-2 .text-1, .about-my-system .text-2, .about-my-system-2 .text-2{text-align: center}
+    .about-my-system-2{padding-bottom: 30px}
+    .text-service-manager-host-1, .text-service-manager-host-2{padding: 10%;height: 300px}
+    .content-jobs-manager-host p{font-size: 20px}
+    .text-backup-intro{margin: 30px 0}
+    .text-2-backup-intro p, .choose-service .text-choose-service{font-size: 2.5em}
+    .btn-view-info-technical a{padding: 20px;font-size: 1.4em}
+    .choose-service{padding-bottom: 50px}
+    .choose-service .details-choose-service{margin-bottom: 30px}
+    .specifications .column-header{min-height: inherit;min-height: max-content}
+    .form-contact .text-4{font-size: 1.4em}
+    .content-web-hosting .text-hosting-1{font-size: 2em}
+    .service-hosting .text-1{font-size: 3em}
+    .nav-hosting .nav-tabs{margin-bottom: 15px}
+    .nav-hosting .nav-tabs>li{width: 100%}
+    .nav-hosting .nav-tabs>li>a{display: block;background: #ddd;padding: 10px;margin-bottom: 2px}
+    .nav-hosting .nav-tabs>li.active>a, .nav-hosting .nav-tabs>li.active>a:focus,
+    .nav-hosting .nav-tabs>li.active>a:hover,
+    .nav-support .nav-tabs>li.active>a, .nav-support .nav-tabs>li.active>a:focus,
+    .nav-support .nav-tabs>li.active>a:hover {background: #d21d22;color: #fff;border-bottom: none}
+    .info-hosting .text-1{font-size: 3em;margin-top: 50px;margin-bottom: 50px}
+    .info-hosting .col-xs-6:nth-child(3){clear: both}
+    .resgister-website .col-sm-6{margin-bottom: 30px}
+    .wrap-content .content .text-5{margin-bottom: 30px}
+    .layer-14 .content-1 .text-1{font-size: 2.2em}
 }
 @media (max-width: 600px){
 }
 @media (max-width: 480px){
+    .backup-intro .col-xs-4, .choose-service .col-xs-4, .info-hosting .col-xs-6{width: 100%}
 }
 @media (max-width: 425px){
 }
@@ -2526,14 +2873,20 @@ footer .copy-right {
     .content .intro-content-2 .col-xs-6, .count-vote-customer .col-xs-6{width: 100%}
     .wrap-list-customer .add-border .col-xs-3, .wrap-list-customer .add-border .col-xs-9{width: 100%;text-align: center}
     .wrap-list-customer .add-border .col-xs-3 img{width: auto;margin: 0 auto 15px}
+    .solution-webhosting .text-4, .list-customer .text-1{font-size: 2em}
+    .layer-16 .content-3 .col-xs-6:nth-child(3){clear: both}
 }
 @media (max-width: 390px){
 }
 @media (max-width: 375px){
 }
 @media (max-width: 360px){
+    .support-intro .col-xs-6{width: 100%}
 }
 @media (max-width: 320px){
+}
+@media (max-width: 319px){
+    .layer-16 .content-3 .col-xs-6{width: 100%}
 }
 @media (max-width: 240px){
 }

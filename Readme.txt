@@ -1,0 +1,4 @@
+- popup video: quan-he-hop-tac.php, ve-chung-toi.php
+- load data tu web5s: thiet-ke-web-1.php
+- chen link vao cac page
+- Chon HDH khi dang ky hosting

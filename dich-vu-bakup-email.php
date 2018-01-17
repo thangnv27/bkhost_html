@@ -1,8 +1,8 @@
 <?php include("header.php"); ?>
 <div class="slide-3 text-center">
     <div class="container">
-        <p class="text-slide-1">Dịch vụ backup email</p>
-        <p class="text-slide-2">Dịch vụ dành cho các dịch vụ Email Server</p>
+        <h1 class="text-slide-1">Dịch vụ backup email</h1>
+        <h2 class="text-slide-2">Dịch vụ dành cho các dịch vụ Email Server</h2>
     </div>
 </div>
 <div class="text-slide-3">
@@ -15,15 +15,15 @@
 <div class="backup-intro">
     <div class="container">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-xs-4">
                 <img src="images/icon-backup.png">
                 <p class="text-backup-intro">Backup lên đến 5 phút mỗi lần</p>
             </div>
-            <div class="col-md-4">
+            <div class="col-xs-4">
                 <img src="images/icon-safe.png">
                 <p class="text-backup-intro">Bảo mật tuyệt đối với mã hóa<br>AES-256</p>
             </div>
-            <div class="col-md-4">
+            <div class="col-xs-4">
                 <img src="images/icon-backup.png">
                 <p class="text-backup-intro">Phục hồi nhanh chóng, ngay kể cả<br>khi dữ liệu bị xóa</p>
             </div>
@@ -121,28 +121,23 @@
     </div>
 </div>
 <div class="intro-backup-2">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <div class="img-intro-backup">
-                    <img src="images/group.png">
-                </div>
-            </div>
-            <div class="col-md-5 col-md-offset-1">
-                <div class="intro-backup-content">
-                    <p class="text-intro-backup-1">
-                        Dịch vụ backup<br><b>Bkhost</b>
-                    </p>
-                    <p class="text-intro-backup-2">
-                        Dịch vụ backup là dịch vụ BKHOST đưa ra nhằm đáp ứng nhu cầu sử dụng của quý khách hàng. Với dịch vụ backup quý khách sẽ không còn phải lo lắng việc mất dữ liệu trên các dịch vụ của mình vì những lý do như: server bị hỏng phần cứng, ổ cứng bị hư, máy tính bị crash, VPS bị xóa nhầm dữ liệu, database bị xóa nhầm dữ liệu, hệ thống mail Exchange bị lỗi do thao tác sai trong quá trình quản trị hệ thống và còn rất nhiều nguyên nhân khác có thể dẫn đến việc mất dữ liệu trên server và VPS của mình.
-                    </p>
-                    <p class="text-intro-backup-3">
-                        Với dịch vụ backup của BKHOST quý khách hàng hoàn toàn có thể chủ động lên lịch backup cho server cũng như VPS của mình chỉ với vài click đơn giản. Dữ liệu của quý khách có thể đảm bảo an toàn bảo mật tại hệ thống backup riêng biệt của BKHOST và có thể backup lên đến 5 phút một lần và lưu đến nhiều bản khác nhau.
-                    </p>
-                </div>
-            </div>
+    <div class="img-intro-backup half-full-left hidden-sm hidden-xs">
+        <img src="images/group.png" />
+    </div>
+    <div class="half-full-right">
+        <div class="intro-backup-content">
+            <p class="text-intro-backup-1">
+                Dịch vụ backup<br><b>Bkhost</b>
+            </p>
+            <p class="text-intro-backup-2">
+                Dịch vụ backup là dịch vụ BKHOST đưa ra nhằm đáp ứng nhu cầu sử dụng của quý khách hàng. Với dịch vụ backup quý khách sẽ không còn phải lo lắng việc mất dữ liệu trên các dịch vụ của mình vì những lý do như: server bị hỏng phần cứng, ổ cứng bị hư, máy tính bị crash, VPS bị xóa nhầm dữ liệu, database bị xóa nhầm dữ liệu, hệ thống mail Exchange bị lỗi do thao tác sai trong quá trình quản trị hệ thống và còn rất nhiều nguyên nhân khác có thể dẫn đến việc mất dữ liệu trên server và VPS của mình.
+            </p>
+            <p class="text-intro-backup-3">
+                Với dịch vụ backup của BKHOST quý khách hàng hoàn toàn có thể chủ động lên lịch backup cho server cũng như VPS của mình chỉ với vài click đơn giản. Dữ liệu của quý khách có thể đảm bảo an toàn bảo mật tại hệ thống backup riêng biệt của BKHOST và có thể backup lên đến 5 phút một lần và lưu đến nhiều bản khác nhau.
+            </p>
         </div>
     </div>
+    <div class="clearfix"></div>
 </div>
 <div class="function-backup">
     <div class="container">
@@ -177,7 +172,7 @@
             Tùy chọn dịch vụ bổ sung
         </p>
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-xs-4">
                 <div class="details-choose-service">
                     <img src="images/icon-ip.png">
                     <p class="text-details-1">Email doanh nghiệp</p>
@@ -189,10 +184,10 @@
                     </a>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-xs-4">
                 <div class="details-choose-service">
                     <img src="images/icon-time-backup.png">
-                    <p class="text-details-1">Dịch vụ sao lưu hàng ngày<br/>(7 ngày - 7 bản)</p>
+                    <p class="text-details-1">Dịch vụ sao lưu hàng ngày (7 ngày - 7 bản)</p>
                     <p class="text-details-2">Mất dữ liệu sẽ là nỗi lo lớn nhất của<br>bạn với sao lưu từ xa hàng tuần của<br>chúng tôi bạn sẽ an tâm về việc này</p>
                     <p class="price-details">1.2 triệu</p>
                     <p class="text-details-3">-- mỗi năm --</p>
@@ -201,7 +196,7 @@
                     </a>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-xs-4">
                 <div class="details-choose-service">
                     <img src="images/icon-ssl.png">
                     <p class="text-details-1">Dịch vụ bảo mật trang Web</p>

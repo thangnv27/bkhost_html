@@ -1,8 +1,8 @@
 <?php include("header.php"); ?>
 <div class="slide-9 text-center">
     <div class="container">
-        <p class="text-slide-1">Chính sách đại lí và Affiliate</p>
-        <p class="text-slide-2">Nhiều giải pháp cho nhu cầu lựa chọn dịch vụ trên Internet</p>
+        <h1 class="text-slide-1">Chính sách đại lí và Affiliate</h1>
+        <h2 class="text-slide-2">Nhiều giải pháp cho nhu cầu lựa chọn dịch vụ trên Internet</h2>
     </div>
 </div>
 <div class="intro-affiliate">
@@ -95,17 +95,308 @@
             Video hướng dẫn đăng ký Đại lí
         </p>
         <div class="row text-center">
-            <div class="col-md-6">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/V333WGx3tFs?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <div class="col-sm-6">
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/_HCX2dxzhf4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
             </div>
-            <div class="col-md-6">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/V333WGx3tFs?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <div class="col-sm-6">
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/_HCX2dxzhf4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
         <p class="text-2 text-center">
             Bảng giá đại lí BKHOST
         </p>
-        <img class="screenshot" src="images/screenshot-affilate.png">
+        <div class="table-responsive">
+            <table class="table table-bordered">
+                <tr>
+                    <th style="background-color: #eeeeed">ĐẠI LÝ</th>
+                    <th class="t_center t_white" style="background-color: #1f73b9">CẤP 1</th>
+                    <th class="t_center t_white" style="background-color: #43b277">CẤP 2</th>
+                    <th class="t_center t_white" style="background-color: #99c328">CẤP 3</th>
+                    <th class="t_center t_white" style="background-color: #f6a316">CẤP 4</th>
+                </tr>
+                <tr>
+                    <td><strong>Tổng giá trị thanh toán</strong></td>
+                    <td><strong><20 triệu</strong></td>
+                    <td><strong>Từ 20 đến <50 triệu</strong></td>
+                    <td><strong>Từ 50 đến <100 triệu</strong></td>
+                    <td><strong>>=100 triệu</strong></td>
+                </tr>
+                <tr>
+                    <td colspan="5" class="t_center" style="background-color: #f2f2f1"><strong>TÊN MIỀN VIỆT NAM</strong></td>
+                </tr>
+                <tr>
+                    <td colspan="5">
+                        <img alt="Tên miền .VN" src="images/ten-mien-vn.jpg" /> 
+                        <strong>Tên miền Việt Nam cấp 2 nhiều hơn 2 ký tự  (dạng *.vn)</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Đăng ký mới</td>
+                    <td>780.000 đ/năm</td>
+                    <td>765.000 đ/năm</td>
+                    <td>750.000 đ/năm</td>
+                    <td>745.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>Gia hạn</td>
+                    <td>450.000 đ/năm</td>
+                    <td>440.000 đ/năm</td>
+                    <td>430.000 đ/năm</td>
+                    <td>420.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td colspan="5">
+                        <img alt="Tên miền .VN" src="images/ten-mien-vn.jpg" /> 
+                        <strong>Tên miền Việt Nam cấp 3 bao gồm 1, 2 và nhiều ký tự (dạng .com.vn, .net.vn, .biz.vn)</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Đăng ký mới</td>
+                    <td>680.000 đ/năm</td>
+                    <td>665.000 đ/năm</td>
+                    <td>650.000 đ/năm</td>
+                    <td>645.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>Gia hạn</td>
+                    <td>330.000 đ/năm</td>
+                    <td>320.000 đ/năm</td>
+                    <td>310.000 đ/năm</td>
+                    <td>300.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td colspan="5">
+                        <img alt="Tên miền .VN" src="images/ten-mien-vn.jpg" /> 
+                        <strong>Tên miền Việt Nam cấp 3 bao gồm 1, 2 và nhiều ký tự (dạng .edu.vn, .gov.vn, .ac.vn, .info.vn, .pro.vn, 
+                            .health.vn, .int.vn và tên miền theo địa giới hành chính)</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Đăng ký mới</td>
+                    <td>530.000 đ/năm</td>
+                    <td>520.000 đ/năm</td>
+                    <td>510.000 đ/năm</td>
+                    <td>500.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>Gia hạn</td>
+                    <td>195.000 đ/năm</td>
+                    <td>185.000 đ/năm</td>
+                    <td>175.000 đ/năm</td>
+                    <td>165.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td colspan="5">
+                        <img alt="Tên miền .VN" src="images/ten-mien-vn.jpg" /> 
+                        <strong>Tên miền Việt Nam cấp 3 bao gồm 1,2 và nhiều ký tự (dạng .name.vn)</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Đăng ký mới</td>
+                    <td>60.000 đ/năm</td>
+                    <td>60.000 đ/năm</td>
+                    <td>60.000 đ/năm</td>
+                    <td>60.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>Gia hạn</td>
+                    <td>30.000 đ/năm</td>
+                    <td>30.000 đ/năm</td>
+                    <td>30.000 đ/năm</td>
+                    <td>30.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td colspan="5" class="t_center" style="background-color: #f2f2f1"><strong>TÊN MIỀN QUỐC TẾ</strong></td>
+                </tr>
+                <tr>
+                    <td>.com / .net / .us / .biz</td>
+                    <td>220.000 đ/năm</td>
+                    <td>215.000 đ/năm</td>
+                    <td>210.000 đ/năm</td>
+                    <td>205.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>.org / .info</td>
+                    <td>230.000 đ/năm</td>
+                    <td>225.000 đ/năm</td>
+                    <td>220.000 đ/năm</td>
+                    <td>215.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>.co.uk / .eu / .name</td>
+                    <td>230.000 đ/năm</td>
+                    <td>225.000 đ/năm</td>
+                    <td>220.000 đ/năm</td>
+                    <td>215.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>.tel / .pro / .asia</td>
+                    <td>330.000 đ/năm</td>
+                    <td>320.000 đ/năm</td>
+                    <td>310.000 đ/năm</td>
+                    <td>300.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>.mobi</td>
+                    <td>437.000 đ/năm</td>
+                    <td>432.000 đ/năm</td>
+                    <td>428.000 đ/năm</td>
+                    <td>424.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>.me / .tv</td>
+                    <td>650.000 đ/năm</td>
+                    <td>645.000 đ/năm</td>
+                    <td>640.000 đ/năm</td>
+                    <td>630.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>.cc</td>
+                    <td>670.000 đ/năm</td>
+                    <td>665.000 đ/năm</td>
+                    <td>660.000 đ/năm</td>
+                    <td>650.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>.co</td>
+                    <td>750.000 đ/năm</td>
+                    <td>745.000 đ/năm</td>
+                    <td>740.000 đ/năm</td>
+                    <td>735.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>.nu / .ws</td>
+                    <td>696.000 đ/năm</td>
+                    <td>681.000 đ/năm</td>
+                    <td>676.000 đ/năm</td>
+                    <td>661.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>.bz</td>
+                    <td>670.000 đ/năm</td>
+                    <td>650.000 đ/năm</td>
+                    <td>645.000 đ/năm</td>
+                    <td>635.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>.xxx</td>
+                    <td>2.890.000 đ/năm</td>
+                    <td>2.790.000 đ/năm</td>
+                    <td>2.690.000 đ/năm</td>
+                    <td>2.590.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>.com.tw</td>
+                    <td>1.080.000 đ/năm</td>
+                    <td>1.050.000 đ/năm</td>
+                    <td>1.030.000 đ/năm</td>
+                    <td>1.000.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td>.jp</td>
+                    <td>2.225.000 đ/năm</td>
+                    <td>2.220.000 đ/năm</td>
+                    <td>2.210.000 đ/năm</td>
+                    <td>2.205.000 đ/năm</td>
+                </tr>
+                <tr>
+                    <td colspan="5" class="t_center" style="background-color: #f2f2f1;color: #bf1718"><strong>DỊCH VỤ LƯU TRỮ HOSTING SSD</strong></td>
+                </tr>
+                <tr>
+                    <th class="t_center" style="background-color: #eeeeed">ĐẠI LÝ</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 1</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 2</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 3</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 4</th>
+                </tr>
+                <tr>
+                    <td><strong>Tổng giá trị nạp vào</strong></td>
+                    <td class="t_center"><strong><20 triệu</strong></td>
+                    <td class="t_center"><strong>Từ 20 đến <50</strong></td>
+                    <td class="t_center"><strong>Từ 50 đến <100</strong></td>
+                    <td class="t_center"><strong>>=100 triệu</strong></td>
+                </tr>
+                <tr>
+                    <td>Chiết khấu</td>
+                    <td class="t_center">25%</td>
+                    <td class="t_center">30%</td>
+                    <td class="t_center">35%</td>
+                    <td class="t_center">40%</td>
+                </tr>
+                <tr>
+                    <td colspan="5" class="t_center" style="background-color: #f2f2f1;color: #bf1718"><strong>DỊCH VỤ MÁY CHỦ ẢO (CLOUD VPS)</strong></td>
+                </tr>
+                <tr>
+                    <th class="t_center" style="background-color: #eeeeed">ĐẠI LÝ</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 1</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 2</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 3</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 4</th>
+                </tr>
+                <tr>
+                    <td><strong>Tổng giá trị nạp vào</strong></td>
+                    <td class="t_center"><strong><20 triệu</strong></td>
+                    <td class="t_center"><strong>Từ 20 đến <50</strong></td>
+                    <td class="t_center"><strong>Từ 50 đến <100</strong></td>
+                    <td class="t_center"><strong>>=100 triệu</strong></td>
+                </tr>
+                <tr>
+                    <td>Chiết khấu</td>
+                    <td class="t_center">12%</td>
+                    <td class="t_center">13%</td>
+                    <td class="t_center">14%</td>
+                    <td class="t_center">15%</td>
+                </tr>
+                <tr>
+                    <td colspan="5" class="t_center" style="background-color: #f2f2f1;color: #bf1718"><strong>EMAIL DOANH NGHIỆP - GOOGLE APPS</strong></td>
+                </tr>
+                <tr>
+                    <th class="t_center" style="background-color: #eeeeed">ĐẠI LÝ</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 1</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 2</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 3</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 4</th>
+                </tr>
+                <tr>
+                    <td><strong>Tổng giá trị nạp vào</strong></td>
+                    <td class="t_center"><strong><20 triệu</strong></td>
+                    <td class="t_center"><strong>Từ 20 đến <50</strong></td>
+                    <td class="t_center"><strong>Từ 50 đến <100</strong></td>
+                    <td class="t_center"><strong>>=100 triệu</strong></td>
+                </tr>
+                <tr>
+                    <td>Chiết khấu</td>
+                    <td class="t_center">6%</td>
+                    <td class="t_center">7%</td>
+                    <td class="t_center">8%</td>
+                    <td class="t_center">10%</td>
+                </tr>
+                <tr>
+                    <td colspan="5" class="t_center" style="background-color: #f2f2f1;color: #bf1718"><strong>DEDICATED SERVER VÀ COLOCATION</strong></td>
+                </tr>
+                <tr>
+                    <th class="t_center" style="background-color: #eeeeed">ĐẠI LÝ</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 1</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 2</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 3</th>
+                    <th class="t_center" style="background-color: #eeeeed">CẤP 4</th>
+                </tr>
+                <tr>
+                    <td><strong>Tổng giá trị nạp vào</strong></td>
+                    <td class="t_center"><strong><20 triệu</strong></td>
+                    <td class="t_center"><strong>Từ 20 đến <50</strong></td>
+                    <td class="t_center"><strong>Từ 50 đến <100</strong></td>
+                    <td class="t_center"><strong>>=100 triệu</strong></td>
+                </tr>
+                <tr>
+                    <td>Chiết khấu</td>
+                    <td class="t_center">3%</td>
+                    <td class="t_center">3%</td>
+                    <td class="t_center">4%</td>
+                    <td class="t_center">5%</td>
+                </tr>
+            </table>
+        </div>
     </div>
 </div>
 <?php include("footer.php"); ?>

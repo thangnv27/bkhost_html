@@ -1,8 +1,8 @@
 <?php include("header.php"); ?>
 <div class="slide-9 text-center">
     <div class="container">
-        <p class="text-slide-1">Khách hàng của BKHOST</p>
-        <p class="text-slide-2">Nhiều giải pháp cho nhu cầu lựa chọn dịch vụ trên Internet</p>
+        <h1 class="text-slide-1">Khách hàng của BKHOST</h1>
+        <h2 class="text-slide-2">Nhiều giải pháp cho nhu cầu lựa chọn dịch vụ trên Internet</h2>
     </div>
 </div>
 <div class="intro-customer-bkhost">

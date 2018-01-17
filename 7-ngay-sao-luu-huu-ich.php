@@ -1,8 +1,8 @@
 <?php include("header.php"); ?>
 <div class="slide text-center">
     <div class="container">
-        <p class="text-slide-1">dịch vụ backup hàng ngày và dịch vụ phục hồi</p>
-        <p class="text-slide-2">Bảo vệ doanh nghiệp của bạn khi bị mất dữ liệu đột ngột</p>
+        <h1 class="text-slide-1">dịch vụ backup hàng ngày và dịch vụ phục hồi</h1>
+        <h2 class="text-slide-2">Bảo vệ doanh nghiệp của bạn khi bị mất dữ liệu đột ngột</h2>
     </div>
 </div>
 <div class="text-slide-3">
@@ -13,47 +13,45 @@
     </div>
 </div>
 <div class="content">
-    <div class="">
-        <div class="intro-content half-full-left">
-            <p class="text-intro-content-1">
-                Một bản sao lưu mỗi ngày để bảo vệ trang web của bản
+    <div class="intro-content half-full-left">
+        <p class="text-intro-content-1">
+            Một bản sao lưu mỗi ngày để bảo vệ trang web của bản
+        </p>
+        <p class="text-intro-content-2">
+            Mất dữ liệu từ dịch vụ của bản do sai soát trong quá trình sử dụng có thể xảy ra bất cứ lúc nào. Sao lưu dữ liệu là một yêu cầu tối thiểu cho tất cả các doanh nghiệp. Bảo vệ tài sản trực tuyến của bạn 24/7 với sao lưu hàng ngày, BKHOST sẽ thực hiện kế hoạch đó thay cho bạn hàng ngày thay vì một tuần 1 lần Backup mặc định của chúng tôi.
+        </p>
+        <p class="text-intro-content-3">
+            Dễ dàng khôi phục bất kỳ tập tin, thư mục hoặc cơ sở dữ liệu với công cụ sao lưu và phục hồi đơn giản của chúng tôi, dễ dàng truy cập vào bảng điều khiển lưu trữ của bạn. Nhận sao lưu nhiều hơn từ 7 ngày bản sao lưu cuối cùng cho các tập tin cho website của bạn!
+        </p>
+    </div>
+    <div class="half-full-right">
+        <div class="intro-content-2">
+            <p class="text-intro-content-4">
+                Những yếu tố nổi trội <br/>hosting cá nhân
             </p>
-            <p class="text-intro-content-2">
-                Mất dữ liệu từ dịch vụ của bản do sai soát trong quá trình sử dụng có thể xảy ra bất cứ lúc nào. Sao lưu dữ liệu là một yêu cầu tối thiểu cho tất cả các doanh nghiệp. Bảo vệ tài sản trực tuyến của bạn 24/7 với sao lưu hàng ngày, BKHOST sẽ thực hiện kế hoạch đó thay cho bạn hàng ngày thay vì một tuần 1 lần Backup mặc định của chúng tôi.
-            </p>
-            <p class="text-intro-content-3">
-                Dễ dàng khôi phục bất kỳ tập tin, thư mục hoặc cơ sở dữ liệu với công cụ sao lưu và phục hồi đơn giản của chúng tôi, dễ dàng truy cập vào bảng điều khiển lưu trữ của bạn. Nhận sao lưu nhiều hơn từ 7 ngày bản sao lưu cuối cùng cho các tập tin cho website của bạn!
-            </p>
-        </div>
-        <div class="half-full-right">
-            <div class="intro-content-2">
-                <p class="text-intro-content-4">
-                    Những yếu tố nổi trội <br/>hosting cá nhân
-                </p>
-                <div class="row">
-                    <div class="col-xs-6">
-                        <img src="images/icon-delete-file.png">
-                        <p class="text-icon">Tình cờ xóa các tập tin và thư mục</p>
-                    </div>
-                    <div class="col-xs-6">
-                        <img src="images/icon-thong-bao.png">
-                        <p class="text-icon">Trang web bị xâm nhập, hack</p>
-                    </div>
+            <div class="row">
+                <div class="col-xs-6">
+                    <img src="images/icon-delete-file.png">
+                    <p class="text-icon">Tình cờ xóa các tập tin và thư mục</p>
                 </div>
-                <div class="row">
-                    <div class="col-xs-6">
-                        <img src="images/icon-warning.png">
-                        <p class="text-icon">Cập nhật trang web của bạn bị lỗi</p>
-                    </div>
-                    <div class="col-xs-6">
-                        <img src="images/icon-virus.png">
-                        <p class="text-icon">Bị phá hủy khi bị các yếu tố khách quan</p>
-                    </div>
+                <div class="col-xs-6">
+                    <img src="images/icon-thong-bao.png">
+                    <p class="text-icon">Trang web bị xâm nhập, hack</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-6">
+                    <img src="images/icon-warning.png">
+                    <p class="text-icon">Cập nhật trang web của bạn bị lỗi</p>
+                </div>
+                <div class="col-xs-6">
+                    <img src="images/icon-virus.png">
+                    <p class="text-icon">Bị phá hủy khi bị các yếu tố khách quan</p>
                 </div>
             </div>
         </div>
-        <div class="clearfix"></div>
     </div>
+    <div class="clearfix"></div>
 </div>
 <div class="webhosting">
     <div class="container">

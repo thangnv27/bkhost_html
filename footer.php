@@ -277,10 +277,12 @@
 
 <script src="js/jquery-3.2.1.min.js" type="text/javascript"></script>
 <script src="js/jquery-migrate-3.0.0.min.js" type="text/javascript"></script>
+<script src="js/jquery-ui.min.js" type="text/javascript"></script>
 <script src="js/bootstrap.min.js" type="text/javascript"></script>
 <script src="js/owl.carousel.min.js" type="text/javascript"></script>
 <script src="js/hammer.min.js" type="text/javascript"></script>
 <script src="js/app.js" type="text/javascript"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
 
 <noscript id="deferred-styles">
     <!--<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900&subset=latin,vietnamese" rel="stylesheet" />-->
