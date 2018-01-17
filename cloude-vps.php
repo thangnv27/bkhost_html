@@ -2,8 +2,8 @@
 <div class="layer-old-3">
   <div class="slide-cloude-vps text-center">
       <div class="container">
-          <p class="text-slide-1">Cloud SSD VPS</p>
-          <p class="text-slide-2">Hệ thống Cloud VPS mạnh nhất hiện nay!</p>
+          <h1 class="text-slide-1">Cloud SSD VPS</h1>
+          <h2 class="text-slide-2">Hệ thống Cloud VPS mạnh nhất hiện nay!</h2>
       </div>
   </div>
   <div class="text-slide-3">
