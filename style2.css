@@ -16,6 +16,12 @@
     background-size: 100% 100%;
 }
 
+.layer-old-4 .slide-email-doanh-nghiep {
+    background: url("images/slide-email-doanh-nghiep.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
 .layer-old-1 .content-1 {
   margin-top: 70px;
   margin-bottom: 25px;
@@ -394,4 +400,99 @@
 .layer-old-3 .content-6 .border-col {
   border-left: 1px solid #e4e4e4;
   border-right: 1px solid #e4e4e4;
+}
+
+.layer-old-4 .content-1 {
+  padding-bottom: 93px;
+  padding-top: 69px;
+}
+
+.layer-old-4 .content-1 .text-1 {
+  font-size: 1.8em;
+  font-weight: 300;
+}
+
+.layer-old-4 .content-2 .text-1 {
+  font-size: 1.8em;
+  font-weight: 300;
+  margin-top: 40px;
+}
+
+.layer-old-4 .content-2 {
+  padding-bottom: 107px;
+}
+
+.layer-old-4 .content-3 {
+  padding-top: 92px;
+  padding-bottom: 65px;
+}
+
+.layer-old-4 .content-3 .text-1 {
+  font-size: 4.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 114px;
+}
+
+.layer-old-4 .content-3 .text-2 {
+  font-size: 2.4em;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.layer-old-4 .content-3 .text-3 {
+  font-size: 1.8em;
+  font-weight: 300;
+}
+
+.layer-old-4 .content-3 .text-margin-top {
+  margin-top: 55px;
+}
+
+.layer-old-4 .content-4 {
+  padding-top: 81px;
+  background: #f0f0f0;
+  padding-bottom: 145px;
+}
+
+.layer-old-4 .content-4 .text-1 {
+  margin-top: 0;
+  font-size: 4.5em;
+  font-weight: bold;
+  margin-bottom: 70px;
+}
+
+.layer-old-4 .content-4 .text-2 {
+  font-size: 1.8em;
+  font-weight: bold;
+}
+
+.layer-old-4 .content-4 .text-3 {
+  font-size: 1.6em;
+  font-weight: 300;
+}
+
+.layer-old-4 .content-4 .row-1 {
+  margin-bottom: 72px;
+}
+
+.layer-old-4 .content-5 {
+  padding-top: 100px;
+  padding-bottom: 110px;
+}
+
+.layer-old-4 .content-5 .text-1 {
+  margin-top: 0;
+  font-size: 4.5em;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 78px;
+}
+
+.layer-old-4 .content-5 .text-2 {
+  margin-top: 45px;
+  font-size: 4.5em;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 91px;
 }
