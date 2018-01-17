@@ -22,6 +22,12 @@
     background-size: 100% 100%;
 }
 
+body .slide-hosting-ca-nhan {
+    background: url("images/slide-hosting-ca-nhan.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
 .layer-old-1 .content-1 {
   margin-top: 70px;
   margin-bottom: 25px;
