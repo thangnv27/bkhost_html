@@ -728,6 +728,13 @@ body .slide-hosting-wordpress {
   padding-bottom: 121px;
 }
 
+.layer-old-7 .tab-5 {
+  background: url(images/bg-tab5-phan-mem-webserver.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-bottom: 121px;
+}
+
 .layer-old-7 .tab-hosting #tab2 .text-1 {
   font-size: 3em;
   font-weight: bold;
@@ -751,7 +758,8 @@ body .slide-hosting-wordpress {
   margin-bottom: 58px;
 }
 
-.layer-old-7 .tab-hosting #tab2 .hosting-company {
+.layer-old-7 .tab-hosting #tab2 .hosting-company,
+  .layer-old-7 .tab-hosting #tab5 .hosting-company {
   background: none;
   padding-top: 0;
 }
@@ -809,4 +817,78 @@ body .slide-hosting-wordpress {
   text-transform: none;
   color: #b0b0b0;
   margin: 0;
+}
+
+.layer-old-7 #tab5 .text-1 {
+  font-size: 3em;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+  margin-bottom: 26px;
+}
+
+.layer-old-7 #tab5 .text-2 {
+  font-size: 1.7em;
+  font-weight: normal;
+  text-transform: uppercase;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.layer-old-7 #tab5 .text-3,
+  .layer-old-7 #tab5 .text-4 {
+  font-size: 1.7em;
+  font-weight: 300;
+  color: #fff;
+  margin-bottom: 45px;
+}
+
+.layer-old-7 #tab5 .hosting-company .block-1 {
+  border-bottom: 1px solid #cccccc;
+  padding-bottom: 48px;
+}
+
+.layer-old-7 #tab5 .hosting-company .block-1 .text-1 {
+  font-size: 2.5em;
+  font-weight: normal;
+  color: #000;
+  text-transform: uppercase;
+  margin-bottom: 18px;
+}
+
+.layer-old-7 #tab5 .hosting-company .block-1 .text-2 {
+  font-size: 2.1em;
+  font-weight: 300;
+  color: #000;
+  margin: 0;
+}
+
+.layer-old-7 #tab5 .hosting-company .block-1 .text-3,
+  .layer-old-7 #tab5 .hosting-company .block-2 .text-3 {
+  font-size: 3.1em;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: 2px solid #cccccc;
+  color: #000;
+  margin: 45px 80px 28px 80px;
+}
+
+.layer-old-7 #tab5 .hosting-company .block-1 .text-4,
+  .layer-old-7 #tab5 .hosting-company .block-2 .text-4 {
+  font-size: 3.6em;
+  font-weight: 300;
+  color: #ff2626;
+  margin: 0 0 22px 0;
+}
+
+.layer-old-7 #tab5 .hosting-company .block-1 .text-5,
+  .layer-old-7 #tab5 .hosting-company .block-2 .text-5 {
+  font-size: 2.4em;
+  font-weight: 100;
+  color: #b0b0b0;
+  margin: 0 0 25px 0;
+}
+
+.layer-old-7 #tab5 .hosting-company .content-web-hosting {
+  padding: 41px 32px 82px 32px;
 }

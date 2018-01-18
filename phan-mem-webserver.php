@@ -40,12 +40,7 @@
         </li>
         <li>
           <a data-toggle="tab" href="#tab5">
-            Paralleels
-          </a>
-        </li>
-        <li>
-          <a data-toggle="tab" href="#tab6">
-            Plesk
+            Paralleels Plesk
           </a>
         </li>
       </ul>
