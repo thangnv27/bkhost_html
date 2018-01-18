@@ -34,12 +34,23 @@
     background-size: 100% 100%;
 }
 
-.layer-old-5 .text-slide-3, .layer-old-6 .text-slide-3 {
+.layer-old-7 .slide-phan-mem-webserver {
+    background: url("images/slide-phan-mem-webserver.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.layer-old-5 .text-slide-3, .layer-old-6 .text-slide-3,
+  .layer-old-7 .text-slide-3 {
   background: #ffcc00;
 }
 
 .layer-old-6 .text-slide-3 {
   margin-bottom: 59px;
+}
+
+.layer-old-7 .text-slide-3 {
+  margin-bottom: 65px;
 }
 
 body .slide-hosting-ca-nhan {
@@ -253,7 +264,12 @@ body .slide-hosting-wordpress {
   padding-left: 28%;
 }
 
-.layer-old-2 .nav-hosting ul li a, .layer-old-6 .nav-hosting ul li a {
+.layer-old-7 .nav-hosting ul {
+  padding-left: 10%;
+}
+
+.layer-old-2 .nav-hosting ul li a, .layer-old-6 .nav-hosting ul li a,
+  .layer-old-7 .nav-hosting ul li a {
   font-size: 2.4em;
   font-weight: bold;
   text-transform: uppercase;
@@ -703,4 +719,94 @@ body .slide-hosting-wordpress {
   font-size: 2.5em;
   font-weight: bold;
   color: #ff0000;
+}
+
+.layer-old-7 .tab-hosting {
+  background: url(images/bg-tab-phan-mem-webserver.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-bottom: 121px;
+}
+
+.layer-old-7 .tab-hosting #tab2 .text-1 {
+  font-size: 3em;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+  margin-bottom: 23px;
+}
+
+.layer-old-7 .tab-hosting #tab2 .text-2 {
+  font-size: 1.7em;
+  font-weight: normal;
+  text-transform: uppercase;
+  color: #fff;
+  margin-bottom: 14px;
+}
+
+.layer-old-7 .tab-hosting #tab2 .text-3 {
+  font-size: 1.7em;
+  font-weight: 300;
+  color: #fff;
+  margin-bottom: 58px;
+}
+
+.layer-old-7 .tab-hosting #tab2 .hosting-company {
+  background: none;
+  padding-top: 0;
+}
+
+.layer-old-7 .tab-hosting #tab2 .hosting-company .content-web-hosting {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 22px;
+}
+
+.layer-old-7 .tab-hosting #tab2 .hosting-company .content-web-hosting a {
+  margin-top: 26px;
+}
+
+.layer-old-7 .tab-hosting #tab2 .hosting-company .block {
+  border-bottom: 1px solid #e3e3e3;
+  padding: 20px 0;
+}
+
+.layer-old-7 .tab-hosting #tab2 .hosting-company .block .text-1 {
+  font-size: 2.5em;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #000;
+  margin: 0;
+}
+
+.layer-old-7 .tab-hosting #tab2 .hosting-company .block .text-2 {
+  font-size: 3.1em;
+  font-weight: bold;
+  text-transform: none;
+  color: #b0b0b0;
+  margin: 0;
+}
+
+.layer-old-7 .tab-hosting #tab2 .hosting-company .block .text-3 {
+  font-size: 3.6em;
+  font-weight: 300;
+  text-transform: none;
+  color: #ff0000;
+  margin: 0;
+}
+
+.layer-old-7 .tab-hosting #tab2 .hosting-company .block .text-3-1 {
+  font-size: 1.8em;
+  font-weight: 300;
+  text-transform: none;
+  color: #ff0000;
+  margin: 0;
+}
+
+.layer-old-7 .tab-hosting #tab2 .hosting-company .block .text-4 {
+  font-size: 2.4em;
+  font-weight: 100;
+  text-transform: none;
+  color: #b0b0b0;
+  margin: 0;
 }
