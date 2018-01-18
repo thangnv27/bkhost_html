@@ -341,6 +341,12 @@ jQuery(document).ready(function () {
                 }
             }
         });
+        jQuery(".layer-old-7 .nav-hosting ul li a").click(function (){
+            var _href = this.href;
+            if(_href.lastIndexOf('#') === -1){
+                window.location = _href;
+            }
+        });
     }
     if(jQuery('.about-us .owl-carousel').length > 0){
         jQuery('.about-us .owl-carousel').owlCarousel({

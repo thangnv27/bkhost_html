@@ -12,6 +12,9 @@ iframe[name=google_conversion_frame] {
 }
 iframe{max-width: 100%}
 table, .table {max-width: 100%!important}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+    line-height: 1.2
+}
 
 .ajax-loading-block-window{height:128px;right:0;overflow:hidden;position:fixed;top:0;width:100%;height:100%;z-index:1100;}
 .ajax-loading-block-window .loading-image{
@@ -1231,7 +1234,7 @@ body .slide-16 {
 .about-my-system .title-1, .about-my-system-2 .title-1  {
     margin-top: 100px;
     font-size: 4.5em;
-    font-weight: 300;
+    font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 70px;
 }
@@ -2693,6 +2696,14 @@ footer .copy-right {
     .tab-support .tab-pane .block-title7 span:before, .tab-support .tab-pane .block-title7 span:after{width: 219px}
     .layer-16 .content-2 .text-1{margin-top: 0}
     .about-us .intro-about-us .text-2{min-height: 240px}
+    .layer-old-2 .content-1 .text-1{font-size: 2.2em}
+    .layer-old-2 .content-2{margin-top: 50px;padding-bottom: 50px}
+    .layer-old-4 .content-5 .text-1, .layer-old-4 .content-5 .text-2{margin-bottom: 30px;font-size: 3.5em}
+    .layer-old-4 .content-6 .col-margin-top{margin-top: 30px}
+    .info-technical .wp-hosting{border-top: none}
+    .layer-old-7 .nav-hosting ul{padding-left: 0}
+    .layer-old-6 .content-1 .text-2{font-size: 2em}
+    .layer-old-5 .content-1{padding: 50px 0}
     footer .notification-contact .container{padding-left: 160px}
     footer .notification-contact .left .txt1{font-size: 2.0em}
     footer .notification-contact .left .txt2{font-size: 1.4em}
@@ -2706,7 +2717,8 @@ footer .copy-right {
     #desktop-header{display: none}
     .mobile-header{display: block}
     body .slide, body .slide-2, body .slide-3, body .slide-4, body .slide-5, body .slide-6, body .slide-7, body .slide-8, body .slide-9, 
-    body .slide-10, body .slide-11, body .slide-12, body .slide-13, body .slide-14, body .slide-15, body .layer-14, body .layer-16{margin-top: 51px}
+    body .slide-10, body .slide-11, body .slide-12, body .slide-13, body .slide-14, body .slide-15, body .layer-14, body .layer-16,
+    body>.layer-old-1, body>.layer-old-2, body>.layer-old-3, body>.layer-old-4, body>.layer-old-5, body>.layer-old-6{margin-top: 51px}
     .text-slide-1{font-size: 2.6em}
     .text-slide-2{font-size: 2em;padding-bottom: 80px}
     .text-slide-3 p{font-size: 1.5em;padding-bottom: 10px}
@@ -2810,6 +2822,39 @@ footer .copy-right {
     .layer-14 .content-1 .text-1{font-size: 3em;font-weight: 500}
     .layer-14 .content-1 .text-2, .layer-14 .content-1 .text-4, .layer-14 .content-2 .table{font-size: 1.4em}
     .layer-17 .slide-17 .bg-content-1 .text-1, .layer-14 .content-1 .bg-content-1 .text-1{margin-top: 15px;font-size: 2em}
+    .layer-old-1 .content-1{margin: 30px 0}
+    .layer-old-1 .content-1 .text-right{text-align: center}
+    .layer-old-1 .content-2 img{margin-top: 0}
+    .layer-old-3 .backup-intro .text-1{font-size: 3em}
+    .layer-old-3 .content-4 .text-1, .layer-old-3 .content-5 .text-1{font-size: 3.5em}
+    .layer-old-3 .content-6 .border-col{border-left: none;border-right: none}
+    .layer-old-3 .content-6 .border-bottom{border-bottom: none}
+    .layer-old-2 .content-1{margin-top: 0}
+    .layer-old-2 .content-1 .col-left-content-1+div{padding-right: 30px;padding-top: 30px;text-align: justify}
+    .layer-old-2 .content-2{margin-top: 50px;padding-bottom: 50px}
+    .layer-old-2 .content-2 .text-1{margin-bottom: 0}
+    .layer-old-2 .content-2 .text-2{text-align: center;margin-top: 30px}
+    .layer-old-2 .nav-hosting ul{padding-left: 25%}
+    .layer-old-4 .content-3 .text-1{margin-bottom: 30px}
+    .layer-old-4 .content-4 .text-1{font-size: 3.5em}
+    .layer-old-4 .content-4{padding: 30px 0}
+    .layer-old-4 .content-5 .text-1, .layer-old-4 .content-5 .text-2{margin-bottom: 30px;font-size: 3.5em}
+    .layer-old-4 .content-6 .text-1{font-size: 3.5em}
+    .layer-old-4 .content-6 .set-bg-img-content-6{margin-bottom: 30px}
+    .layer-old-4 .content-6 .col-margin-top{margin-top: 30px}
+    .info-technical .wp-hosting{border-top: none}
+    .layer-old-7 .nav-hosting ul{padding-left: 0}
+    .layer-old-2 .nav-hosting ul li a, .layer-old-6 .nav-hosting ul li a, .layer-old-7 .nav-hosting ul li a{font-size: 1.7em}
+    .layer-old-6 .content-1{padding: 50px 0}
+    .layer-old-6 .content-1 .text-1{margin-bottom: 30px}
+    .layer-old-6 .content-1 .text-2{font-size: 2em}
+    .layer-old-6 .content-1 .row-1{margin-bottom: 30px}
+    .layer-old-6 .content-1 .text-left, .layer-old-6 .content-1 .text-right{text-align: center}
+    .layer-old-6 .content-3 .text-1, .layer-old-6 .content-2 .text-1{font-size: 3.5em}
+    .layer-old-6 .content-3 .text-2{font-size: 3em}
+    .layer-old-6 .nav-hosting ul{padding-left: 20%}
+    .layer-old-5 .content-1{padding: 50px 0}
+    .layer-old-5 .content-1 .text-2{font-size: 1.4em}
     footer .notification-contact .left{border-right: none}
     footer .notification-contact .container:before{display: none}
     footer .notification-contact .container{padding-left: 15px}
@@ -2861,11 +2906,27 @@ footer .copy-right {
     .resgister-website .col-sm-6{margin-bottom: 30px}
     .wrap-content .content .text-5{margin-bottom: 30px}
     .layer-14 .content-1 .text-1{font-size: 2.2em}
+    .layer-old-1 .content-1 .description-ssl{margin-top: 30px}
+    .layer-old-1 .content-1 .text-5{margin-bottom: 30px;text-align: left}
+    .border-content-info-technical{border-right: none}
+    .layer-old-2 .nav-hosting ul{padding-left: 0}
+    .layer-old-2 .content-2 .text-1, .layer-old-2 .content-3 .text-1{font-size: 2.2em}
+    .layer-old-2 .content-3{margin: 30px 0}
+    .layer-old-4 .content-3{text-align: center}
+    .layer-old-4 .content-3 .text-right{text-align: center}
+    .layer-old-4 .content-3 .text-margin-top{margin-top: 30px}
+    .layer-old-4 .content-4 .text-1{font-size: 2.5em}
+    .layer-old-4 .content-4 .col-md-6{margin-bottom: 30px}
+    .layer-old-4 .content-5{padding: 50px 0}
+    .layer-old-4 .content-5 .text-1, .layer-old-4 .content-5 .text-2{font-size: 2.5em}
+    .layer-old-6 .nav-hosting ul{padding-left: 0}
+    .layer-old-5 .content-1 .col-sm-4{margin-bottom: 30px}
 }
 @media (max-width: 600px){
 }
 @media (max-width: 480px){
     .backup-intro .col-xs-4, .choose-service .col-xs-4, .info-hosting .col-xs-6{width: 100%}
+    .layer-old-2 .tab-hosting .tab-content{padding: 20px}
 }
 @media (max-width: 425px){
 }
@@ -2875,6 +2936,7 @@ footer .copy-right {
     .wrap-list-customer .add-border .col-xs-3 img{width: auto;margin: 0 auto 15px}
     .solution-webhosting .text-4, .list-customer .text-1{font-size: 2em}
     .layer-16 .content-3 .col-xs-6:nth-child(3){clear: both}
+    .layer-old-2 .tab-hosting .tab-content{padding: 0}
 }
 @media (max-width: 390px){
 }

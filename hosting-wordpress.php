@@ -9,29 +9,29 @@
     <div class="container">
         <div class="text-1-backup-intro">
             <p>
-              Dịch vụ Hosting WordPress được cấu hình đặc biệt dành cho các website sử dụng mã nguồn mở WordPress để đạt được tốc độ và bảo mật cao nhất. Bạn hãy đăng ký và kiểm chứng ngay hôm nay!
+                Dịch vụ Hosting WordPress được cấu hình đặc biệt dành cho các website sử dụng mã nguồn mở WordPress để đạt được tốc độ và bảo mật cao nhất. Bạn hãy đăng ký và kiểm chứng ngay hôm nay!
             </p>
         </div>
         <div class="text-2-backup-intro">
             <p>Những yếu tố nổi trội Hosting cá nhân</p>
         </div>
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-xs-4">
                 <img src="images/icon-bo-copy.png">
                 <p class="text-backup-intro">
-                  Hệ thống chống mã độc ConfigServer eXploit Scanner và Chống Local - Attack với CloudLinux OS
+                    Hệ thống chống mã độc ConfigServer eXploit Scanner và Chống Local - Attack với CloudLinux OS
                 </p>
             </div>
-            <div class="col-md-4">
+            <div class="col-xs-4">
                 <img src="images/icon-code.png">
                 <p class="text-backup-intro">
-                  Nhiều lựa chọn phiên bản PHP cho Website Php 5.2 đến 7.0 và Miễn phí SSL với Let's Encrypt
+                    Nhiều lựa chọn phiên bản PHP cho Website Php 5.2 đến 7.0 và Miễn phí SSL với Let's Encrypt
                 </p>
             </div>
-            <div class="col-md-4">
+            <div class="col-xs-4">
                 <img src="images/icon-backup.png">
                 <p class="text-backup-intro">
-                  Bản sao lưu hàng tuần ( Số bản backup 1 lần/tuần)
+                    Bản sao lưu hàng tuần ( Số bản backup 1 lần/tuần)
                 </p>
             </div>
         </div>
@@ -118,7 +118,7 @@
 <div class="info-technical">
     <div class="container">
         <div class="btn-view-info-technical">
-            <a href="hosting-doanh-nghiep-2.php">Xem đầy đủ thông tin kỹ thuật</a>
+            <a href="#">Xem đầy đủ thông tin kỹ thuật</a>
         </div>
         <div class="row wp-hosting">
             <div class="col-md-6">
@@ -126,7 +126,7 @@
                     TẠI SAO PHẢI CHỌN WordPress Hosting tại BKHOST?
                 </p>
                 <p class="text-5 text-left">
-                  Là một hệ thống quản lý nội dung, WordPress là hệ thống xây dựng trang web phổ biến nhất trên thế giới, cho phép các cá nhân và các doanh nghiệp để tạo ra trang web của họ một cách nhanh chóng và dễ dàng. WordPress cung cấp cho bạn những công cụ để khởi động trang web của bạn, với vô số các chủ đề và các plugin có sẵn để bạn có thể tùy chỉnh và thiết kế trang web mà bạn cần.
+                    Là một hệ thống quản lý nội dung, WordPress là hệ thống xây dựng trang web phổ biến nhất trên thế giới, cho phép các cá nhân và các doanh nghiệp để tạo ra trang web của họ một cách nhanh chóng và dễ dàng. WordPress cung cấp cho bạn những công cụ để khởi động trang web của bạn, với vô số các chủ đề và các plugin có sẵn để bạn có thể tùy chỉnh và thiết kế trang web mà bạn cần.
                 </p>
             </div>
             <div class="col-md-6 text-left">
@@ -278,7 +278,7 @@
                 <div class="details-choose-service">
                     <img src="images/icon-ip.png">
                     <p class="text-details-1">Email doanh nghiệp</p>
-                    <p class="text-details-2">Nâng tầm thương hiệu doanh ngiệp - <br>Full quyền quản lý email nhân viên</p>
+                    <p class="text-details-2">Nâng tầm thương hiệu doanh ngiệp - Full quyền quản lý email nhân viên</p>
                     <p class="price-details">3.5 triệu</p>
                     <p class="text-details-3">-- vĩnh viễn --</p>
                     <a href="#" class="btn-register-hosting">
@@ -290,7 +290,7 @@
                 <div class="details-choose-service">
                     <img src="images/icon-time-backup.png">
                     <p class="text-details-1">Dịch vụ sao lưu hàng ngày (7 ngày - 7 bản)</p>
-                    <p class="text-details-2">Mất dữ liệu sẽ là nỗi lo lớn nhất của<br>bạn với sao lưu từ xa hàng tuần của<br>chúng tôi bạn sẽ an tâm về việc này</p>
+                    <p class="text-details-2">Mất dữ liệu sẽ là nỗi lo lớn nhất của bạn với sao lưu từ xa hàng tuần của chúng tôi bạn sẽ an tâm về việc này</p>
                     <p class="price-details">1.2 triệu</p>
                     <p class="text-details-3">-- mỗi năm --</p>
                     <a href="#" class="btn-register-hosting">
@@ -302,7 +302,7 @@
                 <div class="details-choose-service">
                     <img src="images/icon-ssl.png">
                     <p class="text-details-1">Dịch vụ bảo mật trang Web</p>
-                    <p class="text-details-2">Chứng chỉ bảo mật SSL, An toàn cho<br>Website của bạn và cho khách hàng<br>giao dịch tài chính</p>
+                    <p class="text-details-2">Chứng chỉ bảo mật SSL, An toàn cho Website của bạn và cho khách hàng giao dịch tài chính</p>
                     <p class="price-details">250k</p>
                     <p class="text-details-3">-- mỗi năm --</p>
                     <a href="#" class="btn-register-hosting">

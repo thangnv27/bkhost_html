@@ -84,11 +84,11 @@ body .slide-hosting-wordpress {
 }
 
 .layer-old-1 .content-1 .text-2 {
-  font-size: 1.8em;
+  font-size: 1.7em;
 }
 
 .layer-old-1 .content-1 .text-3 {
-  font-size: 1.8em;
+  font-size: 1.7em;
 }
 
 .layer-old-1 .content-1 .text-4 {
@@ -148,7 +148,7 @@ body .slide-hosting-wordpress {
   padding-top: 80px;
   padding-bottom: 80px;
 }
-
+.layer-old-2 .content-1 .col-left-content-1+div{padding-left: 30px}
 .layer-old-2 .content-1 .col-left-content-1 .wrap-content {
   background: #fff;
   max-width: 100%;
@@ -163,7 +163,7 @@ body .slide-hosting-wordpress {
 }
 
 .layer-old-2 .content-1 .text-2 {
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: 300;
 }
 
@@ -174,7 +174,7 @@ body .slide-hosting-wordpress {
 
 .layer-old-2 .content-1 .text-4 {
   font-size: 4.3em;
-  font-weight: bold;
+  font-weight: 600;
   color: #ff0000;
 }
 
@@ -196,8 +196,8 @@ body .slide-hosting-wordpress {
 }
 
 .layer-old-2 .content-1 .text-8 {
-  font-size: 1.8em;
-  font-weight: bold;
+  font-size: 1.7em;
+  font-weight: 600;
   color: #ff0000;
 }
 
@@ -225,7 +225,7 @@ body .slide-hosting-wordpress {
 
 .layer-old-2 .content-2 .text-1 {
   font-size: 3em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
   margin-bottom: 72px;
 }
@@ -244,7 +244,7 @@ body .slide-hosting-wordpress {
 
 .layer-old-2 .content-3 .text-1 {
   font-size: 3.6em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
 }
 
@@ -271,7 +271,7 @@ body .slide-hosting-wordpress {
 .layer-old-2 .nav-hosting ul li a, .layer-old-6 .nav-hosting ul li a,
   .layer-old-7 .nav-hosting ul li a {
   font-size: 2.4em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
 }
 
@@ -306,7 +306,7 @@ body .slide-hosting-wordpress {
   margin-top: 0;
   text-transform: uppercase;
   font-size: 3.6em;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .layer-old-3 .hosting-company {
@@ -321,7 +321,7 @@ body .slide-hosting-wordpress {
 }
 
 .layer-old-3 .info-technical .text-1 {
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: 300;
   text-transform: none;
   margin-top: 0;
@@ -330,13 +330,13 @@ body .slide-hosting-wordpress {
 
 .layer-old-3 .info-technical .text-2 {
   font-size: 2.7em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
   color: #d21d22;
 }
 
 .layer-old-3 .info-technical .text-3 {
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: normal;
 }
 
@@ -353,7 +353,7 @@ body .slide-hosting-wordpress {
 
 .layer-old-3 .content-4 .text-1 {
   font-size: 4.5em;
-  font-weight: bold;
+  font-weight: 600;
   color: #fff;
   text-transform: uppercase;
   margin-bottom: 49px;
@@ -361,8 +361,8 @@ body .slide-hosting-wordpress {
 }
 
 .layer-old-3 .content-4 .text-2 {
-  font-size: 1.8em;
-  font-weight: bold;
+  font-size: 1.7em;
+  font-weight: 600;
   text-transform: uppercase;
 }
 
@@ -392,14 +392,14 @@ body .slide-hosting-wordpress {
 
 .layer-old-3 .content-5 .text-1 {
   font-size: 4.5em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
   margin: 71px 0;
 }
 
 .layer-old-3 .content-5 .text-2 {
-  font-size: 1.8em;
-  font-weight: bold;
+  font-size: 1.7em;
+  font-weight: 600;
 }
 
 .layer-old-3 .content-5 .text-3 {
@@ -413,27 +413,27 @@ body .slide-hosting-wordpress {
 
 .layer-old-3 .content-6 .text-1 {
   font-size: 3.6em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
   margin-top: 58px;
   margin-bottom: 39px;
 }
 
 .layer-old-3 .content-6 .text-2 {
-  font-size: 1.8em;
-  font-weight: bold;
+  font-size: 1.7em;
+  font-weight: 600;
   margin-top: 36px;
 }
 
 .layer-old-3 .content-6 .text-3 {
   font-size: 2.4em;
-  font-weight: bold;
+  font-weight: 600;
   margin-top: 12px;
   color: #d71b32;
 }
 
 .layer-old-3 .content-6 .text-4 {
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: 300;
   margin-top: 14px;
   color: #a5a5a5;
@@ -444,6 +444,7 @@ body .slide-hosting-wordpress {
 }
 
 .layer-old-3 .content-6 .text-5 a {
+    display: inline-block;
   color: #fff;
   text-transform: uppercase;
   font-size: 1.5em;
@@ -457,11 +458,11 @@ body .slide-hosting-wordpress {
   padding-bottom: 44px;
 }
 
-.layer-old-3 .content-6 .row-1 {
+.layer-old-3 .content-6 .border-bottom {
   border-bottom: 1px solid #e4e4e4;
 }
 
-.layer-old-3 .content-6 .col-active {
+.layer-old-3 .content-6 .col-sm-6:hover {
   background: #f3f3f3;
 }
 
@@ -476,12 +477,12 @@ body .slide-hosting-wordpress {
 }
 
 .layer-old-4 .content-1 .text-1 {
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: 300;
 }
 
 .layer-old-4 .content-2 .text-1 {
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: 300;
   margin-top: 40px;
 }
@@ -497,19 +498,19 @@ body .slide-hosting-wordpress {
 
 .layer-old-4 .content-3 .text-1 {
   font-size: 4.5em;
-  font-weight: bold;
+  font-weight: 600;
   margin-top: 0;
   margin-bottom: 114px;
 }
 
 .layer-old-4 .content-3 .text-2 {
   font-size: 2.4em;
-  font-weight: bold;
+  font-weight: 600;
   margin-bottom: 25px;
 }
 
 .layer-old-4 .content-3 .text-3 {
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: 300;
 }
 
@@ -526,22 +527,18 @@ body .slide-hosting-wordpress {
 .layer-old-4 .content-4 .text-1 {
   margin-top: 0;
   font-size: 4.5em;
-  font-weight: bold;
+  font-weight: 600;
   margin-bottom: 70px;
 }
 
 .layer-old-4 .content-4 .text-2 {
-  font-size: 1.8em;
-  font-weight: bold;
+  font-size: 1.7em;
+  font-weight: 600;
 }
 
 .layer-old-4 .content-4 .text-3 {
   font-size: 1.6em;
   font-weight: 300;
-}
-
-.layer-old-4 .content-4 .row-1 {
-  margin-bottom: 72px;
 }
 
 .layer-old-4 .content-5 {
@@ -552,7 +549,7 @@ body .slide-hosting-wordpress {
 .layer-old-4 .content-5 .text-1 {
   margin-top: 0;
   font-size: 4.5em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
   margin-bottom: 78px;
 }
@@ -560,7 +557,7 @@ body .slide-hosting-wordpress {
 .layer-old-4 .content-5 .text-2 {
   margin-top: 45px;
   font-size: 4.5em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
   margin-bottom: 91px;
 }
@@ -582,20 +579,20 @@ body .slide-hosting-wordpress {
 
 .layer-old-4 .content-6 .text-2 {
   font-size: 4.5em;
-  font-weight: bold;
+  font-weight: 600;
   margin-bottom: 73px;
 }
 
 .layer-old-4 .content-6 ul li {
   list-style: url('images/icon-tick-email.png');
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: normal;
   margin-bottom: 30px;
 }
 
 .layer-old-4 .content-6 .text-3 {
   font-size: 2.4em;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .layer-old-4 .content-6 .text-4 {
@@ -625,14 +622,14 @@ body .slide-hosting-wordpress {
 }
 
 .layer-old-5 .content-1 .text-1 {
-  font-size: 1.8em;
-  font-weight: bold;
+  font-size: 1.7em;
+  font-weight: 600;
   text-transform: uppercase;
   margin-bottom: 14px;
 }
 
 .layer-old-5 .content-1 .text-2 {
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: 300;
 }
 
@@ -648,19 +645,19 @@ body .slide-hosting-wordpress {
 
 .layer-old-6 .content-1 .text-1 {
   font-size: 3.6em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
   margin-bottom: 77px;
 }
 
 .layer-old-6 .content-1 .text-2 {
   font-size: 2.5em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
 }
 
 .layer-old-6 .content-1 .text-3 {
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: 300;
 }
 
@@ -677,14 +674,14 @@ body .slide-hosting-wordpress {
 .layer-old-6 .content-2 .text-1 {
   margin-top: 0;
   font-size: 4.5em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
   margin-bottom: 62px;
 }
 
 .layer-old-6 .content-2 .text-2 {
-  font-size: 1.8em;
-  font-weight: bold;
+  font-size: 1.7em;
+  font-weight: 600;
   text-transform: uppercase;
 }
 
@@ -704,7 +701,7 @@ body .slide-hosting-wordpress {
 
 .layer-old-6 .content-3 .text-1 {
   font-size: 4.5em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
   margin-bottom: 27px;
 }
@@ -717,7 +714,7 @@ body .slide-hosting-wordpress {
 
 .layer-old-6 .content-3 .text-3 {
   font-size: 2.5em;
-  font-weight: bold;
+  font-weight: 600;
   color: #ff0000;
 }
 
@@ -725,19 +722,19 @@ body .slide-hosting-wordpress {
   background: url(images/bg-tab-phan-mem-webserver.png);
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  padding-bottom: 121px;
+  padding-bottom: 30px
 }
 
 .layer-old-7 .tab-5 {
   background: url(images/bg-tab5-phan-mem-webserver.png);
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  padding-bottom: 121px;
+  padding-bottom: 30px
 }
 
 .layer-old-7 .tab-hosting #tab2 .text-1 {
   font-size: 3em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
   color: #fff;
   margin-bottom: 23px;
@@ -758,8 +755,7 @@ body .slide-hosting-wordpress {
   margin-bottom: 58px;
 }
 
-.layer-old-7 .tab-hosting #tab2 .hosting-company,
-  .layer-old-7 .tab-hosting #tab5 .hosting-company {
+.layer-old-7 .tab-hosting .hosting-company{
   background: none;
   padding-top: 0;
 }
@@ -781,7 +777,7 @@ body .slide-hosting-wordpress {
 
 .layer-old-7 .tab-hosting #tab2 .hosting-company .block .text-1 {
   font-size: 2.5em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
   color: #000;
   margin: 0;
@@ -789,7 +785,7 @@ body .slide-hosting-wordpress {
 
 .layer-old-7 .tab-hosting #tab2 .hosting-company .block .text-2 {
   font-size: 3.1em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: none;
   color: #b0b0b0;
   margin: 0;
@@ -804,7 +800,7 @@ body .slide-hosting-wordpress {
 }
 
 .layer-old-7 .tab-hosting #tab2 .hosting-company .block .text-3-1 {
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: 300;
   text-transform: none;
   color: #ff0000;
@@ -819,15 +815,15 @@ body .slide-hosting-wordpress {
   margin: 0;
 }
 
-.layer-old-7 #tab5 .text-1 {
+.layer-old-7 .tab-hosting .text-1 {
   font-size: 3em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
   color: #fff;
   margin-bottom: 26px;
 }
 
-.layer-old-7 #tab5 .text-2 {
+.layer-old-7 .tab-hosting .text-2 {
   font-size: 1.7em;
   font-weight: normal;
   text-transform: uppercase;
@@ -835,20 +831,20 @@ body .slide-hosting-wordpress {
   margin-bottom: 10px;
 }
 
-.layer-old-7 #tab5 .text-3,
-  .layer-old-7 #tab5 .text-4 {
+.layer-old-7 .tab-hosting .text-3,
+  .layer-old-7 .tab-hosting .text-4 {
   font-size: 1.7em;
   font-weight: 300;
   color: #fff;
   margin-bottom: 45px;
 }
 
-.layer-old-7 #tab5 .hosting-company .block-1 {
+.layer-old-7 .hosting-company .block-1 {
   border-bottom: 1px solid #cccccc;
   padding-bottom: 48px;
 }
 
-.layer-old-7 #tab5 .hosting-company .block-1 .text-1 {
+.layer-old-7 .hosting-company .block-1 .text-1 {
   font-size: 2.5em;
   font-weight: normal;
   color: #000;
@@ -856,39 +852,39 @@ body .slide-hosting-wordpress {
   margin-bottom: 18px;
 }
 
-.layer-old-7 #tab5 .hosting-company .block-1 .text-2 {
+.layer-old-7 .hosting-company .block-1 .text-2 {
   font-size: 2.1em;
   font-weight: 300;
   color: #000;
   margin: 0;
 }
 
-.layer-old-7 #tab5 .hosting-company .block-1 .text-3,
-  .layer-old-7 #tab5 .hosting-company .block-2 .text-3 {
+.layer-old-7 .hosting-company .block-1 .text-3,
+  .layer-old-7 .hosting-company .block-2 .text-3 {
   font-size: 3.1em;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
   border: 2px solid #cccccc;
   color: #000;
-  margin: 45px 80px 28px 80px;
+  margin: 45px 30px 28px 30px
 }
 
-.layer-old-7 #tab5 .hosting-company .block-1 .text-4,
-  .layer-old-7 #tab5 .hosting-company .block-2 .text-4 {
+.layer-old-7 .hosting-company .block-1 .text-4,
+  .layer-old-7 .hosting-company .block-2 .text-4 {
   font-size: 3.6em;
   font-weight: 300;
   color: #ff2626;
   margin: 0 0 22px 0;
 }
 
-.layer-old-7 #tab5 .hosting-company .block-1 .text-5,
-  .layer-old-7 #tab5 .hosting-company .block-2 .text-5 {
+.layer-old-7 .hosting-company .block-1 .text-5,
+  .layer-old-7 .hosting-company .block-2 .text-5 {
   font-size: 2.4em;
   font-weight: 100;
   color: #b0b0b0;
   margin: 0 0 25px 0;
 }
 
-.layer-old-7 #tab5 .hosting-company .content-web-hosting {
+.layer-old-7 .hosting-company .content-web-hosting {
   padding: 41px 32px 82px 32px;
 }

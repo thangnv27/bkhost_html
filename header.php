@@ -20,8 +20,8 @@
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 <link href="css/owl.carousel.min.css" rel="stylesheet" type="text/css"/>
 <link rel="stylesheet" type="text/css" href="css/common.css" />
-<link rel="stylesheet" type="text/css" href="style.css" />
 <link href="style2.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" type="text/css" href="style.css" />
 
 <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
