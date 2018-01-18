@@ -113,108 +113,108 @@
       </p>
     </div>
   </div>
-<div class="nav-hosting">
-  <div class="container">
-    <ul class="nav nav-tabs">
-      <li class="active">
-        <a data-toggle="tab" href="#tab1">
-          COMODO SSL
-        </a>
-      </li>
-      <li>
-        <a data-toggle="tab" href="#tab2">
-          GEOTRUS SSL
-        </a>
-      </li>
-    </ul>
+  <div class="nav-hosting">
+    <div class="container">
+      <ul class="nav nav-tabs">
+        <li class="active">
+          <a data-toggle="tab" href="#tab1">
+            COMODO SSL
+          </a>
+        </li>
+        <li>
+          <a data-toggle="tab" href="#tab2">
+            GEOTRUS SSL
+          </a>
+        </li>
+      </ul>
+    </div>
   </div>
-</div>
-<div class="tab-hosting">
-  <div class="container">
-    <div class="tab-content">
-      <div id="tab1" class="tab-pane fade in active">
-        <div class="row">
-          <div class="col-md-4">
-            <div class="content-web-hosting">
-              <p class="text-hosting-1">POSITIVESSL</p>
-              <p class="text-hosting-2">2.450.000</p>
-              <strike class="text-hosting-3">3.000.000</strike>
-              <p class="text-hosting-4">- 1 tháng - </p>
-              <div class="discount-code-email">
-                <p class="text-hosting-5">ĐĂNG KÝ</p>
-                <p class="text-hosting-5">TRÊN 6 THÁNG (-15%)</p>
-                <div class="line-discount"><p></p></div>
-                <p class="text-hosting-6">KMSVT715</p>
+  <div class="tab-hosting">
+    <div class="container">
+      <div class="tab-content">
+        <div id="tab1" class="tab-pane fade in active">
+          <div class="row">
+            <div class="col-md-4">
+              <div class="content-web-hosting">
+                <p class="text-hosting-1">POSITIVESSL</p>
+                <p class="text-hosting-2">2.450.000</p>
+                <strike class="text-hosting-3">3.000.000</strike>
+                <p class="text-hosting-4">- 1 tháng - </p>
+                <div class="discount-code-email">
+                  <p class="text-hosting-5">ĐĂNG KÝ</p>
+                  <p class="text-hosting-5">TRÊN 6 THÁNG (-15%)</p>
+                  <div class="line-discount"><p></p></div>
+                  <p class="text-hosting-6">KMSVT715</p>
+                </div>
+                <div class="details-service">
+                  <p>Chứng thực DV</p>
+                  <p>SAN Không hỗ trợ</p>
+                  <p>Bảo hiểm 10.000 USD</p>
+                  <p>Thanh trình duyệt mầu xanh Không có</p>
+                  <p>Số lượng Domain 01</p>
+                  <p>Phí triển khai Miễn phí</p>
+                </div>
+                <a href="#" class="btn-register-hosting">
+                  Đăng ký ngay
+                </a>
               </div>
-              <div class="details-service">
-                <p>Chứng thực DV</p>
-                <p>SAN Không hỗ trợ</p>
-                <p>Bảo hiểm 10.000 USD</p>
-                <p>Thanh trình duyệt mầu xanh Không có</p>
-                <p>Số lượng Domain 01</p>
-                <p>Phí triển khai Miễn phí</p>
-              </div>
-              <a href="#" class="btn-register-hosting">
-                Đăng ký ngay
-              </a>
             </div>
-          </div>
-          <div class="col-md-4">
-            <div class="content-web-hosting">
-              <p class="text-hosting-1">POSITIVESSL</p>
-              <p class="text-hosting-1">MULTI-DOMAIN</p>
-              <p class="text-hosting-2">2.450.000</p>
-              <strike class="text-hosting-3">3.000.000</strike>
-              <p class="text-hosting-4">- 1 tháng - </p>
-              <div class="discount-code-email">
-                <p class="text-hosting-5">ĐĂNG KÝ</p>
-                <p class="text-hosting-5">TRÊN 6 THÁNG (-15%)</p>
-                <div class="line-discount"><p></p></div>
-                <p class="text-hosting-6">KMSVT715</p>
+            <div class="col-md-4">
+              <div class="content-web-hosting">
+                <p class="text-hosting-1">POSITIVESSL</p>
+                <p class="text-hosting-1">MULTI-DOMAIN</p>
+                <p class="text-hosting-2">2.450.000</p>
+                <strike class="text-hosting-3">3.000.000</strike>
+                <p class="text-hosting-4">- 1 tháng - </p>
+                <div class="discount-code-email">
+                  <p class="text-hosting-5">ĐĂNG KÝ</p>
+                  <p class="text-hosting-5">TRÊN 6 THÁNG (-15%)</p>
+                  <div class="line-discount"><p></p></div>
+                  <p class="text-hosting-6">KMSVT715</p>
+                </div>
+                <div class="details-service">
+                  <p>Chứng thực DV</p>
+                  <p>SAN Không hỗ trợ</p>
+                  <p>Bảo hiểm 10.000 USD</p>
+                  <p>Thanh trình duyệt mầu xanh Không có</p>
+                  <p>Số lượng Domain 01</p>
+                  <p>Phí triển khai Miễn phí</p>
+                </div>
+                <a href="#" class="btn-register-hosting">
+                  Đăng ký ngay
+                </a>
               </div>
-              <div class="details-service">
-                <p>Chứng thực DV</p>
-                <p>SAN Không hỗ trợ</p>
-                <p>Bảo hiểm 10.000 USD</p>
-                <p>Thanh trình duyệt mầu xanh Không có</p>
-                <p>Số lượng Domain 01</p>
-                <p>Phí triển khai Miễn phí</p>
-              </div>
-              <a href="#" class="btn-register-hosting">
-                Đăng ký ngay
-              </a>
             </div>
-          </div>
-          <div class="col-md-4">
-            <div class="content-web-hosting">
-              <p class="text-hosting-1">EV SSL</p>
-              <p class="text-hosting-2">2.450.000</p>
-              <strike class="text-hosting-3">3.000.000</strike>
-              <p class="text-hosting-4">- 1 tháng - </p>
-              <div class="discount-code-email">
-                <p class="text-hosting-5">ĐĂNG KÝ</p>
-                <p class="text-hosting-5">TRÊN 6 THÁNG (-15%)</p>
-                <div class="line-discount"><p></p></div>
-                <p class="text-hosting-6">KMSVT715</p>
+            <div class="col-md-4">
+              <div class="content-web-hosting">
+                <p class="text-hosting-1">EV SSL</p>
+                <p class="text-hosting-2">2.450.000</p>
+                <strike class="text-hosting-3">3.000.000</strike>
+                <p class="text-hosting-4">- 1 tháng - </p>
+                <div class="discount-code-email">
+                  <p class="text-hosting-5">ĐĂNG KÝ</p>
+                  <p class="text-hosting-5">TRÊN 6 THÁNG (-15%)</p>
+                  <div class="line-discount"><p></p></div>
+                  <p class="text-hosting-6">KMSVT715</p>
+                </div>
+                <div class="details-service">
+                  <p>Chứng thực DV</p>
+                  <p>SAN Không hỗ trợ</p>
+                  <p>Bảo hiểm 10.000 USD</p>
+                  <p>Thanh trình duyệt mầu xanh Không có</p>
+                  <p>Số lượng Domain 01</p>
+                  <p>Phí triển khai Miễn phí</p>
+                </div>
+                <a href="#" class="btn-register-hosting">
+                  Đăng ký ngay
+                </a>
               </div>
-              <div class="details-service">
-                <p>Chứng thực DV</p>
-                <p>SAN Không hỗ trợ</p>
-                <p>Bảo hiểm 10.000 USD</p>
-                <p>Thanh trình duyệt mầu xanh Không có</p>
-                <p>Số lượng Domain 01</p>
-                <p>Phí triển khai Miễn phí</p>
-              </div>
-              <a href="#" class="btn-register-hosting">
-                Đăng ký ngay
-              </a>
             </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
   <div class="register-service text-center">
       <div class="container">
           <p class="text-register-service">
