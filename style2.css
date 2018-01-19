@@ -40,8 +40,14 @@
     background-size: 100% 100%;
 }
 
+.layer-old-8 .slide-thue-cho-dat-server {
+    background: url("images/slide-thue-may-chu-rieng.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
 .layer-old-5 .text-slide-3, .layer-old-6 .text-slide-3,
-  .layer-old-7 .text-slide-3 {
+  .layer-old-7 .text-slide-3, .layer-old-8 .text-slide-3 {
   background: #ffcc00;
 }
 
@@ -887,4 +893,221 @@ body .slide-hosting-wordpress {
 
 .layer-old-7 .hosting-company .content-web-hosting {
   padding: 41px 32px 82px 32px;
+}
+
+.layer-old-8 .content-1 {
+  padding-top: 48px;
+  padding-bottom: 38px;
+}
+
+.layer-old-8 .block-content {
+  position: relative;
+  border: 1px solid #d9d9d9;
+  padding-top: 10px;
+  padding-bottom: 37px;
+  box-shadow: 1px 1px 10px 0px;
+  -moz-box-shadow: 1px 1px 10px 0px;
+  -webkit-box-shadow: 1px 1px 10px 0px;
+}
+
+.layer-old-8 .block-content .icon-hot {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.layer-old-8 .block-content .icon-loco {
+  margin-bottom: 17px;
+}
+
+.layer-old-8 .block-content .text-1 {
+  font-size: 1.6em;
+  font-weight: 300;
+  color: #000;
+  margin-bottom: 23px;
+}
+
+.layer-old-8 .block-content .block-child {
+  background: #efefef;
+  padding-top: 20px;
+  padding-bottom: 29px;
+}
+
+.layer-old-8 .block-content .text-2 {
+  font-size: 3.1em;
+  font-weight: bold;
+  color: #1c1c1c;
+  margin-bottom: 21px;
+}
+
+.layer-old-8 .block-content .text-3 {
+  font-size: 2.2em;
+  font-weight: 300;
+  color: #1c1c1c;
+}
+
+.layer-old-8 .block-content .text-4 {
+  font-size: 1.4em;
+  font-weight: bold;
+  color: #fb2627;
+  margin-top: 16px;
+  margin-bottom: 34px;
+}
+
+.layer-old-8 .block-content a {
+  font-size: 1.6em;
+  font-weight: 300;
+  color: #fff;
+  background: #ff9c00;
+  padding: 15px 37px;
+}
+
+.layer-old-8 .content-2 {
+  background: url("images/bg-content2-thue-cho-dat-server.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-top: 58px;
+  padding-bottom: 55px;
+}
+
+.layer-old-8 .content-2 .wrap-content2 {
+  background: #fff;
+  padding-top: 28px;
+  padding-bottom: 62px;
+}
+
+.layer-old-8 .content-2 .wrap-content2 .text-1 {
+  font-size: 3em;
+  font-weight: normal;
+  text-transform: uppercase;
+  color: #1b1b1b;
+  margin-bottom: 38px;
+}
+
+.layer-old-8 .content-2 .wrap-content2 .text-2 {
+  margin-top: 27px;
+  font-size: 2.1em;
+  font-weight: bold;
+  margin-bottom: 39px;
+}
+
+.layer-old-8 .content-2 .wrap-content2 .text-3 {
+  font-size: 1.6em;
+  font-weight: 300;
+  margin-bottom: 34px;
+}
+
+.layer-old-8 .content-2 .wrap-content2 .block-child {
+  border: 1px solid #d9d9d9;
+  padding-bottom: 34px;
+  box-shadow: 1px 1px 10px 0px;
+  -moz-box-shadow: 1px 1px 10px 0px;
+  -webkit-box-shadow: 1px 1px 10px 0px;
+}
+
+.layer-old-8 .content-2 .wrap-content2 .text-4 {
+  font-size: 2.4em;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+  background: #25ace5;
+  padding-top: 27px;
+  padding-bottom: 20px;
+  margin-bottom: 26px;
+}
+
+.layer-old-8 .content-2 .wrap-content2 a {
+  font-size: 1.6em;
+  color: #fff;
+  font-weight: 300;
+  background: #ff9c00;
+  padding: 15px 37px;
+}
+
+.layer-old-8 .content-3 {
+  padding-top: 55px;
+  padding-bottom: 59px;
+}
+
+.layer-old-8 .content-3 .text-1 {
+  font-size: 3em;
+  font-weight: normal;
+  text-transform: uppercase;
+  margin-bottom: 54px;
+}
+
+.layer-old-8 .content-3 .line-row {
+  border-bottom: 1px solid #d6d6d6;
+}
+
+.layer-old-8 .content-3 .text-2 {
+  font-size: 1.6em;
+  font-weight: normal;
+}
+
+.layer-old-8 .content-3 .text-3 {
+  font-size: 1.6em;
+  font-weight: 300;
+}
+
+.layer-old-8 .content-3 .text-4 {
+  font-size: 1.6em;
+  font-weight: 300;
+}
+
+.layer-old-8 .content-3 .col-left {
+  border-right: 1px solid #d6d6d6;
+}
+
+.layer-old-8 .content-3 .col-right {
+  border-left: 1px solid #d6d6d6;
+}
+
+.layer-old-8 .content-4 {
+  background: #ff4141;
+}
+
+.layer-old-8 .content-4 .text-1 {
+  margin-top: 63px;
+}
+
+.layer-old-8 .content-4 .text-2 {
+  margin-bottom: 66px;
+}
+
+.layer-old-8 .content-4 img {
+  margin-top: 69px;
+}
+
+.layer-old-8 .content-4 .text-1,
+  .layer-old-8 .content-4 .text-2 {
+  font-size: 3em;
+  font-weight: normal;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.layer-old-8 .content-4 .text-3 {
+  font-size: 7.2em;
+  color: #fff;
+  margin-top: 25px;
+}
+
+.layer-old-8 .content-4 .text-4 {
+  font-size: 3em;
+  color: #fff;
+}
+
+.layer-old-8 .content-5 {
+  padding-top: 100px;
+  padding-bottom: 115px;
+}
+
+.layer-old-8 .content-5 img {
+  margin-bottom: 38px;
+}
+
+.layer-old-8 .content-5 .text-1 {
+  font-size: 1.8em;
+  font-weight: 300;
 }
