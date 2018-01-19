@@ -46,6 +46,12 @@
     background-size: 100% 100%;
 }
 
+.layer-old-9 .slide-ten-mien {
+    background: url("images/slide-tenmien.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
 .layer-old-5 .text-slide-3, .layer-old-6 .text-slide-3,
   .layer-old-7 .text-slide-3, .layer-old-8 .text-slide-3 {
   background: #ffcc00;
@@ -1110,4 +1116,173 @@ body .slide-hosting-wordpress {
 .layer-old-8 .content-5 .text-1 {
   font-size: 1.8em;
   font-weight: 300;
+}
+
+.layer-old-9 .slide-ten-mien {
+  padding-top: 47px;
+  padding-bottom: 64px;
+}
+
+.layer-old-9 .slide-ten-mien .text-1 {
+  font-size: 3.4em;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin-bottom: 26px;
+}
+
+.layer-old-9 .slide-ten-mien .text-2 {
+  font-size: 2.1em;
+  font-weight: 300;
+}
+
+.layer-old-9 .slide-ten-mien .text-3 {
+  font-size: 2.1em;
+  font-weight: normal;
+}
+
+.layer-old-9 .slide-ten-mien .text-4 {
+  font-size: 2.1em;
+  font-weight: 100;
+}
+
+.layer-old-9 .slide-ten-mien .border-right {
+  border-right: 1px solid #d3d3d3;
+  padding-right: 30px;
+}
+
+.layer-old-9 .slide-ten-mien form {
+  margin-top: 28px;
+  position: relative;
+}
+
+.layer-old-9 .slide-ten-mien form img {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.layer-old-9 .slide-ten-mien form input {
+  width: 100%;
+  height: 64px;
+  border: 2px solid #9b9b9b;
+  padding-left: 17px;
+  font-size: 2.4em;
+  font-weight: 100;
+}
+
+.layer-old-9 .slide-ten-mien form .btn-search {
+  background: #ea2021;
+  border: 1px solid #ea2021;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 1.6em;
+  font-weight: normal;
+  padding: 0 16px;
+  position: absolute;
+  right: 160px;
+  top: 5px;
+}
+
+.layer-old-9 .slide-ten-mien form .btn-search span,
+  .layer-old-9 .slide-ten-mien form .btn-transfer span {
+  margin-top: 18px;
+}
+
+.layer-old-9 .slide-ten-mien form .btn-transfer {
+  background: #17b9bf;
+  border: 1px solid #17b9bf;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 1.6em;
+  font-weight: normal;
+  padding: 0 16px;
+  right: 10px;
+  top: 5px;
+  position: absolute;
+}
+
+.layer-old-9 .slide-ten-mien form .btn-transfer img {
+  margin-top: 14px;
+}
+
+.layer-old-9 .content-1 {
+  padding-top: 72px;
+}
+
+.layer-old-9 .content-1 .block-domain {
+  position: relative;
+  border: 1px solid #d8d8d8;
+  padding-bottom: 34px;
+}
+
+.layer-old-9 .content-1 .block-domain .icon-hot {
+  position: absolute;
+  top: 0;
+  left: 0
+}
+
+.layer-old-9 .content-1 .block-domain .icon-domain {
+  margin-top: 10px;
+}
+
+.layer-old-9 .content-1 .block-domain .text-1 {
+  font-size: 1.6em;
+  font-weight: 300;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.layer-old-9 .content-1 .block-domain .block-text {
+  background: #efefef;
+  margin-bottom: 40px;
+  padding-bottom: 22px;
+  padding-top: 20px;
+}
+
+.layer-old-9 .content-1 .block-domain .block-text .text-2 {
+  font-size: 3.1em;
+  font-weight: bold;
+  margin-bottom: 21px;
+}
+
+.layer-old-9 .content-1 .block-domain .block-text .text-3 {
+  font-size: 2.2em;
+  font-weight: 300;
+}
+
+.layer-old-9 .content-1 .block-domain a {
+  color: #fff;
+  font-size: 1.6em;
+  font-weight: 300;
+  background: #ff9c00;
+  padding: 15px 37px;
+}
+
+.layer-old-9 .content-2 {
+  background: #f4f4f4;
+  padding-top: 171px;
+  padding-bottom: 100px;
+}
+
+.layer-old-9 .content-2 .row-1 {
+  margin-bottom: 40px;
+}
+
+.layer-old-9 .content-2 .text-1 {
+  font-size: 4.5em;
+  font-weight: bold;
+  margin-bottom: 70px;
+}
+
+.layer-old-9 .content-2 .text-2 {
+  font-size: 2.4em;
+  font-weight: bold;
+}
+
+.layer-old-9 .content-2 .text-3 {
+  font-size: 1.7em;
+  font-weight: 300;
+}
+
+.layer-old-9 .contact-2 {
+  margin-top: 0;
 }
