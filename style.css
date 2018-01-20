@@ -274,6 +274,36 @@ body .slide-16 {
     background-size: 100% 100%;
 }
 
+/*.main-slider .owl-stage{width: 100%!important}*/
+/*.main-slider .owl-item{width: 100%!important;display: none}*/
+/*.main-slider .owl-item.active{display: block}*/
+.main-slider .slide1{
+    background: url(images/bg-slide-1.png) no-repeat;
+    background-size: cover;
+    background-position: center
+}
+.main-slider .icon-left, .main-slider .icon-right{
+    width: auto!important
+}
+.main-slider .owl-dots{
+    bottom: 60px;
+    position: absolute;
+    text-align: center;
+    width: 100%
+}
+.main-slider .owl-dots .owl-dot{
+    width: 23px;
+    height: 23px;
+    background-image: url(images/icon-slide.png);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    display: inline-block;
+    margin: 0 5px
+}
+.main-slider .owl-dots .owl-dot.active{
+    background-position: -23px 0
+}
+
 .layer-17 .slide-17 {
     background: url("images/slide17.png");
     background-repeat: no-repeat;
@@ -2704,6 +2734,17 @@ footer .copy-right {
     .layer-old-7 .nav-hosting ul{padding-left: 0}
     .layer-old-6 .content-1 .text-2{font-size: 2em}
     .layer-old-5 .content-1{padding: 50px 0}
+    .layer-old-8 .content-2 .item1{width: 21%}
+    .layer-old-8 .content-2 .item2{width: 14%}
+    .layer-old-8 .content-2 .wrap-content2 a{margin: 0 10px;display: block}
+    .layer-old-10 .content-2 .card-1 .text-1, .layer-old-10 .content-2 .card-2 .text-1, 
+    .layer-old-10 .content-2 .card-3 .text-1, .layer-old-10 .content-2 .card-4 .text-1{font-size: 3em}
+    .layer-old-10 .content-2 .card-1 .text-2, .layer-old-10 .content-2 .card-2 .text-2, 
+    .layer-old-10 .content-2 .card-3 .text-2, .layer-old-10 .content-2 .card-4 .text-2{font-size: 1.4em;min-height: 60px}
+    .layer-old-10 .hosting-company .text-1, .layer-old-10 .content-2 .text-1{font-size: 4em}
+    .layer-old-10 .hosting-company .text-2, .layer-old-10 .content-2 .text-2{font-size: 2em}
+    .layer-old-10 .content-2 .card-1 .text-4, .layer-old-10 .content-2 .card-2 .text-4, 
+    .layer-old-10 .content-2 .card-3 .text-4, .layer-old-10 .content-2 .card-4 .text-4{font-size: 2.2em;margin-top: 5px}
     footer .notification-contact .container{padding-left: 160px}
     footer .notification-contact .left .txt1{font-size: 2.0em}
     footer .notification-contact .left .txt2{font-size: 1.4em}
@@ -2718,7 +2759,8 @@ footer .copy-right {
     .mobile-header{display: block}
     body .slide, body .slide-2, body .slide-3, body .slide-4, body .slide-5, body .slide-6, body .slide-7, body .slide-8, body .slide-9, 
     body .slide-10, body .slide-11, body .slide-12, body .slide-13, body .slide-14, body .slide-15, body .layer-14, body .layer-16,
-    body>.layer-old-1, body>.layer-old-2, body>.layer-old-3, body>.layer-old-4, body>.layer-old-5, body>.layer-old-6{margin-top: 51px}
+    body>.layer-old-1, body>.layer-old-2, body>.layer-old-3, body>.layer-old-4, body>.layer-old-5, body>.layer-old-6,
+    body>.layer-old-7, body>.layer-old-8, body>.layer-old-9, body>.layer-old-10{margin-top: 51px}
     .text-slide-1{font-size: 2.6em}
     .text-slide-2{font-size: 2em;padding-bottom: 80px}
     .text-slide-3 p{font-size: 1.5em;padding-bottom: 10px}
@@ -2767,8 +2809,10 @@ footer .copy-right {
     .info-service-manager-host .half-full-left .text-right{text-align: left}
     .info-service-manager-host .half-full-left + .col-md-6{clear: both}
     .note-for-customer .wrap-text-content-jobs-2{margin-top: 20px}
-    .service-backup .owl-carousel .owl-prev, .service-manager-host .owl-carousel .owl-prev,.about-us .owl-carousel .owl-prev{right: -15px}
-    .service-backup .owl-carousel .owl-next, .service-manager-host .owl-carousel .owl-next,.about-us .owl-carousel .owl-next{left: -15px}
+    .service-backup .owl-carousel .owl-prev, .service-manager-host .owl-carousel .owl-prev,
+    .about-us .owl-carousel .owl-prev, .hosting-company .owl-carousel .owl-prev{right: -15px}
+    .service-backup .owl-carousel .owl-next, .service-manager-host .owl-carousel .owl-next,
+    .about-us .owl-carousel .owl-next, .hosting-company .owl-carousel .owl-next{left: -15px}
     .solution-webhosting{margin-top: 50px}
     .solution-webhosting .text-1, .solution-webhosting .text-2{text-align: center}
     .solution-webhosting .text-4{font-size: 3em}
@@ -2855,6 +2899,23 @@ footer .copy-right {
     .layer-old-6 .nav-hosting ul{padding-left: 20%}
     .layer-old-5 .content-1{padding: 50px 0}
     .layer-old-5 .content-1 .text-2{font-size: 1.4em}
+    .layer-old-8 .content-2 .wrap-items{
+        overflow-y: hidden;
+        overflow-x: auto;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+    }
+    .layer-old-8 .content-2 .item1{width: 200px}
+    .layer-old-8 .content-2 .item2{width: 160px}
+    .layer-old-8 .content-2 .item1, .layer-old-8 .content-2 .item2{display: table-cell;float: none}
+    .layer-old-8 .content-2 .wrap-content2 a{margin: 0 10px;display: block;padding: 15px 10px}
+    .layer-old-8 .content-2 .wrap-content2 .text-2, .layer-old-8 .content-2 .wrap-content2 .text-3{white-space: nowrap;padding: 0 10px}
+    .layer-old-8 .content-2 .wrap-content2 .text-4{white-space: nowrap;padding: 10px}
+    .layer-old-10 .content-2 .card-1, .layer-old-10 .content-2 .card-2, 
+    .layer-old-10 .content-2 .card-3, .layer-old-10 .content-2 .card-4{margin-bottom: 30px}
+    .layer-old-10 .content-2{padding: 50px 0}
+    .layer-old-10 .hosting-company{padding-top: 50px}
+    .layer-old-10 .hosting-company .text-1, .layer-old-10 .content-2 .text-1{font-size: 3em}
+    .layer-old-10 .hosting-company .text-2, .layer-old-10 .content-2 .text-2{font-size: 1.6em;margin-bottom: 50px}
     footer .notification-contact .left{border-right: none}
     footer .notification-contact .container:before{display: none}
     footer .notification-contact .container{padding-left: 15px}
@@ -2921,6 +2982,18 @@ footer .copy-right {
     .layer-old-4 .content-5 .text-1, .layer-old-4 .content-5 .text-2{font-size: 2.5em}
     .layer-old-6 .nav-hosting ul{padding-left: 0}
     .layer-old-5 .content-1 .col-sm-4{margin-bottom: 30px}
+    .layer-old-8 .content-4 .text-2{margin-bottom: 50px}
+    .layer-old-8 .content-4 .text-4{padding-bottom: 30px}
+    .layer-old-8 .content-5{padding: 50px 0}
+    .layer-old-8 .content-5 .text-1{margin-bottom: 30px}
+    .layer-old-10 .content-2 .text-1, .layer-old-10 .hosting-company .text-1{font-size: 2em;margin-bottom: 10px}
+    .layer-old-10 .content-2 .text-2, .layer-old-10 .hosting-company .text-2{font-size: 1.4em}
+    .layer-old-10 .content-2 .card-1 .text-1, .layer-old-10 .content-2 .card-2 .text-1, 
+    .layer-old-10 .content-2 .card-3 .text-1, .layer-old-10 .content-2 .card-4 .text-1{font-size: 2.5em;margin-bottom: 10px}
+    .layer-old-10 .content-2 .card-2, .layer-old-10 .content-2 .card-4{text-align: left}
+    .layer-old-10 .content-2 .card-2 ul, .layer-old-10 .content-2 .card-4 ul{padding-left: 18px}
+    .layer-old-10 .content-2 .card-2 ul li, .layer-old-10 .content-2 .card-4 ul li{direction: ltr}
+    .layer-old-10 .content-2 .card-2 .text-4, .layer-old-10 .content-2 .card-4 .text-4 {float: left;margin-bottom: 15px}
 }
 @media (max-width: 600px){
 }
@@ -2937,6 +3010,7 @@ footer .copy-right {
     .solution-webhosting .text-4, .list-customer .text-1{font-size: 2em}
     .layer-16 .content-3 .col-xs-6:nth-child(3){clear: both}
     .layer-old-2 .tab-hosting .tab-content{padding: 0}
+    .layer-old-8 .content-1 .col-xs-6{width: 100%}
 }
 @media (max-width: 390px){
 }

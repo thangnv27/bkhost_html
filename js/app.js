@@ -372,7 +372,7 @@ jQuery(document).ready(function () {
     }
     if(jQuery('.layer-17 .content-2 .owl-carousel').length > 0){
         jQuery('.layer-17 .content-2 .owl-carousel').owlCarousel({
-            autoplay: false,
+            autoplay: true,
             autoplayHoverPause: true,
             loop: true,
             margin: 15,
@@ -405,6 +405,20 @@ jQuery(document).ready(function () {
                     items: 8
                 }
             }
+        });
+    }
+    if(jQuery('.main-slider .owl-carousel').length > 0){
+        jQuery('.main-slider .owl-carousel').owlCarousel({
+            autoplay: false,
+            autoplayHoverPause: true,
+            loop: false,
+            margin: 0,
+            navRewind: false,
+            nav: false,
+            navText: ['',''],
+            dots: true,
+            responsiveClass: false,
+            items: 1
         });
     }
     
