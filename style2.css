@@ -52,6 +52,12 @@
     background-size: 100% 100%;
 }
 
+.layer-old-11 .slide-email-g-suite {
+    background: url("images/slide-email-g-suite.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
 .layer-old-5 .text-slide-3, .layer-old-6 .text-slide-3,
   .layer-old-7 .text-slide-3, .layer-old-8 .text-slide-3 {
   background: #ffcc00;
@@ -1606,4 +1612,261 @@ body .slide-hosting-wordpress {
 
 .layer-old-10 .hosting-company .owl-carousel .owl-item img {
   width: auto;
+}
+
+.layer-old-11 .content-1 {
+  padding-top: 68px;
+  padding-bottom: 72px;
+}
+
+.layer-old-11 .content-1 .text-1 {
+  margin-bottom: 32px;
+}
+
+.layer-old-11 .content-1 .text-1,
+  .layer-old-11 .content-1 .text-2 {
+  font-size: 1.8em;
+  font-weight: 300;
+}
+
+.layer-old-11 .content-1 .text-2 a {
+  color: #da4c4d;
+}
+
+.layer-old-11 .content-2 {
+  background: url('images/bg-content2-email-g-suite.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-top: 105px;
+  padding-bottom: 140px;
+}
+
+.layer-old-11 .content-2 .wrap-content {
+  background: #fff;
+  padding-top: 53px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 32px;
+}
+
+.layer-old-11 .content-2 .wrap-content .text-1 {
+  font-size: 5.3em;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 29px;
+}
+
+.layer-old-11 .content-2 .wrap-content .text-2 {
+  font-size: 4.8em;
+  color: #d21d22;
+  margin-bottom: 17px;
+}
+
+.layer-old-11 .content-2 .wrap-content .text-3 {
+  font-size: 3.1em;
+  font-weight: 100;
+  color: #b0b0b0;
+  margin-bottom: 15px;
+}
+
+.layer-old-11 .content-2 .wrap-content .text-4 {
+  font-size: 1.5em;
+  font-weight: 300;
+}
+
+.layer-old-11 .content-2 .wrap-content .text-5 {
+  background: #ff9c00;
+  padding: 13px 25px;
+  margin-top: 33px;
+  margin-left: 17px;
+  margin-right: 17px;
+}
+
+.layer-old-11 .content-2 .wrap-content .text-5 a {
+  font-size: 1.5em;
+  font-weight: 300;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.layer-old-11 .content-2 .wrap-content .text-6 {
+  font-size: 1.6em;
+  font-weight: 300;
+  margin-top: 43px;
+}
+
+.layer-old-11 .content-2 .wrap-content .text-7 {
+  background: #d41617;
+  text-transform: uppercase;
+  padding: 15px 25px;
+  margin-top: 32px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.layer-old-11 .content-2 .wrap-content .text-7 a {
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.layer-old-11 .content-3 {
+  background: #87da77;
+  padding-top: 37px;
+  padding-bottom: 32px;
+}
+
+.layer-old-11 .content-3 .text-1 {
+  font-size: 6em;
+  font-weight: 300;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.layer-old-11 .content-4 {
+  padding-top: 80px;
+  padding-bottom: 47px;
+}
+
+.layer-old-11 .content-4 .text-1 {
+  font-size: 3.6em;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+
+.layer-old-11 .content-4 .text-2 {
+  font-size: 2.4em;
+  font-weight: 300;
+}
+
+.layer-old-11 .content-4 .text-2 ul li {
+  list-style: none;
+  display: inline-block;
+}
+
+.layer-old-11 .content-4 .text-2 ul li a {
+  text-decoration: none;
+  color: #000;
+}
+
+.layer-old-11 .content-4 .text-2 ul .active {
+  border-bottom: 1px solid #000;
+  padding-bottom: 14px;
+}
+
+.layer-old-11 #gmail {
+  background: url("images/bg-content-gmail.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-top: 65px;
+}
+
+.layer-old-11 #driver {
+  background: url("images/bg-content-driver.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-top: 65px;
+}
+
+.layer-old-11 #tailieu {
+  background: #e5fff3;
+  padding-top: 38px;
+  padding-bottom: 47px;
+}
+
+.layer-old-11 #adminstrator {
+  background: #fff3ff;
+  padding-top: 38px;
+  padding-bottom: 47px;
+}
+
+.layer-old-11 #tailieu .text-1,
+  .layer-old-11 #adminstrator .text-1 {
+  font-size: 3em;
+  font-weight: 300;
+  margin-top: 40px;
+}
+
+.layer-old-11 #adminstrator .text-1 {
+  margin-bottom: 35px;
+  margin-top: 70px;
+}
+
+.layer-old-11 #tailieu .text-2,
+  .layer-old-11 #adminstrator .text-2 {
+  font-size: 1.7em;
+  font-weight: 300;
+}
+
+.layer-old-11 #gmail .text-1,
+  .layer-old-11 #driver .text-1 {
+  font-size: 3.6em;
+  font-weight: 300;
+  margin-bottom: 34px;
+}
+
+.layer-old-11 #gmail .text-2,
+  .layer-old-11 #driver .text-2 {
+  font-size: 1.8em;
+  font-weight: 300;
+  margin-bottom: 34px;
+}
+
+.layer-old-11 #gmail .icon-left, .layer-old-11 #gmail .icon-right,
+  .layer-old-11 #driver .icon-left, .layer-old-11 #driver .icon-right {
+  margin-top: 115px;
+}
+
+.layer-old-11 #tailieu .icon-left, .layer-old-11 #tailieu .icon-right,
+  .layer-old-11 #adminstrator .icon-left, .layer-old-11 #adminstrator .icon-right {
+  margin-top: 130px;
+}
+
+.layer-old-11 #gmail .text-3,
+  .layer-old-11 #driver .text-3 {
+  float: left;
+  margin-bottom: 60px;
+}
+
+.layer-old-11 #gmail .text-3 a,
+  .layer-old-11 #driver .text-3 a {
+  font-size: 1.6em;
+  font-weight: 300;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 11px 39px;
+  text-decoration: none;
+  background: #21beff;
+  border-radius: 20px;
+}
+
+.layer-old-11 .content-5 {
+  padding-top: 93px;
+  padding-bottom: 154px;
+}
+
+.layer-old-11 .content-5 .text-1 {
+  margin-top: 0;
+  font-size: 4.5em;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 71px;
+}
+
+.layer-old-11 .content-5 .text-2 {
+  font-size: 1.8em;
+  font-weight: bold;
+}
+
+.layer-old-11 .content-5 .text-3 {
+  font-size: 1.6em;
+  font-weight: 300;
+}
+
+.layer-old-11 .content-5 .row-1 {
+  margin-bottom: 71px;
+}
+
+.layer-old-11 .content-6 {
+  padding-bottom: 112px;
 }
