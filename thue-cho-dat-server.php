@@ -17,7 +17,7 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-lg-2 col-sm-4 col-xs-6">
-                    <div class="block-content">
+                    <div class="block-content hot">
                         <img class="icon-loco" src="images/colo-1.png" alt="Icon Colo">
                         <div class="text-1">
                             DataCenter đạt chuẩn Quốc tế Tier 3
@@ -39,7 +39,7 @@
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-4 col-xs-6">
-                    <div class="block-content">
+                    <div class="block-content hot">
                         <img class="icon-loco" src="images/colo-2.png" alt="Icon Colo">
                         <div class="text-1">
                             DataCenter đạt chuẩn Quốc tế Tier 3
@@ -61,7 +61,7 @@
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-4 col-xs-6">
-                    <div class="block-content">
+                    <div class="block-content hot">
                         <img class="icon-loco" src="images/colo-3.png" alt="Icon Colo">
                         <div class="text-1">
                             DataCenter đạt chuẩn Quốc tế Tier 3
@@ -83,7 +83,7 @@
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-4 col-xs-6">
-                    <div class="block-content">
+                    <div class="block-content hot">
                         <img class="icon-loco" src="images/colo-4.png" alt="Icon Colo">
                         <div class="text-1">
                             DataCenter đạt chuẩn Quốc tế Tier 3
@@ -105,7 +105,7 @@
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-4 col-xs-6">
-                    <div class="block-content">
+                    <div class="block-content hot">
                         <img class="icon-loco" src="images/colo-5.png" alt="Icon Colo">
                         <div class="text-1">
                             DataCenter đạt chuẩn Quốc tế Tier 3
@@ -127,7 +127,7 @@
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-4 col-xs-6">
-                    <div class="block-content">
+                    <div class="block-content hot">
                         <img class="icon-loco" src="images/colo-6.png" alt="Icon Colo">
                         <div class="text-1">
                             DataCenter đạt chuẩn Quốc tế Tier 3
