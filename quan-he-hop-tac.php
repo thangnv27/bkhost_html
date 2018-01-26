@@ -9,7 +9,7 @@
     <div class="container">
         <div class="text-1 text-center">
             <p>Trụ sở chính đặt tại Hà Nội - Việt Nam, BKHOST đang hỗ trợ hơn <b>3.500</b> công ty và <b>11.000</b> người sử dụng và với đội ngũ nhân viên hơn 15 thành viên. 
-            Do đó bạn hãy yên tâm rằng chúng tôi sẽ đem đến cho bạn những dịch vụ tốt nhất mà chúng tôi có.</p>
+                Do đó bạn hãy yên tâm rằng chúng tôi sẽ đem đến cho bạn những dịch vụ tốt nhất mà chúng tôi có.</p>
             <p>Với sự pha trộn độc đáo của phần mềm bản quyền, quy trình công việc tự động, tối ưu hóa và phát triển nguồn nhân lực chuyên nghiệp, 
                 BKHOST đã có thể đạt được mức độ cao về hiệu quả hoạt động. Điều này đã cho phép chúng tôi cung cấp các giải pháp với hiệu suất cao 
                 cùng sự hỗ trợ khách hàng <b>24x7</b> cho tốc độ và giá cả phải chăng nhất</p>
@@ -19,7 +19,9 @@
 <div class="support-intro-1">
     <div class="content">
         <div class="half-full-left text-right">
-            <a href="#link_video"><img src="images/quan-he-hop-tac.png" /></a>
+            <a href="https://www.youtube.com/watch?v=_HCX2dxzhf4" class="fancybox" data-fancybox="gallery">
+                <img src="images/quan-he-hop-tac.png" />
+            </a>
         </div>
         <div class="half-full-right text-left">
             <p class="text-2">Chiến lược kinh doanh cho đối tác</p>

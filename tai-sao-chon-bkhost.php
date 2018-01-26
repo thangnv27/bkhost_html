@@ -30,11 +30,11 @@
                     <p class="text-2">BKHOST</p>
                     <div class="font-size-18">
                         <p>Yếu tố nhân sự BKHOST là quan trọng nhất để thực hiện sứ mệnh chăm sóc khách hàng 24/7, với kinh nghiệm sắp xếp nhân sự 
-                        hỗ trợ cho từng dịch vụ sản phẩm khác nhau nên việc giải quyết các vấn đề khi có sự cố luôn đảm bảo nhanh nhất và ổn định 
-                        nhất. Chúng tôi biết rằng việc thay đổi nhà cung cấp dịch vụ của bạn là khó khăn. Tuy nhiên bạn hãy tin vào đội ngũ nhân 
-                        viên của chúng tôi luôn ở bên bạn.<br><br>Để tiếp cận với nhóm hỗ trợ của chúng tôi rất dễ dàng, bạn có thể liên hệ với 
-                        chúng tôi qua các kênh như: Live Chat, Ticket, Email, Điện thoại, Chat Facebook và ở đó chúng tôi luôn chờ bạn yêu cầu 
-                        đem đến sự hài lòng cho khách hàng khi sử dụng dịch vụ của chúng tôi.</p>
+                            hỗ trợ cho từng dịch vụ sản phẩm khác nhau nên việc giải quyết các vấn đề khi có sự cố luôn đảm bảo nhanh nhất và ổn định 
+                            nhất. Chúng tôi biết rằng việc thay đổi nhà cung cấp dịch vụ của bạn là khó khăn. Tuy nhiên bạn hãy tin vào đội ngũ nhân 
+                            viên của chúng tôi luôn ở bên bạn.<br><br>Để tiếp cận với nhóm hỗ trợ của chúng tôi rất dễ dàng, bạn có thể liên hệ với 
+                            chúng tôi qua các kênh như: Live Chat, Ticket, Email, Điện thoại, Chat Facebook và ở đó chúng tôi luôn chờ bạn yêu cầu 
+                            đem đến sự hài lòng cho khách hàng khi sử dụng dịch vụ của chúng tôi.</p>
                         <p>Liên hệ hoặc gọi cho chúng tôi <b><a href="tel:+842462591442">+84 24 6259 1442</a></b> để biết thêm thông tin chi tiết.</p>
                     </div>
                 </div>

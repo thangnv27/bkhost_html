@@ -25,8 +25,8 @@
                     <p class="text-2">BKHOST</p>
                     <div class="text-3">
                         <p>BKHOST.vn là nhà cung cấp dịch vụ trên Internet thuộc TOP tại Việt Nam, chúng tôi hỗ trợ hơn 3.500 công ty và 11.000 
-                        người sử dụng. BKHOST cung cấp uy tín, chất lượng cho các giải pháp dịch vụ trên Internet như: Tên miền, hosting, 
-                        Email Server, Cloud VPS, Máy chủ, Colo cation, An ninh và giải pháp mạng, tất cả được chúng tôi hỗ trợ liên tục 24/24.</p>
+                            người sử dụng. BKHOST cung cấp uy tín, chất lượng cho các giải pháp dịch vụ trên Internet như: Tên miền, hosting, 
+                            Email Server, Cloud VPS, Máy chủ, Colo cation, An ninh và giải pháp mạng, tất cả được chúng tôi hỗ trợ liên tục 24/24.</p>
                         <p>Với việc tập trung vào kỹ thuật tiên tiến và nhanh chóng, am hiểu khách hàng, BKHOST luôn đem đến sự hài lòng cho khách hàng khi sử dụng dịch vụ của chúng tôi.</p>
                         <p>Liên hệ hoặc gọi cho chúng tôi <b><a href="tel:+842462591442">+84 24 6259 1442</a></b> để biết thêm thông tin chi tiết.</p>
                     </div>

@@ -78,7 +78,7 @@
                 <div class="text-4">
                     <p>Địa chỉ: P.815.B Đại Kim Building, Vũ Tông Phan, Định Công, Hà Nội</p>
                     <p>Điện thoại: <b><a href="tel:02462591442">024 6259 1442</a> - <a href="tel:088870620">08 887 0620</a> - 
-                        <a href="tel:0984131161">0984.131.161</a></b></p>
+                            <a href="tel:0984131161">0984.131.161</a></b></p>
                     <p>Mã số thuế: <b><a href="tel:0106810847">0106810847</a></b></p>
                 </div>
                 <br><br>

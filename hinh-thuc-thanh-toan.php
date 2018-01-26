@@ -119,55 +119,55 @@
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <p><strong>NGÂN HÀNG VIETCOMBANK</strong><br />
-                                        Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
-                                        Số tài khoản: <strong>0011003616145</strong><br/>
-                                        Chi nhánh: <strong>Ba Đình - Hà Nội</strong></p>
+                                            Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
+                                            Số tài khoản: <strong>0011003616145</strong><br/>
+                                            Chi nhánh: <strong>Ba Đình - Hà Nội</strong></p>
                                         <hr/>
-                                                                        <p><strong>NGÂN HÀNG AGRIBANK</strong><br />
-                                        Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
-                                        Số tài khoản: <strong>1482205377238</strong><br/>
-                                        Chi nhánh: <strong>Hùng Vương - Hà Nội</strong></p>
+                                        <p><strong>NGÂN HÀNG AGRIBANK</strong><br />
+                                            Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
+                                            Số tài khoản: <strong>1482205377238</strong><br/>
+                                            Chi nhánh: <strong>Hùng Vương - Hà Nội</strong></p>
                                         <hr/>
                                         <p><strong>NGÂN HÀNG Á CHÂU</strong><br />
-                                        Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
-                                        Số tài khoản: <strong>200577189</strong><br/>
-                                        Chi nhánh: <strong>Hoàng Quốc Việt – Hà Nội</strong></p>
+                                            Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
+                                            Số tài khoản: <strong>200577189</strong><br/>
+                                            Chi nhánh: <strong>Hoàng Quốc Việt – Hà Nội</strong></p>
                                         <hr/>
                                         <p><strong>NGÂN HÀNG SACOMBANK</strong><br />
-                                        Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
-                                        Số tài khoản: <strong>020031079791</strong><br/>
-                                        Chi nhánh: <strong>Thăng Long – Hà Nội</strong></p>
+                                            Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
+                                            Số tài khoản: <strong>020031079791</strong><br/>
+                                            Chi nhánh: <strong>Thăng Long – Hà Nội</strong></p>
                                         <hr/>
                                         <p><strong>NGÂN HÀNG VIETCOMBANK</strong><br />
-                                        Tên tài khoản: <strong>Công ty CP giải pháp mạng trực tuyến Việt Nam</strong><br/>
-                                        Số tài khoản: <strong>0021000334936</strong><br/>
-                                        Chi nhánh: <strong>Hà Nội</strong></p>
+                                            Tên tài khoản: <strong>Công ty CP giải pháp mạng trực tuyến Việt Nam</strong><br/>
+                                            Số tài khoản: <strong>0021000334936</strong><br/>
+                                            Chi nhánh: <strong>Hà Nội</strong></p>
                                     </div>
                                     <div class="col-sm-6">
                                         <p><strong>NGÂN HÀNG VIETINBANK</strong><br />
-                                        Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
-                                        Số tài khoản: <strong>102001621276</strong><br/>
-                                        Chi nhánh: <strong>Nam Thăng Long - Hà Nội</strong></p>
+                                            Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
+                                            Số tài khoản: <strong>102001621276</strong><br/>
+                                            Chi nhánh: <strong>Nam Thăng Long - Hà Nội</strong></p>
                                         <hr/>
                                         <p><strong>NGÂN HÀNG TECHCOMBANK</strong><br />
-                                        Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
-                                        Số tài khoản: <strong>19029399251019</strong><br/>
-                                        Chi nhánh: <strong>Hoàng Quốc Việt - Hà Nội</strong></p>
+                                            Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
+                                            Số tài khoản: <strong>19029399251019</strong><br/>
+                                            Chi nhánh: <strong>Hoàng Quốc Việt - Hà Nội</strong></p>
                                         <hr/>
-                                                                        <p><strong>NGÂN HÀNG TPBANK</strong><br />
-                                        Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
-                                        Số tài khoản: <strong>00567364001</strong><br/>
-                                        Chi nhánh: <strong>Linh Đàm - Hà Nội</strong></p>
+                                        <p><strong>NGÂN HÀNG TPBANK</strong><br />
+                                            Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
+                                            Số tài khoản: <strong>00567364001</strong><br/>
+                                            Chi nhánh: <strong>Linh Đàm - Hà Nội</strong></p>
                                         <hr/>
                                         <p><strong>NGÂN HÀNG ĐÔNG Á</strong><br />
-                                        Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
-                                        Số tài khoản: <strong>0110386229</strong><br/>
-                                        Chi nhánh: <strong>Cầu Giấy - Hà Nội</strong></p>
+                                            Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
+                                            Số tài khoản: <strong>0110386229</strong><br/>
+                                            Chi nhánh: <strong>Cầu Giấy - Hà Nội</strong></p>
                                         <hr/>
                                         <p><strong>NGÂN HÀNG BIDV</strong><br />
-                                        Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
-                                        Số tài khoản: <strong>21510001663757</strong><br/>
-                                        Chi nhánh: <strong>Cầu Giấy - Hà Nội</strong></p>
+                                            Tên tài khoản: <strong>Trinh Duy Thanh</strong><br/>
+                                            Số tài khoản: <strong>21510001663757</strong><br/>
+                                            Chi nhánh: <strong>Cầu Giấy - Hà Nội</strong></p>
                                     </div>
                                 </div>
                             </div>

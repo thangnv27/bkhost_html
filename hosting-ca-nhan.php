@@ -1,4 +1,5 @@
 <?php include("header.php"); ?>
+
 <div class="slide-hosting-ca-nhan text-center">
     <div class="container">
         <h1 class="text-slide-1">Hosting cá nhân</h1>
@@ -118,7 +119,7 @@
 <div class="info-technical">
     <div class="container">
         <div class="btn-view-info-technical">
-            <a href="#">Xem đầy đủ thông tin kỹ thuật</a>
+            <a href="hosting-ca-nhan-2.php">Xem đầy đủ thông tin kỹ thuật</a>
         </div>
     </div>
 </div>

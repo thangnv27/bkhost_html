@@ -79,7 +79,7 @@
                             <div class="col-xs-9">
                                 <h3>Siêu <span>thuận tiện</span></h3>
                                 <p>Chuyển đổi dịch vụ sang BKHOST? Chúng tôi hiểu bạn rất khó khăn khi quyết định vấn đề này, Nhưng chúng tôi cam kết 100%
-								hỗ trợ bạn việc chuyển đổi này được tốt nhất!</p>
+                                    hỗ trợ bạn việc chuyển đổi này được tốt nhất!</p>
                             </div>
                         </div>
                     </div>
@@ -151,7 +151,7 @@
                                     <div class="col-xs-9">
                                         <h3>Nhiều nền tảng hỗ trợ</h3>
                                         <p>Chúng tôi hiểu rằng khách hàng khác nhau có những phương thức tiếp xúc với công cụ hỗ trợ khác nhau. Do đó,
-										chúng tôi cung cấp 4 hình thức hỗ trợ:</p>
+                                            chúng tôi cung cấp 4 hình thức hỗ trợ:</p>
                                         <p>
                                             <a class="support-method" href="https://tawk.to/chat/5812bd87e808d60cd073adcc/default/?$_tawk_popout=true&$_tawk_sk=59719fa77b37fecfcfc4e54d&$_tawk_tk=7c4ef1ea266df1580d434dd000b0d89e&v=561" title="Chat với chúng tôi">
                                                 <img alt="Chat" src="images/icon-chat2.png" />

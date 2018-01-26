@@ -118,7 +118,7 @@
 <div class="info-technical">
     <div class="container">
         <div class="btn-view-info-technical">
-            <a href="#">Xem đầy đủ thông tin kỹ thuật</a>
+            <a href="hosting-wordpress-2.php">Xem đầy đủ thông tin kỹ thuật</a>
         </div>
         <div class="row wp-hosting">
             <div class="col-md-6">

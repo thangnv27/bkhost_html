@@ -36,7 +36,7 @@
                                 <p class="text-5">
                                     - 1 năm -
                                 </p>
-                                <a href="javascript:void(0)">
+                                <a href="https://manage.bkhost.vn/cart.php?a=add&pid=204&carttpl=standard_cart">
                                     Đăng ký ngay
                                 </a>
                             </div>

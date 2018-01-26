@@ -19,7 +19,7 @@
         <div class="container">
             <ul class="nav nav-tabs">
                 <li>
-                    <a data-toggle="tab" href="#tab1">
+                    <a data-toggle="tab" href="phan-mem-cloud-linux.php">
                         Cloud Linux
                     </a>
                 </li>
@@ -29,12 +29,12 @@
                     </a>
                 </li>
                 <li>
-                    <a data-toggle="tab" href="#tab3">
+                    <a data-toggle="tab" href="phan-mem-directadmin.php">
                         Direcadmin
                     </a>
                 </li>
                 <li>
-                    <a data-toggle="tab" href="#tab4">
+                    <a data-toggle="tab" href="phan-mem-litespeed.php">
                         Litespeedn
                     </a>
                 </li>

@@ -35,7 +35,7 @@
                         <p>Giá cả phải chăng</p>
                         <p>Dễ dàng nâng cấp và hạ cấp</p>
                     </div>
-                    <a href="#" class="btn-register-hosting">
+                    <a href="hosting-ca-nhan.php" class="btn-register-hosting">
                         Đăng ký ngay
                     </a>
                 </div>
@@ -57,7 +57,7 @@
                         <p>Giá cả phải chăng</p>
                         <p>Dễ dàng nâng cấp và hạ cấp</p>
                     </div>
-                    <a href="#" class="btn-register-hosting">
+                    <a href="hosting-doanh-nghiep.php" class="btn-register-hosting">
                         Đăng ký ngay
                     </a>
                 </div>
@@ -79,7 +79,7 @@
                         <p>Giá cả phải chăng</p>
                         <p>Dễ dàng nâng cấp và hạ cấp</p>
                     </div>
-                    <a href="#" class="btn-register-hosting">
+                    <a href="hosting-wordpress.php" class="btn-register-hosting">
                         Đăng ký ngay
                     </a>
                 </div>

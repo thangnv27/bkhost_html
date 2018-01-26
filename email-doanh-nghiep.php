@@ -63,7 +63,7 @@
                         <p>Email gửi / ngày: <b>500</b> / 1 User</p>
                         <p>Bảo mật 2 lớp: <b>Có</b></p>
                     </div>
-                    <a href="#" class="btn-register-hosting">
+                    <a href="https://manage.bkhost.vn/cart.php?a=add&pid=195" class="btn-register-hosting">
                         Đăng ký ngay
                     </a>
                 </div>
@@ -84,7 +84,7 @@
                         <p>Email gửi / ngày: <b>500</b> / 1 User</p>
                         <p>Bảo mật 2 lớp: <b>Có</b></p>
                     </div>
-                    <a href="#" class="btn-register-hosting">
+                    <a href="https://manage.bkhost.vn/cart.php?a=add&pid=196" class="btn-register-hosting">
                         Đăng ký ngay
                     </a>
                 </div>
@@ -105,7 +105,7 @@
                         <p>Email gửi / ngày: <b>500</b> / 1 User</p>
                         <p>Bảo mật 2 lớp: <b>Có</b></p>
                     </div>
-                    <a href="#" class="btn-register-hosting">
+                    <a href="https://manage.bkhost.vn/cart.php?a=add&pid=196" class="btn-register-hosting">
                         Đăng ký ngay
                     </a>
                 </div>
@@ -126,7 +126,28 @@
                         <p>Email gửi / ngày: <b>500</b> / 1 User</p>
                         <p>Bảo mật 2 lớp: <b>Có</b></p>
                     </div>
-                    <a href="#" class="btn-register-hosting">
+                    <a href="https://manage.bkhost.vn/cart.php?a=add&pid=197" class="btn-register-hosting">
+                        Đăng ký ngay
+                    </a>
+                </div>
+                <div class="content-web-hosting">
+                    <p class="text-hosting-1">BKH-SV100</p>
+                    <p class="text-hosting-2">9.000.000</p>
+                    <strike class="text-hosting-3">10.000.000</strike>
+                    <p class="text-hosting-4">- vĩnh viễn -</p>
+                    <div class="discount-code-email">
+                        <p class="text-hosting-5">Nhập mã khuyến mãi (-50%) áp dụng 25/10 - 25/11/2017</p>
+                        <div class="line-discount"><p></p></div>
+                        <p class="text-hosting-6">KMHT850</p>
+                    </div>
+                    <div class="details-service">
+                        <p>Số lượng Email: <b>10 Email</b></p>
+                        <p>Lưu trữ: <b>15GB</b>/1 User</p>
+                        <p>Quản lý email nhân viên: <b>Có</b></p>
+                        <p>Email gửi / ngày: <b>500</b> / 1 User</p>
+                        <p>Bảo mật 2 lớp: <b>Có</b></p>
+                    </div>
+                    <a href="https://manage.bkhost.vn/cart.php?a=add&pid=198" class="btn-register-hosting">
                         Đăng ký ngay
                     </a>
                 </div>

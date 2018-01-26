@@ -67,8 +67,7 @@ src="https://www.facebook.com/tr?id=2046786622224298&ev=PageView&noscript=1"
     
     <header id="desktop-header">
         <div class="top-header">
-            <div class="container">
-            </div>
+            <div class="container"></div>
         </div>
         <div class="content-header">
             <div class="container">

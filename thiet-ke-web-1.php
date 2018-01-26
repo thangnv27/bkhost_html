@@ -12,7 +12,7 @@
                         <p class="text-2">
                             Thiết kế website dành cho tổ chức, doanh nghiệp, dịch vụ với hàng trăm mẫu giao diện tích hợp chức năng đầy đủ, dể dàng quản trị
                         </p>
-                        <a class="btn-1" href="#">
+                        <a class="btn-1" href="web-theo-yeu-cau.php">
                             Xem Thêm
                         </a>
                     </div>
@@ -26,7 +26,7 @@
                         <p class="text-2">
                             Thiết kế website dành cho tổ chức, doanh nghiệp, dịch vụ với hàng trăm mẫu giao diện tích hợp chức năng đầy đủ, dể dàng quản trị
                         </p>
-                        <a class="btn-2" href="#">
+                        <a class="btn-2" href="thiet-ke-web-1.php">
                             Xem Thêm
                         </a>
                     </div>

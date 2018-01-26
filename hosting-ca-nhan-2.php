@@ -1,17 +1,16 @@
 <?php include("header.php"); ?>
-
 <div class="slide-5 text-center">
     <div class="container">
-        <h1 class="text-slide-1">Hosting doanh nghiệp</h1>
-        <h2 class="text-slide-2">Hosting dành cho doanh nghiệp chuyên nghiệp</h2>
+        <h1 class="text-slide-1">Hosting cá nhân</h1>
+        <h2 class="text-slide-2">Giá cả phải chăng, Setup website nhanh chóng</h2>
     </div>
 </div>
 <div class="backup-intro">
     <div class="container">
         <div class="text-1-backup-intro">
-            <p>
-                Hosting doanh nghiệp cho phép bạn tận hưởng tốc độ cao và tính năng cao cấp với giá cả phải chăng. Nếu bạn cần một dịch vụ chất lượng cho hoạt động kinh doanh tốt nhất thì Hosting doanh nghiệp sẽ đáp ứng được nhiều yêu cầu cho doanh nghiệp bạn! Nếu bạn có hỏi thuê hosting ở đâu tốt nhất thì chúng tôi tin tưởng rằng BKHOST là lựa chọn cho bạn.
-            </p>
+            <p>Đây cũng là gói dịch vụ cơ bản dành cho các khách hàng mới sử dụng Website trong giai đoạn đầu phát triển, 
+                với mức chi phí vừa phải và hợp lý, thích hợp sử dụng cho các Website cá nhân. Thưởng thức độ tin cậy, hỗ trợ và hiệu suất tốt nhất 
+                - bắt đầu tài khoản hosting của bạn ngay hôm nay, chúng tôi đảm bảo hoàn lại tiền 30 ngày nếu Quý vị không hài lòng với dịch vụ. Chúng tôi tin tưởng là nhà cung cấp dịch vụ Hosting thuộc TOP uy tín nhất của Việt Nam!</p>
         </div>
         <div class="specifications">
             <div class="container">
@@ -21,31 +20,31 @@
                             <td style="width: 17%"></td>
                             <td style="width: 16%">
                                 <div class="column-header">
-                                    <div class="pkg-name">BK-DN01</div>
+                                    <div class="pkg-name">START</div>
                                     <div class="pkg-desc">Hoàn hảo kế hoạch lưu trữ website của bạn!</div>
                                 </div>
                             </td>
                             <td style="width: 16%">
                                 <div class="column-header">
-                                    <div class="pkg-name">BK-DN02</div>
+                                    <div class="pkg-name">START PLUS</div>
                                     <div class="pkg-desc">Nhận được nhiều hơn về không gian lưu trữ trực tuyến và email cho website của bạn.</div>
                                 </div>
                             </td>
                             <td style="width: 16%">
                                 <div class="column-header">
-                                    <div class="pkg-name">BK-DN03</div>
+                                    <div class="pkg-name">SILVER</div>
                                     <div class="pkg-desc">Nhận được nhiều hơn về không gian lưu trữ trực tuyến và email cho website của bạn.</div>
                                 </div>
                             </td>
                             <td style="width: 16%">
                                 <div class="column-header">
-                                    <div class="pkg-name">BK-DN04</div>
+                                    <div class="pkg-name">SILVER PLUS</div>
                                     <div class="pkg-desc">Nhận được nhiều hơn về không gian lưu trữ trực tuyến và email cho website của bạn.</div>
                                 </div>
                             </td>
                             <td style="width: 16%">
                                 <div class="column-header">
-                                    <div class="pkg-name">BK-DN05</div>
+                                    <div class="pkg-name">GOLD</div>
                                     <div class="pkg-desc">Nhận được nhiều hơn về không gian lưu trữ trực tuyến và email cho website của bạn.</div>
                                 </div>
                             </td>
@@ -55,10 +54,10 @@
                                 <span class="rn">Dung lượng lưu trữ</span>
                                 <i class="fa fa-question-circle" aria-hidden="true"></i>
                             </td>
+                            <td><span class="val val-odd bold">700 MB</span></td>
+                            <td><span class="val val-odd bold">1 GB</span></td>
                             <td><span class="val val-odd bold">2 GB</span></td>
-                            <td><span class="val val-odd bold">4 GB</span></td>
-                            <td><span class="val val-odd bold">6 GB</span></td>
-                            <td><span class="val val-odd bold">8 GB</span></td>
+                            <td><span class="val val-odd bold">3 GB</span></td>
                             <td><span class="val val-odd bold">10 GB</span></td>
                         </tr>
                         <tr>
@@ -66,8 +65,8 @@
                                 <span class="rn">Băng thông</span>
                                 <i class="fa fa-question-circle" aria-hidden="true"></i>
                             </td>
-                            <td><span class="val val-even">Không giới hạn</span></td>
-                            <td><span class="val val-even">Không giới hạn</span></td>
+                            <td><span class="val val-even">20 GB</span></td>
+                            <td><span class="val val-even">50 GB</span></td>
                             <td><span class="val val-even">Không giới hạn</span></td>
                             <td><span class="val val-even">Không giới hạn</span></td>
                             <td><span class="val val-even">Không giới hạn</span></td>
@@ -88,11 +87,11 @@
                                 <span class="rn">Hệ thống Hosting tại Việt Nam</span>
                                 <i class="fa fa-question-circle" aria-hidden="true"></i>
                             </td>
-                            <td><span class="val val-even"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=179" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
-                            <td><span class="val val-even"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=180" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
-                            <td><span class="val val-even"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=181" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
-                            <td><span class="val val-even"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=182" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
-                            <td><span class="val val-even"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=183" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
+                            <td><span class="val val-even"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=10" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
+                            <td><span class="val val-even"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=11" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
+                            <td><span class="val val-even"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=12" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
+                            <td><span class="val val-even"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=13" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
+                            <td><span class="val val-even"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=14" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
                         </tr>
                         <tr>
                             <td colspan="6"><div class="block-title block-title1"><span>Các tính năng của Hosting</span></div></td>
@@ -102,22 +101,22 @@
                                 <span class="rn">MySQL cơ sở dữ liệu</span>
                                 <i class="fa fa-question-circle" aria-hidden="true"></i>
                             </td>
-                            <td><span class="val val-odd">Không giới hạn</span></td>
-                            <td><span class="val val-odd">Không giới hạn</span></td>
-                            <td><span class="val val-odd">Không giới hạn</span></td>
-                            <td><span class="val val-odd">Không giới hạn</span></td>
-                            <td><span class="val val-odd">Không giới hạn</span></td>
+                            <td><span class="val val-odd">không giới hạn</span></td>
+                            <td><span class="val val-odd">không giới hạn</span></td>
+                            <td><span class="val val-odd">không giới hạn</span></td>
+                            <td><span class="val val-odd">không giới hạn</span></td>
+                            <td><span class="val val-odd">không giới hạn</span></td>
                         </tr>
                         <tr>
                             <td>
                                 <span class="rn">Tên miền phụ</span>
                                 <i class="fa fa-question-circle" aria-hidden="true"></i>
                             </td>
-                            <td><span class="val val-even">Không giới hạn</span></td>
-                            <td><span class="val val-even">Không giới hạn</span></td>
-                            <td><span class="val val-even">Không giới hạn</span></td>
-                            <td><span class="val val-even">Không giới hạn</span></td>
-                            <td><span class="val val-even">Không giới hạn</span></td>
+                            <td><span class="val val-even">không giới hạn</span></td>
+                            <td><span class="val val-even">không giới hạn</span></td>
+                            <td><span class="val val-even">không giới hạn</span></td>
+                            <td><span class="val val-even">không giới hạn</span></td>
+                            <td><span class="val val-even">không giới hạn</span></td>
                         </tr>
                         <tr>
                             <td>
@@ -137,9 +136,9 @@
                             </td>
                             <td><span class="val val-even">1</span></td>
                             <td><span class="val val-even">2</span></td>
+                            <td><span class="val val-even">3</span></td>
                             <td><span class="val val-even">4</span></td>
                             <td><span class="val val-even">6</span></td>
-                            <td><span class="val val-even">8</span></td>
                         </tr>
                         <tr>
                             <td>
@@ -229,51 +228,51 @@
                                 <span class="rn">Thanh toán 6 tháng</span>
                                 <i class="fa fa-question-circle" aria-hidden="true"></i>
                             </td>
-                            <td><span class="val val-even">600k/tháng</span></td>
-                            <td><span class="val val-even">1.140k/tháng</span></td>
-                            <td><span class="val val-even">1.680k/tháng</span></td>
-                            <td><span class="val val-even">2.520k/tháng</span></td>
-                            <td><span class="val val-even">3.000k/tháng</span></td>
+                            <td><span class="val val-even">141k/6 tháng</span></td>
+                            <td><span class="val val-even">240k/6 tháng</span></td>
+                            <td><span class="val val-even">483k/6 tháng</span></td>
+                            <td><span class="val val-even">750k/6 tháng</span></td>
+                            <td><span class="val val-even">990k/6 tháng</span></td>
                         </tr>
                         <tr>
                             <td>
                                 <span class="rn">Thanh toán 12 tháng</span>
                                 <i class="fa fa-question-circle" aria-hidden="true"></i>
                             </td>
-                            <td><span class="val val-odd">1.2k/tháng</span></td>
-                            <td><span class="val val-odd">2.280k/tháng</span></td>
-                            <td><span class="val val-odd">3.360k/tháng</span></td>
-                            <td><span class="val val-odd">5.040k/tháng</span></td>
-                            <td><span class="val val-odd">6.000k/tháng</span></td>
+                            <td><span class="val val-odd">282k/12 tháng</span></td>
+                            <td><span class="val val-odd">480k/12 tháng</span></td>
+                            <td><span class="val val-odd">966k/12 tháng</span></td>
+                            <td><span class="val val-odd">1.500k/12 tháng</span></td>
+                            <td><span class="val val-odd">1.980k/12 tháng</span></td>
                         </tr>
                         <tr>
                             <td>
                                 <span class="rn">Thanh toán 24 tháng</span>
                                 <i class="fa fa-question-circle" aria-hidden="true"></i>
                             </td>
-                            <td><span class="val val-even">2.4k/tháng</span></td>
-                            <td><span class="val val-even">4.560k/tháng</span></td>
-                            <td><span class="val val-even">6.720k/tháng</span></td>
-                            <td><span class="val val-even">10.080k/tháng</span></td>
-                            <td><span class="val val-even">12.000k/tháng</span></td>
+                            <td><span class="val val-even">564k/24 tháng</span></td>
+                            <td><span class="val val-even">960k/24 tháng</span></td>
+                            <td><span class="val val-even">1.932k/24 tháng</span></td>
+                            <td><span class="val val-even">3.000k/24 tháng</span></td>
+                            <td><span class="val val-even">3.960k/24 tháng</span></td>
                         </tr>
                         <tr>
                             <td>
                                 <span class="rn">Hệ thống Hosting tại Việt Nam</span>
                                 <i class="fa fa-question-circle" aria-hidden="true"></i>
                             </td>
-                            <td><span class="val val-odd"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=179" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
-                            <td><span class="val val-odd"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=180" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
-                            <td><span class="val val-odd"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=181" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
-                            <td><span class="val val-odd"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=182" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
-                            <td><span class="val val-odd"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=183" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
+                            <td><span class="val val-odd"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=10" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
+                            <td><span class="val val-odd"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=11" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
+                            <td><span class="val val-odd"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=12" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
+                            <td><span class="val val-odd"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=13" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
+                            <td><span class="val val-odd"><a href="https://manage.bkhost.vn/cart.php?a=add&pid=14" class="btn btn-warning">ĐĂNG KÝ</a></span></td>
                         </tr>
                     </table>
                 </div>
             </div>
-        </div><!--/.specifications-->
+        </div>
         <div class="btn-view-info-technical">
-            <a href="hosting-doanh-nghiep.php">Các gói hosting</a>
+            <a href="hosting-ca-nhan.php">Các gói hosting</a>
         </div>
     </div>
 </div>

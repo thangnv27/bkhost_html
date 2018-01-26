@@ -34,86 +34,102 @@
     <div class="container">
         <div class="owl-carousel">
             <div class="content-web-hosting">
-                <p class="text-hosting-1">BKH-GA10</p>
-                <p class="text-hosting-2">3.500.000</p>
+                <p class="text-hosting-1">BKMAIL-S01</p>
+                <p class="text-hosting-2">180.000</p>
                 <strike class="text-hosting-3">4.000.000</strike>
-                <p class="text-hosting-4">- vĩnh viễn -</p>
+                <p class="text-hosting-4">- 1 tháng -</p>
                 <div class="discount-code-email">
                     <p class="text-hosting-5">Nhập mã khuyến mãi (-50%) áp dụng 25/10 - 25/11/2017</p>
                     <div class="line-discount"><p></p></div>
                     <p class="text-hosting-6">KMHT850</p>
                 </div>
                 <div class="details-service">
-                    <p>Số lượng Email: <b>10 Email</b></p>
-                    <p>Lưu trữ: <b>15GB</b>/1 User</p>
-                    <p>Quản lý email nhân viên: <b>Có</b></p>
-                    <p>Email gửi / ngày: <b>500</b> / 1 User</p>
-                    <p>Bảo mật 2 lớp: <b>Có</b></p>
+                    <p>Dung lượng Backup: <b>25GB</b></p>
+                    <p>Mã hóa Backup: <b>Có</b></p>
+                    <p>Backup: <b>7 bản</b>/7 ngày</p>
+                    <p>Lưu trữ: <b>Cloud Server</b></p>
                 </div>
-                <a href="#" class="btn-register-hosting">
+                <a href="https://manage.bkhost.vn/cart.php?a=add&pid=218&carttpl=standard_cart" class="btn-register-hosting">
                     Đăng ký ngay
                 </a>
             </div>
             <div class="content-web-hosting">
-                <p class="text-hosting-1">BKH-GA50</p>
-                <p class="text-hosting-2">5.000.000</p>
-                <strike class="text-hosting-3">6.000.000</strike>
-                <p class="text-hosting-4">- vĩnh viễn -</p>
+                <p class="text-hosting-1">BKMAIL-S02</p>
+                <p class="text-hosting-2">180.000</p>
+                <strike class="text-hosting-3">4.000.000</strike>
+                <p class="text-hosting-4">- 1 tháng -</p>
                 <div class="discount-code-email">
                     <p class="text-hosting-5">Nhập mã khuyến mãi (-50%) áp dụng 25/10 - 25/11/2017</p>
                     <div class="line-discount"><p></p></div>
                     <p class="text-hosting-6">KMHT850</p>
                 </div>
                 <div class="details-service">
-                    <p>Số lượng Email: <b>10 Email</b></p>
-                    <p>Lưu trữ: <b>15GB</b>/1 User</p>
-                    <p>Quản lý email nhân viên: <b>Có</b></p>
-                    <p>Email gửi / ngày: <b>500</b> / 1 User</p>
-                    <p>Bảo mật 2 lớp: <b>Có</b></p>
+                    <p>Dung lượng Backup: <b>50GB</b></p>
+                    <p>Mã hóa Backup: <b>Có</b></p>
+                    <p>Backup: <b>7 bản</b>/7 ngày</p>
+                    <p>Lưu trữ: <b>Cloud Server</b></p>
                 </div>
-                <a href="#" class="btn-register-hosting">
+                <a href="https://manage.bkhost.vn/cart.php?a=add&pid=219&carttpl=standard_cart" class="btn-register-hosting">
                     Đăng ký ngay
                 </a>
             </div>
             <div class="content-web-hosting">
-                <p class="text-hosting-1">BKH-GA50</p>
-                <p class="text-hosting-2">6.900.000</p>
-                <strike class="text-hosting-3">7.000.000</strike>
-                <p class="text-hosting-4">- vĩnh viễn -</p>
+                <p class="text-hosting-1">BKMAIL-S03</p>
+                <p class="text-hosting-2">180.000</p>
+                <strike class="text-hosting-3">4.000.000</strike>
+                <p class="text-hosting-4">- 1 tháng -</p>
                 <div class="discount-code-email">
                     <p class="text-hosting-5">Nhập mã khuyến mãi (-50%) áp dụng 25/10 - 25/11/2017</p>
                     <div class="line-discount"><p></p></div>
                     <p class="text-hosting-6">KMHT850</p>
                 </div>
                 <div class="details-service">
-                    <p>Số lượng Email: <b>10 Email</b></p>
-                    <p>Lưu trữ: <b>15GB</b>/1 User</p>
-                    <p>Quản lý email nhân viên: <b>Có</b></p>
-                    <p>Email gửi / ngày: <b>500</b> / 1 User</p>
-                    <p>Bảo mật 2 lớp: <b>Có</b></p>
+                    <p>Dung lượng Backup: <b>75GB</b></p>
+                    <p>Mã hóa Backup: <b>Có</b></p>
+                    <p>Backup: <b>7 bản</b>/7 ngày</p>
+                    <p>Lưu trữ: <b>Cloud Server</b></p>
                 </div>
-                <a href="#" class="btn-register-hosting">
+                <a href="https://manage.bkhost.vn/cart.php?a=add&pid=218&carttpl=standard_cart" class="btn-register-hosting">
                     Đăng ký ngay
                 </a>
             </div>
             <div class="content-web-hosting">
-                <p class="text-hosting-1">BKH-GA200</p>
-                <p class="text-hosting-2">9.000.000</p>
-                <strike class="text-hosting-3">10.000.000</strike>
-                <p class="text-hosting-4">- vĩnh viễn -</p>
+                <p class="text-hosting-1">BKMAIL-S04</p>
+                <p class="text-hosting-2">180.000</p>
+                <strike class="text-hosting-3">4.000.000</strike>
+                <p class="text-hosting-4">- 1 tháng -</p>
                 <div class="discount-code-email">
                     <p class="text-hosting-5">Nhập mã khuyến mãi (-50%) áp dụng 25/10 - 25/11/2017</p>
                     <div class="line-discount"><p></p></div>
                     <p class="text-hosting-6">KMHT850</p>
                 </div>
                 <div class="details-service">
-                    <p>Số lượng Email: <b>10 Email</b></p>
-                    <p>Lưu trữ: <b>15GB</b>/1 User</p>
-                    <p>Quản lý email nhân viên: <b>Có</b></p>
-                    <p>Email gửi / ngày: <b>500</b> / 1 User</p>
-                    <p>Bảo mật 2 lớp: <b>Có</b></p>
+                    <p>Dung lượng Backup: <b>100GB</b></p>
+                    <p>Mã hóa Backup: <b>Có</b></p>
+                    <p>Backup: <b>7 bản</b>/7 ngày</p>
+                    <p>Lưu trữ: <b>Cloud Server</b></p>
                 </div>
-                <a href="#" class="btn-register-hosting">
+                <a href="https://manage.bkhost.vn/cart.php?a=add&pid=221&carttpl=standard_cart" class="btn-register-hosting">
+                    Đăng ký ngay
+                </a>
+            </div>
+            <div class="content-web-hosting">
+                <p class="text-hosting-1">BKMAIL-S05</p>
+                <p class="text-hosting-2">180.000</p>
+                <strike class="text-hosting-3">4.000.000</strike>
+                <p class="text-hosting-4">- 1 tháng -</p>
+                <div class="discount-code-email">
+                    <p class="text-hosting-5">Nhập mã khuyến mãi (-50%) áp dụng 25/10 - 25/11/2017</p>
+                    <div class="line-discount"><p></p></div>
+                    <p class="text-hosting-6">KMHT850</p>
+                </div>
+                <div class="details-service">
+                    <p>Dung lượng Backup: <b>200GB</b></p>
+                    <p>Mã hóa Backup: <b>Có</b></p>
+                    <p>Backup: <b>7 bản</b>/7 ngày</p>
+                    <p>Lưu trữ: <b>Cloud Server</b></p>
+                </div>
+                <a href="https://manage.bkhost.vn/cart.php?a=add&pid=222&carttpl=standard_cart" class="btn-register-hosting">
                     Đăng ký ngay
                 </a>
             </div>

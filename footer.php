@@ -6,7 +6,7 @@
         </p>
         <div class="slide-partner-logo">
             <div class="owl-carousel">
-                <img src="images/partners/DirectAdmin-Logo.png" alt=""/>
+                <img src="images/partners/DirectAdmin-Logo.png" alt="DirectAdmin" />
                 <img src="images/partners/HP.png" alt=""/>
                 <img src="images/partners/IBM.png" alt=""/>
                 <img src="images/partners/cpanel2.png" alt=""/>

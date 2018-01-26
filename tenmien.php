@@ -1,109 +1,86 @@
 <?php include("header.php"); ?>
 <div class="layer-old-9">
-    <div class="slide-ten-mien text-center">
-        <div class="container">
-            <h1 class="text-1">
-                Tìm Tên miền cho Website của bạn
-            </h1>
-            <div class="row">
-                <div class="col-md-2 border-right">
-                    <div class="text-2">
-                        .com/ .net
+    <div class="main-slider">
+        <div class="slide-ten-mien text-center">
+            <div class="container">
+                <h1 class="text-1">
+                    Tìm Tên miền cho Website của bạn
+                </h1>
+                <div class="row">
+                    <div class="col-sm-1 col-xs-1 pdr0"></div>
+                    <div class="col-sm-8 col-xs-10 pdl0">
+                        <div class="owl-carousel">
+                            <div class="domain-item">
+                                <div class="text-3">.vn</div>
+                                <div class="text-4">750.000đ/năm</div>
+                                <div class="text-4"><strike>830.000đ</strike></div>
+                            </div>
+                            <div class="domain-item">
+                                <div class="text-3">.com.vn</div>
+                                <div class="text-4">630.000đ/năm</div>
+                                <div class="text-4"><strike>700.000đ</strike></div>
+                            </div>
+                            <div class="domain-item">
+                                <div class="text-3">.com.vn</div>
+                                <div class="text-4">119.000đ/năm</div>
+                                <div class="text-4"><strike>264.000đ</strike></div>
+                            </div>
+                            <div class="domain-item">
+                                <div class="text-3">.net</div>
+                                <div class="text-4">119.000đ/năm</div>
+                                <div class="text-4"><strike>264.000đ</strike></div>
+                            </div>
+                            <div class="domain-item">
+                                <div class="text-3">.xyz</div>
+                                <div class="text-4">249.000đ/năm</div>
+                                <div class="text-4"><strike>29.000đ</strike></div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="text-3">
-                        99.000đ/năm
-                    </div>
-                    <div class="text-4">
-                        <strike>250.000đ</strike>
-                    </div>
+                    <div class="col-sm-3 hidden-xs con-soc"><span></span></div>
                 </div>
-                <div class="col-md-2 border-right">
-                    <div class="text-2">
-                        .vn
+                <form method="get" action="#">
+                    <input type="text" name="search" placeholder="Bắt đầu tìm kiếm tên miền của bạn...">
+                    <button class="btn-search" type="submit">
+                        <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                        <span>Tìm kiếm</span>
+                    </button>
+                    <button class="btn-transfer" type="submit">
+                        <i class="fa fa-reply" aria-hidden="true"></i>
+                        <span>Transfer</span>
+                    </button>
+                    <div class="domain-ltd hide hidden">
+                        <label><input type="checkbox" name="tld[]" value="com" checked /> .com</label>
+                        <label><input type="checkbox" name="tld[]" value="com.vn" checked /> .com.vn</label>
+                        <label><input type="checkbox" name="tld[]" value="vn" checked /> .vn</label>
+                        <label><input type="checkbox" name="tld[]" value="net" checked /> .net</label>
+                        <label><input type="checkbox" name="tld[]" value="net.vn" checked /> .net.vn</label>
+                        <label><input type="checkbox" name="tld[]" value="biz" /> .biz</label>
+                        <label><input type="checkbox" name="tld[]" value="biz.vn" /> .biz.vn</label>
+                        <label><input type="checkbox" name="tld[]" value="info" /> .info</label>
+                        <label><input type="checkbox" name="tld[]" value="org" /> .org</label>
+                        <label><input type="checkbox" name="tld[]" value="us" /> .us</label>
+                        <label><input type="checkbox" name="tld[]" value="edu.vn" /> .edu.vn</label>
+                        <label><input type="checkbox" name="tld[]" value="pro.vn" /> .pro.vn</label>
+                        <label><input type="checkbox" name="tld[]" value="gov.vn" /> .gov.vn</label>
+                        <label><input type="checkbox" name="tld[]" value="name" /> .name</label>
+                        <label><input type="checkbox" name="tld[]" value="xyz" /> .xyz</label>
+                        <label><input type="checkbox" name="tld[]" value="shop" /> .shop</label>
+                        <label><input type="checkbox" name="tld[]" value="asia" /> .asia</label>
+                        <label><input type="checkbox" name="tld[]" value="cc" /> .cc</label>
+                        <label><input type="checkbox" name="tld[]" value="eu" /> .eu</label>
+                        <label><input type="checkbox" name="tld[]" value="ws" /> .ws</label>
                     </div>
-                    <div class="text-3">
-                        750.000đ/năm
-                    </div>
-                    <div class="text-4">
-                        <strike>830.000đ</strike>
-                    </div>
-                </div>
-                <div class="col-md-2 border-right">
-                    <div class="text-2">
-                        .xyz
-                    </div>
-                    <div class="text-3">
-                        18.000đ/năm
-                    </div>
-                    <div class="text-4">
-                        <strike>280.000đ</strike>
-                    </div>
-                </div>
-                <div class="col-md-2 border-right">
-                    <div class="text-2">
-                        .info
-                    </div>
-                    <div class="text-3">
-                        59.000đ/năm
-                    </div>
-                    <div class="text-4">
-                        <strike>226.000đ</strike>
-                    </div>
-                </div>
-                <div class="col-md-2">
-                    <div class="text-2">
-                        .top/.online
-                    </div>
-                    <div class="text-3">
-                        29.000đ/năm
-                    </div>
-                    <div class="text-4">
-                        <strike>615.000đ</strike>
-                    </div>
-                </div>
+                </form>
             </div>
-            <form method="get" action="#">
-                <input type="text" name="search" placeholder="Bắt đầu tìm kiếm tên miền của bạn...">
-                <button class="btn-search" type="submit">
-                    <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
-                    <span>Tìm kiếm</span>
-                </button>
-                <button class="btn-transfer" type="submit">
-                    <i class="fa fa-reply" aria-hidden="true"></i>
-                    <span>Transfer</span>
-                </button>
-                <div class="domain-ltd hide hidden">
-                    <label><input type="checkbox" name="tld[]" value="com" checked /> .com</label>
-                    <label><input type="checkbox" name="tld[]" value="com.vn" checked /> .com.vn</label>
-                    <label><input type="checkbox" name="tld[]" value="vn" checked /> .vn</label>
-                    <label><input type="checkbox" name="tld[]" value="net" checked /> .net</label>
-                    <label><input type="checkbox" name="tld[]" value="net.vn" checked /> .net.vn</label>
-                    <label><input type="checkbox" name="tld[]" value="biz" /> .biz</label>
-                    <label><input type="checkbox" name="tld[]" value="biz.vn" /> .biz.vn</label>
-                    <label><input type="checkbox" name="tld[]" value="info" /> .info</label>
-                    <label><input type="checkbox" name="tld[]" value="org" /> .org</label>
-                    <label><input type="checkbox" name="tld[]" value="us" /> .us</label>
-                    <label><input type="checkbox" name="tld[]" value="edu.vn" /> .edu.vn</label>
-                    <label><input type="checkbox" name="tld[]" value="pro.vn" /> .pro.vn</label>
-                    <label><input type="checkbox" name="tld[]" value="gov.vn" /> .gov.vn</label>
-                    <label><input type="checkbox" name="tld[]" value="name" /> .name</label>
-                    <label><input type="checkbox" name="tld[]" value="xyz" /> .xyz</label>
-                    <label><input type="checkbox" name="tld[]" value="shop" /> .shop</label>
-                    <label><input type="checkbox" name="tld[]" value="asia" /> .asia</label>
-                    <label><input type="checkbox" name="tld[]" value="cc" /> .cc</label>
-                    <label><input type="checkbox" name="tld[]" value="eu" /> .eu</label>
-                    <label><input type="checkbox" name="tld[]" value="ws" /> .ws</label>
-                </div>
-            </form>
         </div>
     </div>
     <div class="content-1 text-center">
         <div class="container">
             <div class="row">
-                <div class="col-md-1"></div>
-                <div class="col-md-2">
-                    <div class="block-domain">
-                        <img class="icon-hot" src="images/icon-hot.png" alt="Icon Hot">
+                <div class="col-lg-1 col-md-2"></div>
+                <div class="col-lg-2 col-sm-4 col-xs-6">
+                    <div class="block-domain hot">
                         <img class="icon-domain" src="images/icon-com-vn-blue.png" alt="Icon .COM.VN">
                         <div class="text-1">
                             Tên miền phổ biển nhất để tạo thương hiệu của bạn
@@ -121,7 +98,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-md-2">
+                <div class="col-lg-2 col-sm-4 col-xs-6">
                     <div class="block-domain">
                         <img class="icon-domain" src="images/icon-net.png" alt="Icon NET">
                         <div class="text-1">
@@ -140,7 +117,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-md-2">
+                <div class="col-lg-2 col-sm-4 col-xs-6">
                     <div class="block-domain">
                         <img class="icon-domain" src="images/icon-vn-blue.png" alt="Icon VN">
                         <div class="text-1">
@@ -159,7 +136,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-md-2">
+                <div class="col-lg-2 col-sm-4 col-xs-6">
                     <div class="block-domain">
                         <img class="icon-domain" src="images/icon-com-vn-blue.png" alt="Icon COM.VN">
                         <div class="text-1">
@@ -178,7 +155,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-md-2">
+                <div class="col-lg-2 col-sm-4 col-xs-6">
                     <div class="block-domain">
                         <img class="icon-domain" src="images/icon-edu-vn-blue.png" alt="Icon EDU.VN">
                         <div class="text-1">

@@ -411,14 +411,31 @@ jQuery(document).ready(function () {
         jQuery('.main-slider .owl-carousel').owlCarousel({
             autoplay: false,
             autoplayHoverPause: true,
-            loop: false,
-            margin: 0,
+            loop: true,
+            margin: 30,
             navRewind: false,
-            nav: false,
+            nav: true,
             navText: ['',''],
-            dots: true,
-            responsiveClass: false,
-            items: 1
+            dots: false,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 1,
+                    margin: 0
+                },
+                360: {
+                    items: 2
+                },
+                600: {
+                    items: 3
+                },
+                768: {
+                    items: 3
+                },
+                992: {
+                    items: 4
+                }
+            }
         });
     }
     

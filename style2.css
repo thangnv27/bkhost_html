@@ -59,16 +59,16 @@
 }
 
 .layer-old-5 .text-slide-3, .layer-old-6 .text-slide-3,
-  .layer-old-7 .text-slide-3, .layer-old-8 .text-slide-3 {
-  background: #ffcc00;
+.layer-old-7 .text-slide-3, .layer-old-8 .text-slide-3 {
+    background: #ffcc00;
 }
 
 .layer-old-6 .text-slide-3 {
-  margin-bottom: 59px;
+    margin-bottom: 59px;
 }
 
 .layer-old-7 .text-slide-3 {
-  margin-bottom: 65px;
+    margin-bottom: 65px;
 }
 
 body .slide-hosting-ca-nhan {
@@ -84,45 +84,45 @@ body .slide-hosting-wordpress {
 }
 
 .layer-old-1 .content-1 {
-  margin-top: 70px;
-  margin-bottom: 25px;
+    margin-top: 70px;
+    margin-bottom: 25px;
 }
 
 .layer-old-1 .content-1 .text-1,
-  .layer-old-1 .content-1 .text-2,
-    .layer-old-1 .content-1 .text-3,
-      .layer-old-1 .content-1 .text-4,
-        .layer-old-1 .content-1 .text-5 {
-      font-weight: 300;
-    }
+.layer-old-1 .content-1 .text-2,
+.layer-old-1 .content-1 .text-3,
+.layer-old-1 .content-1 .text-4,
+.layer-old-1 .content-1 .text-5 {
+    font-weight: 300;
+}
 
 .layer-old-1 .content-1 .text-1 {
-  font-size: 2.7em;
-  text-transform: uppercase;
+    font-size: 2.7em;
+    text-transform: uppercase;
 }
 
 .layer-old-1 .content-1 .text-2 {
-  font-size: 1.7em;
+    font-size: 1.7em;
 }
 
 .layer-old-1 .content-1 .text-3 {
-  font-size: 1.7em;
+    font-size: 1.7em;
 }
 
 .layer-old-1 .content-1 .text-4 {
-  font-size: 3em;
-  text-transform: uppercase;
+    font-size: 3em;
+    text-transform: uppercase;
 }
 
 .layer-old-1 .content-1 .text-5 {
-  font-size: 1.7em;
+    font-size: 1.7em;
 }
 
 .layer-old-1 .content-1 .description-ssl {
-  background: #eaeaea;
-  margin-top: -30px;
-  padding-top: 50px;
-  padding-bottom: 20px;
+    background: #eaeaea;
+    margin-top: -30px;
+    padding-top: 50px;
+    padding-bottom: 20px;
 }
 
 .layer-old-1 .content-2 {
@@ -132,797 +132,797 @@ body .slide-hosting-wordpress {
 }
 
 .layer-old-1 .content-2 .row-content-2 {
-  background: #fff;
-  margin: 70px 0;
-  padding: 70px 20px 10px 20px;
+    background: #fff;
+    margin: 70px 0;
+    padding: 70px 20px 10px 20px;
 }
 
 .layer-old-1 .content-2 .text-1 {
-  font-size: 3em;
-  font-weight: normal;
+    font-size: 3em;
+    font-weight: normal;
 }
 
 .layer-old-1 .content-2 .text-2 {
-  font-size: 1.7em;
-  font-weight: 300;
+    font-size: 1.7em;
+    font-weight: 300;
 }
 
 .layer-old-1 .content-2 img {
-  margin-top: 315px;
+    margin-top: 315px;
 }
 
 .layer-old-2 .text-slide-3, .layer-old-3 .text-slide-3 {
-  background: #ffcc00 !important;
+    background: #ffcc00 !important;
 }
 
 .layer-old-2 .content-1 {
-  margin-top: 70px;
+    margin-top: 70px;
 }
 
 .layer-old-2 .content-1 .col-left-content-1 {
-  background: url("images/bg-content-1-chung-chi-bao-mat-ssl.png");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  padding-top: 80px;
-  padding-bottom: 80px;
+    background: url("images/bg-content-1-chung-chi-bao-mat-ssl.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 .layer-old-2 .content-1 .col-left-content-1+div{padding-left: 30px}
 .layer-old-2 .content-1 .col-left-content-1 .wrap-content {
-  background: #fff;
-  max-width: 100%;
-  padding-right: 50px;
-  padding-left: 50px;
+    background: #fff;
+    max-width: 100%;
+    padding-right: 50px;
+    padding-left: 50px;
 }
 
 .layer-old-2 .content-1 .text-1 {
-  font-size: 2.7em;
-  font-weight: 300;
-  text-transform: uppercase;
+    font-size: 2.7em;
+    font-weight: 300;
+    text-transform: uppercase;
 }
 
 .layer-old-2 .content-1 .text-2 {
-  font-size: 1.7em;
-  font-weight: 300;
+    font-size: 1.7em;
+    font-weight: 300;
 }
 
 .layer-old-2 .content-1 .text-3 {
-  font-size: 2.5em;
-  font-weight: normal;
+    font-size: 2.5em;
+    font-weight: normal;
 }
 
 .layer-old-2 .content-1 .text-4 {
-  font-size: 4.3em;
-  font-weight: 600;
-  color: #ff0000;
+    font-size: 4.3em;
+    font-weight: 600;
+    color: #ff0000;
 }
 
 .layer-old-2 .content-1 .text-5 {
-  font-size: 1.3em;
-  font-weight: 300;
-  margin-bottom: 52px;
+    font-size: 1.3em;
+    font-weight: 300;
+    margin-bottom: 52px;
 }
 
 .layer-old-2 .content-1 .text-6 {
-  font-size: 3em;
-  font-weight: 300;
-  text-transform: uppercase;
+    font-size: 3em;
+    font-weight: 300;
+    text-transform: uppercase;
 }
 
 .layer-old-2 .content-1 .text-7 {
-  font-size: 1.7em;
-  font-weight: 300;
+    font-size: 1.7em;
+    font-weight: 300;
 }
 
 .layer-old-2 .content-1 .text-8 {
-  font-size: 1.7em;
-  font-weight: 600;
-  color: #ff0000;
+    font-size: 1.7em;
+    font-weight: 600;
+    color: #ff0000;
 }
 
 .layer-old-2 .content-1 a {
-  font-size: 1.5em;
-  font-weight: 300;
-  color: #fff;
-  background: #ff9c00;
-  text-transform: uppercase;
-  padding: 15px 50px;
-  border-radius: 2px;
+    font-size: 1.5em;
+    font-weight: 300;
+    color: #fff;
+    background: #ff9c00;
+    text-transform: uppercase;
+    padding: 15px 50px;
+    border-radius: 2px;
 }
 
 .layer-old-2 .content-1 ul li {
-  list-style: url('images/icon-mui-ten-web-yeu-cau.png');
-  font-size: 1.7em;
-  font-weight: 300;
+    list-style: url('images/icon-mui-ten-web-yeu-cau.png');
+    font-size: 1.7em;
+    font-weight: 300;
 }
 
 .layer-old-2 .content-2 {
-  margin-top: 100px;
-  padding-bottom: 113px;
-  border-bottom: 1px solid #cecece;
+    margin-top: 100px;
+    padding-bottom: 113px;
+    border-bottom: 1px solid #cecece;
 }
 
 .layer-old-2 .content-2 .text-1 {
-  font-size: 3em;
-  font-weight: 600;
-  text-transform: uppercase;
-  margin-bottom: 72px;
+    font-size: 3em;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 72px;
 }
 
 .layer-old-2 .content-2 .text-2 {
-  font-size: 2.4em;
-  font-weight: lighter;
-  color: #797979;
-  margin-bottom: 32px;
+    font-size: 2.4em;
+    font-weight: lighter;
+    color: #797979;
+    margin-bottom: 32px;
 }
 
 .layer-old-2 .content-3 {
-  margin-top: 70px;
-  margin-bottom: 75px;
+    margin-top: 70px;
+    margin-bottom: 75px;
 }
 
 .layer-old-2 .content-3 .text-1 {
-  font-size: 3.6em;
-  font-weight: 600;
-  text-transform: uppercase;
+    font-size: 3.6em;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
 .layer-old-2 .tab-hosting, .layer-old-6 .tab-hosting {
-  background: url(images/bg-chung-chi-bao-mat-ssl.png);
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  text-align: center;
-  padding-bottom: 80px;
+    background: url(images/bg-chung-chi-bao-mat-ssl.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    padding-bottom: 80px;
 }
 
 .layer-old-2 .nav-hosting ul {
-  padding-left: 33%;
+    padding-left: 33%;
 }
 
 .layer-old-6 .nav-hosting ul {
-  padding-left: 28%;
+    padding-left: 28%;
 }
 
 .layer-old-7 .nav-hosting ul {
-  padding-left: 10%;
+    padding-left: 10%;
 }
 
 .layer-old-2 .nav-hosting ul li a, .layer-old-6 .nav-hosting ul li a,
-  .layer-old-7 .nav-hosting ul li a {
-  font-size: 2.4em;
-  font-weight: 600;
-  text-transform: uppercase;
+.layer-old-7 .nav-hosting ul li a {
+    font-size: 2.4em;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
 .layer-old-2 .tab-hosting .tab-content {
-  background: #d6dada;
-  padding: 52px 46px;
+    background: #d6dada;
+    padding: 52px 46px;
 }
 
 .layer-old-6 .tab-hosting {
-  padding-top: 0;
+    padding-top: 0;
 }
 
 .layer-old-6 .tab-hosting .tab-content {
-  background: url(images/bg-thue-may-chu-rieng-1.png);
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  padding: 52px 46px;
-  margin-top: -10px;
+    background: url(images/bg-thue-may-chu-rieng-1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 52px 46px;
+    margin-top: -10px;
 }
 
 .layer-old-6 .tab-hosting .tab-content #tab1 {
-  margin-bottom: 37px;
+    margin-bottom: 37px;
 }
 
 .layer-old-3 .backup-intro {
-  padding-top: 70px;
-  padding-bottom: 88px;
+    padding-top: 70px;
+    padding-bottom: 88px;
 }
 
 .layer-old-3 .backup-intro .text-1 {
-  margin-bottom: 65px;
-  margin-top: 0;
-  text-transform: uppercase;
-  font-size: 3.6em;
-  font-weight: 600;
+    margin-bottom: 65px;
+    margin-top: 0;
+    text-transform: uppercase;
+    font-size: 3.6em;
+    font-weight: 600;
 }
 
 .layer-old-3 .hosting-company {
-  background: url(images/bg-cloude-vps-content-2.png);
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  position: relative;
+    background: url(images/bg-cloude-vps-content-2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
 }
 
 .layer-old-3 .info-technical {
-  padding-bottom: 57px;
+    padding-bottom: 57px;
 }
 
 .layer-old-3 .info-technical .text-1 {
-  font-size: 1.7em;
-  font-weight: 300;
-  text-transform: none;
-  margin-top: 0;
-  margin-bottom: 44px;
+    font-size: 1.7em;
+    font-weight: 300;
+    text-transform: none;
+    margin-top: 0;
+    margin-bottom: 44px;
 }
 
 .layer-old-3 .info-technical .text-2 {
-  font-size: 2.7em;
-  font-weight: 600;
-  text-transform: uppercase;
-  color: #d21d22;
+    font-size: 2.7em;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #d21d22;
 }
 
 .layer-old-3 .info-technical .text-3 {
-  font-size: 1.7em;
-  font-weight: normal;
+    font-size: 1.7em;
+    font-weight: normal;
 }
 
 .border-content-info-technical {
-  border-right: 5px solid #dee7ee;
+    border-right: 5px solid #dee7ee;
 }
 
 .layer-old-3 .content-4 {
-  background: url(images/bg-content-4-cloude-vps.png);
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  padding-bottom: 89px;
+    background: url(images/bg-content-4-cloude-vps.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 89px;
 }
 
 .layer-old-3 .content-4 .text-1 {
-  font-size: 4.5em;
-  font-weight: 600;
-  color: #fff;
-  text-transform: uppercase;
-  margin-bottom: 49px;
-  margin-top: 55px;
+    font-size: 4.5em;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 49px;
+    margin-top: 55px;
 }
 
 .layer-old-3 .content-4 .text-2 {
-  font-size: 1.7em;
-  font-weight: 600;
-  text-transform: uppercase;
+    font-size: 1.7em;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
 .layer-old-3 .content-4 .text-3 {
-  font-size: 1.6em;
-  font-weight: 300;
+    font-size: 1.6em;
+    font-weight: 300;
 }
 
 .layer-old-3 .content-4 .row-1 {
-  margin-bottom: 33px;
+    margin-bottom: 33px;
 }
 
 .custom-row-content4-layer3 {
-  background: #fff;
-  margin: 0;
-  padding: 20px;
+    background: #fff;
+    margin: 0;
+    padding: 20px;
 }
 
 .layer-old-3 .content-5 {
-  padding-bottom: 83px;
-  border-bottom: 2px solid #e4e4e4;
+    padding-bottom: 83px;
+    border-bottom: 2px solid #e4e4e4;
 }
 
 .layer-old-3 .content-5 .row-1 {
-  margin-bottom: 71px;
+    margin-bottom: 71px;
 }
 
 .layer-old-3 .content-5 .text-1 {
-  font-size: 4.5em;
-  font-weight: 600;
-  text-transform: uppercase;
-  margin: 71px 0;
+    font-size: 4.5em;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 71px 0;
 }
 
 .layer-old-3 .content-5 .text-2 {
-  font-size: 1.7em;
-  font-weight: 600;
+    font-size: 1.7em;
+    font-weight: 600;
 }
 
 .layer-old-3 .content-5 .text-3 {
-  font-size: 1.6em;
-  font-weight: 300;
+    font-size: 1.6em;
+    font-weight: 300;
 }
 
 .layer-old-3 .content-6 {
-  padding-bottom: 67px;
+    padding-bottom: 67px;
 }
 
 .layer-old-3 .content-6 .text-1 {
-  font-size: 3.6em;
-  font-weight: 600;
-  text-transform: uppercase;
-  margin-top: 58px;
-  margin-bottom: 39px;
+    font-size: 3.6em;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 58px;
+    margin-bottom: 39px;
 }
 
 .layer-old-3 .content-6 .text-2 {
-  font-size: 1.7em;
-  font-weight: 600;
-  margin-top: 36px;
+    font-size: 1.7em;
+    font-weight: 600;
+    margin-top: 36px;
 }
 
 .layer-old-3 .content-6 .text-3 {
-  font-size: 2.4em;
-  font-weight: 600;
-  margin-top: 12px;
-  color: #d71b32;
+    font-size: 2.4em;
+    font-weight: 600;
+    margin-top: 12px;
+    color: #d71b32;
 }
 
 .layer-old-3 .content-6 .text-4 {
-  font-size: 1.7em;
-  font-weight: 300;
-  margin-top: 14px;
-  color: #a5a5a5;
+    font-size: 1.7em;
+    font-weight: 300;
+    margin-top: 14px;
+    color: #a5a5a5;
 }
 
 .layer-old-3 .content-6 .text-5 {
-  margin-top: 15px;
+    margin-top: 15px;
 }
 
 .layer-old-3 .content-6 .text-5 a {
     display: inline-block;
-  color: #fff;
-  text-transform: uppercase;
-  font-size: 1.5em;
-  font-weight: 300;
-  background: #ff9c00;
-  padding: 14px 17px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: 300;
+    background: #ff9c00;
+    padding: 14px 17px;
 }
 
 .layer-old-3 .content-6 .col-md-4 {
-  padding-top: 31px;
-  padding-bottom: 44px;
+    padding-top: 31px;
+    padding-bottom: 44px;
 }
 
 .layer-old-3 .content-6 .border-bottom {
-  border-bottom: 1px solid #e4e4e4;
+    border-bottom: 1px solid #e4e4e4;
 }
 
 .layer-old-3 .content-6 .col-sm-6:hover {
-  background: #f3f3f3;
+    background: #f3f3f3;
 }
 
 .layer-old-3 .content-6 .border-col {
-  border-left: 1px solid #e4e4e4;
-  border-right: 1px solid #e4e4e4;
+    border-left: 1px solid #e4e4e4;
+    border-right: 1px solid #e4e4e4;
 }
 
 .layer-old-4 .content-1 {
-  padding-bottom: 93px;
-  padding-top: 69px;
+    padding-bottom: 93px;
+    padding-top: 69px;
 }
 
 .layer-old-4 .content-1 .text-1 {
-  font-size: 1.7em;
-  font-weight: 300;
+    font-size: 1.7em;
+    font-weight: 300;
 }
 
 .layer-old-4 .content-2 .text-1 {
-  font-size: 1.7em;
-  font-weight: 300;
-  margin-top: 40px;
+    font-size: 1.7em;
+    font-weight: 300;
+    margin-top: 40px;
 }
 
 .layer-old-4 .content-2 {
-  padding-bottom: 107px;
+    padding-bottom: 107px;
 }
 
 .layer-old-4 .content-3 {
-  padding-top: 92px;
-  padding-bottom: 65px;
+    padding-top: 92px;
+    padding-bottom: 65px;
 }
 
 .layer-old-4 .content-3 .text-1 {
-  font-size: 4.5em;
-  font-weight: 600;
-  margin-top: 0;
-  margin-bottom: 114px;
+    font-size: 4.5em;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 114px;
 }
 
 .layer-old-4 .content-3 .text-2 {
-  font-size: 2.4em;
-  font-weight: 600;
-  margin-bottom: 25px;
+    font-size: 2.4em;
+    font-weight: 600;
+    margin-bottom: 25px;
 }
 
 .layer-old-4 .content-3 .text-3 {
-  font-size: 1.7em;
-  font-weight: 300;
+    font-size: 1.7em;
+    font-weight: 300;
 }
 
 .layer-old-4 .content-3 .text-margin-top {
-  margin-top: 55px;
+    margin-top: 55px;
 }
 
 .layer-old-4 .content-4 {
-  padding-top: 81px;
-  background: #f0f0f0;
-  padding-bottom: 145px;
+    padding-top: 81px;
+    background: #f0f0f0;
+    padding-bottom: 145px;
 }
 
 .layer-old-4 .content-4 .text-1 {
-  margin-top: 0;
-  font-size: 4.5em;
-  font-weight: 600;
-  margin-bottom: 70px;
+    margin-top: 0;
+    font-size: 4.5em;
+    font-weight: 600;
+    margin-bottom: 70px;
 }
 
 .layer-old-4 .content-4 .text-2 {
-  font-size: 1.7em;
-  font-weight: 600;
+    font-size: 1.7em;
+    font-weight: 600;
 }
 
 .layer-old-4 .content-4 .text-3 {
-  font-size: 1.6em;
-  font-weight: 300;
+    font-size: 1.6em;
+    font-weight: 300;
 }
 
 .layer-old-4 .content-5 {
-  padding-top: 100px;
-  padding-bottom: 110px;
+    padding-top: 100px;
+    padding-bottom: 110px;
 }
 
 .layer-old-4 .content-5 .text-1 {
-  margin-top: 0;
-  font-size: 4.5em;
-  font-weight: 600;
-  text-transform: uppercase;
-  margin-bottom: 78px;
+    margin-top: 0;
+    font-size: 4.5em;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 78px;
 }
 
 .layer-old-4 .content-5 .text-2 {
-  margin-top: 45px;
-  font-size: 4.5em;
-  font-weight: 600;
-  text-transform: uppercase;
-  margin-bottom: 91px;
+    margin-top: 45px;
+    font-size: 4.5em;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 91px;
 }
 
 .layer-old-4 .content-6 {
-  padding-top: 82px;
-  padding-bottom: 111px;
+    padding-top: 82px;
+    padding-bottom: 111px;
 }
 
 .layer-old-4 .content-6 .set-bg-img-content-6 {
-  background: #efefef;
-  padding: 38px 29px;
+    background: #efefef;
+    padding: 38px 29px;
 }
 
 .layer-old-4 .content-6 .text-1 {
-  font-size: 4.5em;
-  font-weight: 300;
+    font-size: 4.5em;
+    font-weight: 300;
 }
 
 .layer-old-4 .content-6 .text-2 {
-  font-size: 4.5em;
-  font-weight: 600;
-  margin-bottom: 73px;
+    font-size: 4.5em;
+    font-weight: 600;
+    margin-bottom: 73px;
 }
 
 .layer-old-4 .content-6 ul li {
-  list-style: url('images/icon-tick-email.png');
-  font-size: 1.7em;
-  font-weight: normal;
-  margin-bottom: 30px;
+    list-style: url('images/icon-tick-email.png');
+    font-size: 1.7em;
+    font-weight: normal;
+    margin-bottom: 30px;
 }
 
 .layer-old-4 .content-6 .text-3 {
-  font-size: 2.4em;
-  font-weight: 600;
+    font-size: 2.4em;
+    font-weight: 600;
 }
 
 .layer-old-4 .content-6 .text-4 {
-  font-size: 1.7em;
-  font-weight: 300;
+    font-size: 1.7em;
+    font-weight: 300;
 }
 
 .layer-old-4 .content-6 .col-margin-top {
-  margin-top: 153px;
+    margin-top: 153px;
 }
 
 .layer-old-4 .content-6 .col-margin-top {
-  margin-top: 120px;
+    margin-top: 120px;
 }
 
 .layer-old-4 .content-6 .col-margin-top > .row {
-  margin-bottom: 40px;
+    margin-bottom: 40px;
 }
 
 .layer-old-5 .content-1 {
-  padding-top: 104px;
-  padding-bottom: 145px;
+    padding-top: 104px;
+    padding-bottom: 145px;
 }
 
 .layer-old-5 .content-1 img {
-  margin-bottom: 33px;
+    margin-bottom: 33px;
 }
 
 .layer-old-5 .content-1 .text-1 {
-  font-size: 1.7em;
-  font-weight: 600;
-  text-transform: uppercase;
-  margin-bottom: 14px;
+    font-size: 1.7em;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 14px;
 }
 
 .layer-old-5 .content-1 .text-2 {
-  font-size: 1.7em;
-  font-weight: 300;
+    font-size: 1.7em;
+    font-weight: 300;
 }
 
 .info-technical .wp-hosting {
-  border-top: 1px solid #dfdfdf;
-  margin-top: 60px;
+    border-top: 1px solid #dfdfdf;
+    margin-top: 60px;
 }
 
 .layer-old-6 .content-1 {
-  padding-top: 83px;
-  padding-bottom: 143px;
+    padding-top: 83px;
+    padding-bottom: 143px;
 }
 
 .layer-old-6 .content-1 .text-1 {
-  font-size: 3.6em;
-  font-weight: 600;
-  text-transform: uppercase;
-  margin-bottom: 77px;
+    font-size: 3.6em;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 77px;
 }
 
 .layer-old-6 .content-1 .text-2 {
-  font-size: 2.5em;
-  font-weight: 600;
-  text-transform: uppercase;
+    font-size: 2.5em;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
 .layer-old-6 .content-1 .text-3 {
-  font-size: 1.7em;
-  font-weight: 300;
+    font-size: 1.7em;
+    font-weight: 300;
 }
 
 .layer-old-6 .content-1 .row-1 {
-  margin-bottom: 86px;
+    margin-bottom: 86px;
 }
 
 .layer-old-6 .content-2 {
-  background: #f0f0f0;
-  padding-top: 80px;
-  padding-bottom: 120px;
+    background: #f0f0f0;
+    padding-top: 80px;
+    padding-bottom: 120px;
 }
 
 .layer-old-6 .content-2 .text-1 {
-  margin-top: 0;
-  font-size: 4.5em;
-  font-weight: 600;
-  text-transform: uppercase;
-  margin-bottom: 62px;
+    margin-top: 0;
+    font-size: 4.5em;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 62px;
 }
 
 .layer-old-6 .content-2 .text-2 {
-  font-size: 1.7em;
-  font-weight: 600;
-  text-transform: uppercase;
+    font-size: 1.7em;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
 .layer-old-6 .content-2 .text-3 {
-  font-size: 1.6em;
-  font-weight: 300;
+    font-size: 1.6em;
+    font-weight: 300;
 }
 
 .layer-old-6 .content-2 .row-1 {
-  margin-bottom: 43px;
+    margin-bottom: 43px;
 }
 
 .layer-old-6 .content-3 {
-  padding-top: 81px;
-  padding-bottom: 105px;
+    padding-top: 81px;
+    padding-bottom: 105px;
 }
 
 .layer-old-6 .content-3 .text-1 {
-  font-size: 4.5em;
-  font-weight: 600;
-  text-transform: uppercase;
-  margin-bottom: 27px;
+    font-size: 4.5em;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 27px;
 }
 
 .layer-old-6 .content-3 .text-2 {
-  font-size: 3.7em;
-  font-weight: 300;
-  margin-bottom: 17px;
+    font-size: 3.7em;
+    font-weight: 300;
+    margin-bottom: 17px;
 }
 
 .layer-old-6 .content-3 .text-3 {
-  font-size: 2.5em;
-  font-weight: 600;
-  color: #ff0000;
+    font-size: 2.5em;
+    font-weight: 600;
+    color: #ff0000;
 }
 
 .layer-old-7 .tab-hosting {
-  background: url(images/bg-tab-phan-mem-webserver.png);
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  padding-bottom: 30px
+    background: url(images/bg-tab-phan-mem-webserver.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 30px
 }
 
 .layer-old-7 .tab-5 {
-  background: url(images/bg-tab5-phan-mem-webserver.png);
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  padding-bottom: 30px
+    background: url(images/bg-tab5-phan-mem-webserver.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 30px
 }
 
 .layer-old-7 .tab-hosting #tab2 .text-1 {
-  font-size: 3em;
-  font-weight: 600;
-  text-transform: uppercase;
-  color: #fff;
-  margin-bottom: 23px;
+    font-size: 3em;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 23px;
 }
 
 .layer-old-7 .tab-hosting #tab2 .text-2 {
-  font-size: 1.7em;
-  font-weight: normal;
-  text-transform: uppercase;
-  color: #fff;
-  margin-bottom: 14px;
+    font-size: 1.7em;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 14px;
 }
 
 .layer-old-7 .tab-hosting #tab2 .text-3 {
-  font-size: 1.7em;
-  font-weight: 300;
-  color: #fff;
-  margin-bottom: 58px;
+    font-size: 1.7em;
+    font-weight: 300;
+    color: #fff;
+    margin-bottom: 58px;
 }
 
 .layer-old-7 .tab-hosting .hosting-company{
-  background: none;
-  padding-top: 0;
+    background: none;
+    padding-top: 0;
 }
 
 .layer-old-7 .tab-hosting #tab2 .hosting-company .content-web-hosting {
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-bottom: 22px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 22px;
 }
 
 .layer-old-7 .tab-hosting #tab2 .hosting-company .content-web-hosting a {
-  margin-top: 26px;
+    margin-top: 26px;
 }
 
 .layer-old-7 .tab-hosting #tab2 .hosting-company .block {
-  border-bottom: 1px solid #e3e3e3;
-  padding: 20px 0;
+    border-bottom: 1px solid #e3e3e3;
+    padding: 20px 0;
 }
 
 .layer-old-7 .tab-hosting #tab2 .hosting-company .block .text-1 {
-  font-size: 2.5em;
-  font-weight: 600;
-  text-transform: uppercase;
-  color: #000;
-  margin: 0;
+    font-size: 2.5em;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #000;
+    margin: 0;
 }
 
 .layer-old-7 .tab-hosting #tab2 .hosting-company .block .text-2 {
-  font-size: 3.1em;
-  font-weight: 600;
-  text-transform: none;
-  color: #b0b0b0;
-  margin: 0;
+    font-size: 3.1em;
+    font-weight: 600;
+    text-transform: none;
+    color: #b0b0b0;
+    margin: 0;
 }
 
 .layer-old-7 .tab-hosting #tab2 .hosting-company .block .text-3 {
-  font-size: 3.6em;
-  font-weight: 300;
-  text-transform: none;
-  color: #ff0000;
-  margin: 0;
+    font-size: 3.6em;
+    font-weight: 300;
+    text-transform: none;
+    color: #ff0000;
+    margin: 0;
 }
 
 .layer-old-7 .tab-hosting #tab2 .hosting-company .block .text-3-1 {
-  font-size: 1.7em;
-  font-weight: 300;
-  text-transform: none;
-  color: #ff0000;
-  margin: 0;
+    font-size: 1.7em;
+    font-weight: 300;
+    text-transform: none;
+    color: #ff0000;
+    margin: 0;
 }
 
 .layer-old-7 .tab-hosting #tab2 .hosting-company .block .text-4 {
-  font-size: 2.4em;
-  font-weight: 100;
-  text-transform: none;
-  color: #b0b0b0;
-  margin: 0;
+    font-size: 2.4em;
+    font-weight: 100;
+    text-transform: none;
+    color: #b0b0b0;
+    margin: 0;
 }
 
 .layer-old-7 .tab-hosting .text-1 {
-  font-size: 3em;
-  font-weight: 600;
-  text-transform: uppercase;
-  color: #fff;
-  margin-bottom: 26px;
+    font-size: 3em;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 26px;
 }
 
 .layer-old-7 .tab-hosting .text-2 {
-  font-size: 1.7em;
-  font-weight: normal;
-  text-transform: uppercase;
-  color: #fff;
-  margin-bottom: 10px;
+    font-size: 1.7em;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 10px;
 }
 
 .layer-old-7 .tab-hosting .text-3,
-  .layer-old-7 .tab-hosting .text-4 {
-  font-size: 1.7em;
-  font-weight: 300;
-  color: #fff;
-  margin-bottom: 45px;
+.layer-old-7 .tab-hosting .text-4 {
+    font-size: 1.7em;
+    font-weight: 300;
+    color: #fff;
+    margin-bottom: 45px;
 }
 
 .layer-old-7 .hosting-company .block-1 {
-  border-bottom: 1px solid #cccccc;
-  padding-bottom: 48px;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 48px;
 }
 
 .layer-old-7 .hosting-company .block-1 .text-1 {
-  font-size: 2.5em;
-  font-weight: normal;
-  color: #000;
-  text-transform: uppercase;
-  margin-bottom: 18px;
+    font-size: 2.5em;
+    font-weight: normal;
+    color: #000;
+    text-transform: uppercase;
+    margin-bottom: 18px;
 }
 
 .layer-old-7 .hosting-company .block-1 .text-2 {
-  font-size: 2.1em;
-  font-weight: 300;
-  color: #000;
-  margin: 0;
+    font-size: 2.1em;
+    font-weight: 300;
+    color: #000;
+    margin: 0;
 }
 
 .layer-old-7 .hosting-company .block-1 .text-3,
-  .layer-old-7 .hosting-company .block-2 .text-3 {
-  font-size: 3.1em;
-  font-weight: 600;
-  text-transform: uppercase;
-  border: 2px solid #cccccc;
-  color: #000;
-  margin: 45px 30px 28px 30px
+.layer-old-7 .hosting-company .block-2 .text-3 {
+    font-size: 3.1em;
+    font-weight: 600;
+    text-transform: uppercase;
+    border: 2px solid #cccccc;
+    color: #000;
+    margin: 45px 30px 28px 30px
 }
 
 .layer-old-7 .hosting-company .block-1 .text-4,
-  .layer-old-7 .hosting-company .block-2 .text-4 {
-  font-size: 3.6em;
-  font-weight: 300;
-  color: #ff2626;
-  margin: 0 0 22px 0;
+.layer-old-7 .hosting-company .block-2 .text-4 {
+    font-size: 3.6em;
+    font-weight: 300;
+    color: #ff2626;
+    margin: 0 0 22px 0;
 }
 
 .layer-old-7 .hosting-company .block-1 .text-5,
-  .layer-old-7 .hosting-company .block-2 .text-5 {
-  font-size: 2.4em;
-  font-weight: 100;
-  color: #b0b0b0;
-  margin: 0 0 25px 0;
+.layer-old-7 .hosting-company .block-2 .text-5 {
+    font-size: 2.4em;
+    font-weight: 100;
+    color: #b0b0b0;
+    margin: 0 0 25px 0;
 }
 
 .layer-old-7 .hosting-company .content-web-hosting {
-  padding: 41px 32px 82px 32px;
+    padding: 41px 32px 82px 32px;
 }
 
 .layer-old-8 .content-1 {
-  padding-top: 48px;
-  padding-bottom: 28px;
+    padding-top: 48px;
+    padding-bottom: 28px;
 }
 
 .layer-old-8 .block-content {
-  position: relative;
-  border: 1px solid #d9d9d9;
-  padding-top: 10px;
-  padding-bottom: 35px;
-  margin-bottom: 30px;
-  box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5);
-  -moz-box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5);
-  -webkit-box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5)
+    position: relative;
+    border: 1px solid #d9d9d9;
+    padding-top: 10px;
+    padding-bottom: 35px;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5)
 }
-.layer-old-8 .block-content:before{
+.layer-old-8 .block-content.hot:before{
     position: absolute;
     width: 38px;
     height: 43px;
@@ -931,66 +931,61 @@ body .slide-hosting-wordpress {
     left: 0;
     background: url(images/icon-hot.png) no-repeat
 }
-.layer-old-8 .block-content .icon-hot {
-  position: absolute;
-  top: 0;
-  left: 0;
-}
 
 .layer-old-8 .block-content .icon-loco {
-  margin-bottom: 17px;
+    margin-bottom: 17px;
 }
 
 .layer-old-8 .block-content .text-1 {
-  font-size: 1.6em;
-  font-weight: 300;
-  color: #000;
-  margin-bottom: 23px;
-  padding-left: 5px;
-  padding-right: 5px
+    font-size: 1.6em;
+    font-weight: 300;
+    color: #000;
+    margin-bottom: 23px;
+    padding-left: 5px;
+    padding-right: 5px
 }
 
 .layer-old-8 .block-content .block-child {
-  background: #efefef;
-  padding-top: 20px;
-  padding-bottom: 29px;
+    background: #efefef;
+    padding-top: 20px;
+    padding-bottom: 29px;
 }
 
 .layer-old-8 .block-content .text-2 {
-  font-size: 3em;
-  font-weight: 600;
-  color: #1c1c1c
+    font-size: 3em;
+    font-weight: 600;
+    color: #1c1c1c
 }
 
 .layer-old-8 .block-content .text-3 {
-  font-size: 2.2em;
-  font-weight: 300;
-  color: #1c1c1c;
+    font-size: 2.2em;
+    font-weight: 300;
+    color: #1c1c1c;
 }
 
 .layer-old-8 .block-content .text-4 {
-  font-size: 1.4em;
-  font-weight: 600;
-  color: #fb2627;
-  margin-top: 16px;
-  margin-bottom: 34px;
+    font-size: 1.4em;
+    font-weight: 600;
+    color: #fb2627;
+    margin-top: 16px;
+    margin-bottom: 34px;
 }
 
 .layer-old-8 .block-content a {
-  font-size: 1.6em;
-  font-weight: 300;
-  color: #fff;
-  background: #ff9c00;
-  padding: 12px 36px;
-  text-decoration: none
+    font-size: 1.6em;
+    font-weight: 300;
+    color: #fff;
+    background: #ff9c00;
+    padding: 12px 36px;
+    text-decoration: none
 }
 
 .layer-old-8 .content-2 {
-  background: url("images/bg-content2-thue-cho-dat-server.png");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  padding-top: 58px;
-  padding-bottom: 55px;
+    background: url("images/bg-content2-thue-cho-dat-server.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 58px;
+    padding-bottom: 55px;
 }
 .layer-old-8 .content-2 .wrap-items{
     overflow: hidden
@@ -1006,486 +1001,490 @@ body .slide-hosting-wordpress {
     width: 18%
 }
 .layer-old-8 .content-2 .wrap-content2 {
-  background: #fff;
-  padding-top: 30px;
-  padding-bottom: 30px;
+    background: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .layer-old-8 .content-2 .wrap-content2 .text-1 {
-  font-size: 3em;
-  font-weight: normal;
-  text-transform: uppercase;
-  color: #1b1b1b;
-  margin-bottom: 38px;
+    font-size: 3em;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: #1b1b1b;
+    margin-bottom: 38px;
 }
 
 .layer-old-8 .content-2 .wrap-content2 .text-2 {
-  margin-top: 27px;
-  font-size: 2.1em;
-  font-weight: 600;
-  margin-bottom: 40px;
+    margin-top: 27px;
+    font-size: 2.1em;
+    font-weight: 600;
+    margin-bottom: 40px;
 }
 
 .layer-old-8 .content-2 .wrap-content2 .text-3 {
-  font-size: 1.6em;
-  font-weight: 300;
-  margin-bottom: 25px;
+    font-size: 1.6em;
+    font-weight: 300;
+    margin-bottom: 25px;
 }
 
 .layer-old-8 .content-2 .wrap-content2 .block-child {
-  border: 1px solid #d9d9d9;
-  padding-bottom: 25px;
-  box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5);
-  -moz-box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5);
-  -webkit-box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5)
+    border: 1px solid #d9d9d9;
+    padding-bottom: 25px;
+    box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5)
 }
 
 .layer-old-8 .content-2 .wrap-content2 .text-4 {
-  font-size: 2.4em;
-  font-weight: 600;
-  text-transform: uppercase;
-  color: #fff;
-  background: #25ace5;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  margin-bottom: 25px
+    font-size: 2.4em;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+    background: #25ace5;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 25px
 }
 
 .layer-old-8 .content-2 .wrap-content2 a {
-  font-size: 1.6em;
-  color: #fff;
-  font-weight: 300;
-  background: #ff9c00;
-  padding: 15px 37px;
-  text-decoration: none;
-  display: inline-block
+    font-size: 1.6em;
+    color: #fff;
+    font-weight: 300;
+    background: #ff9c00;
+    padding: 15px 37px;
+    text-decoration: none;
+    display: inline-block
 }
 
 .layer-old-8 .content-3 {
-  padding-top: 55px;
-  padding-bottom: 59px;
+    padding-top: 55px;
+    padding-bottom: 59px;
 }
 
 .layer-old-8 .content-3 .text-1 {
-  font-size: 3em;
-  font-weight: normal;
-  text-transform: uppercase;
-  margin-bottom: 54px;
+    font-size: 3em;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin-bottom: 54px;
 }
 
 .layer-old-8 .content-3 .line-row {
-  border-bottom: 1px solid #d6d6d6;
+    border-bottom: 1px solid #d6d6d6;
 }
 
 .layer-old-8 .content-3 .text-2 {
-  font-size: 1.6em;
-  font-weight: normal;
+    font-size: 1.6em;
+    font-weight: normal;
 }
 
 .layer-old-8 .content-3 .text-3 {
-  font-size: 1.6em;
-  font-weight: 300;
+    font-size: 1.6em;
+    font-weight: 300;
 }
 
 .layer-old-8 .content-3 .text-4 {
-  font-size: 1.6em;
-  font-weight: 300;
+    font-size: 1.6em;
+    font-weight: 300;
 }
 
 .layer-old-8 .content-3 .col-left {
-  border-right: 1px solid #d6d6d6;
+    border-right: 1px solid #d6d6d6;
 }
 
 .layer-old-8 .content-3 .col-right {
-  border-left: 1px solid #d6d6d6;
+    border-left: 1px solid #d6d6d6;
 }
 
 .layer-old-8 .content-4 {
-  background: #ff4141;
+    background: #ff4141;
 }
 
 .layer-old-8 .content-4 .text-1 {
-  margin-top: 63px;
+    margin-top: 63px;
 }
 
 .layer-old-8 .content-4 .text-2 {
-  margin-bottom: 66px;
+    margin-bottom: 66px;
 }
 
 .layer-old-8 .content-4 img {
-  margin-top: 69px;
+    margin-top: 69px;
 }
 
 .layer-old-8 .content-4 .text-1,
-  .layer-old-8 .content-4 .text-2 {
-  font-size: 3em;
-  font-weight: normal;
-  color: #fff;
-  text-transform: uppercase;
+.layer-old-8 .content-4 .text-2 {
+    font-size: 3em;
+    font-weight: normal;
+    color: #fff;
+    text-transform: uppercase;
 }
 
 .layer-old-8 .content-4 .text-3 {
-  font-size: 7.2em;
-  color: #fff;
-  margin-top: 25px;
+    font-size: 7.2em;
+    color: #fff;
+    margin-top: 25px;
 }
 
 .layer-old-8 .content-4 .text-4 {
-  font-size: 3em;
-  color: #fff;
+    font-size: 3em;
+    color: #fff;
 }
 
 .layer-old-8 .content-5 {
-  padding-top: 100px;
-  padding-bottom: 115px;
+    padding-top: 100px;
+    padding-bottom: 115px;
 }
 
 .layer-old-8 .content-5 img {
-  margin-bottom: 38px;
+    margin-bottom: 38px;
 }
 
 .layer-old-8 .content-5 .text-1 {
-  font-size: 1.7em;
-  font-weight: 300;
+    font-size: 1.7em;
+    font-weight: 300;
 }
 
 .layer-old-9 .slide-ten-mien {
-  padding-top: 47px;
-  padding-bottom: 64px;
+    padding-top: 47px;
+    padding-bottom: 70px;
 }
 
 .layer-old-9 .slide-ten-mien .text-1 {
-  font-size: 3.4em;
-  font-weight: 300;
-  text-transform: uppercase;
-  margin-bottom: 26px;
+    font-size: 3.4em;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 26px;
 }
 
 .layer-old-9 .slide-ten-mien .text-2 {
-  font-size: 2.1em;
-  font-weight: 300;
+    font-size: 2.1em;
+    font-weight: 300;
 }
 
 .layer-old-9 .slide-ten-mien .text-3 {
-  font-size: 2.1em;
-  font-weight: normal;
+    font-size: 2.1em;
+    font-weight: normal;
 }
 
 .layer-old-9 .slide-ten-mien .text-4 {
-  font-size: 2.1em;
-  font-weight: 100;
-}
-
-.layer-old-9 .slide-ten-mien .border-right {
-  border-right: 1px solid #d3d3d3;
-  padding-right: 30px;
+    font-size: 2.1em;
+    font-weight: 100;
 }
 
 .layer-old-9 .slide-ten-mien form, .layer-old-10 .slide-index form {
-  margin-top: 28px;
-  position: relative;
+    margin-top: 28px;
+    position: relative
+}
+.layer-old-9 .slide-ten-mien .con-soc, .layer-old-10 .slide-index .con-soc {
+    position: relative
+}
+.layer-old-9 .slide-ten-mien .con-soc span, .layer-old-10 .slide-index .con-soc span {
+    position: absolute;
+    left: 40px;
+    top: -130px;
+    background: url(images/con-soc-01.png) no-repeat;
+    background-size: 100%;
+    width: 330px;
+    height: 366px;
+    content: ""
 }
 
 .layer-old-9 .slide-ten-mien form img,
-  .layer-old-10 .slide-index form img {
-  margin-top: 12px;
-  margin-bottom: 12px;
+.layer-old-10 .slide-index form img {
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
 
 .layer-old-9 .slide-ten-mien form input,
-  .layer-old-10 .slide-index form input {
-  width: 100%;
-  height: 64px;
-  border: 2px solid #9b9b9b;
-  padding-left: 17px;
-  font-size: 2.4em;
-  font-weight: 100;
+.layer-old-10 .slide-index form input {
+    width: 100%;
+    height: 64px;
+    border: 2px solid #9b9b9b;
+    padding-left: 17px;
+    font-size: 2.4em;
+    font-weight: 100;
 }
 
 .layer-old-9 .slide-ten-mien form .btn-search,
-  .layer-old-10 .slide-index form .btn-search {
-  background: #ea2021;
-  border: 1px solid #ea2021;
-  color: #fff;
-  text-transform: uppercase;
-  font-size: 1.6em;
-  font-weight: normal;
-  padding: 0 16px;
-  position: absolute;
-  right: 150px;
-  top: 5px;
-  height: 54px
+.layer-old-10 .slide-index form .btn-search {
+    background: #ea2021;
+    border: 1px solid #ea2021;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.6em;
+    font-weight: normal;
+    padding: 0 16px;
+    position: absolute;
+    right: 150px;
+    top: 5px;
+    height: 54px
 }
 
 .layer-old-9 .slide-ten-mien form .btn-transfer,
-  .layer-old-10 .slide-index form .btn-transfer {
-  background: #17b9bf;
-  border: 1px solid #17b9bf;
-  color: #fff;
-  text-transform: uppercase;
-  font-size: 1.6em;
-  font-weight: normal;
-  padding: 0 16px;
-  right: 10px;
-  top: 5px;
-  position: absolute;
-  height: 54px
+.layer-old-10 .slide-index form .btn-transfer {
+    background: #17b9bf;
+    border: 1px solid #17b9bf;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.6em;
+    font-weight: normal;
+    padding: 0 16px;
+    right: 10px;
+    top: 5px;
+    position: absolute;
+    height: 54px
 }
 
 .layer-old-9 .slide-ten-mien form .btn-transfer img,
-  .layer-old-10 .slide-index form .btn-transfer img {
-  margin-top: 14px;
+.layer-old-10 .slide-index form .btn-transfer img {
+    margin-top: 14px;
 }
 
 .layer-old-9 .content-1 {
-  padding-top: 72px;
+    padding-top: 72px;
 }
 
 .layer-old-9 .content-1 .block-domain {
-  position: relative;
-  border: 1px solid #d8d8d8;
-  padding-bottom: 34px;
+    position: relative;
+    background: #fff;
+    border: 1px solid #d8d8d8;
+    padding-bottom: 35px;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 0px 0px 15px -5px rgba(0,0,0,0.5)
 }
-
-.layer-old-9 .content-1 .block-domain .icon-hot {
-  position: absolute;
-  top: 0;
-  left: 0
+.layer-old-9 .content-1 .block-domain.hot:before{
+    position: absolute;
+    width: 38px;
+    height: 43px;
+    content: "";
+    top: 0;
+    left: 0;
+    background: url(images/icon-hot.png) no-repeat
 }
 
 .layer-old-9 .content-1 .block-domain .icon-domain {
-  margin-top: 10px;
+    margin-top: 10px;
 }
 
 .layer-old-9 .content-1 .block-domain .text-1 {
-  font-size: 1.6em;
-  font-weight: 300;
-  margin-top: 15px;
-  margin-bottom: 30px;
+    font-size: 1.6em;
+    font-weight: 300;
+    margin-top: 15px;
+    margin-bottom: 30px;
 }
 
 .layer-old-9 .content-1 .block-domain .block-text {
-  background: #efefef;
-  margin-bottom: 40px;
-  padding-bottom: 22px;
-  padding-top: 20px;
+    background: #efefef;
+    margin-bottom: 40px;
+    padding-bottom: 22px;
+    padding-top: 20px;
 }
 
 .layer-old-9 .content-1 .block-domain .block-text .text-2 {
-  font-size: 3.1em;
-  font-weight: 600;
-  margin-bottom: 21px;
+    font-size: 3em;
+    font-weight: 600
 }
 
 .layer-old-9 .content-1 .block-domain .block-text .text-3 {
-  font-size: 2.2em;
-  font-weight: 300;
+    font-size: 2.2em;
+    font-weight: 300;
 }
 
 .layer-old-9 .content-1 .block-domain a {
-  color: #fff;
-  font-size: 1.6em;
-  font-weight: 300;
-  background: #ff9c00;
-  padding: 15px 37px;
+    color: #fff;
+    font-size: 1.6em;
+    font-weight: 300;
+    background: #ff9c00;
+    padding: 15px 37px;
 }
 
 .layer-old-9 .content-2 {
-  background: #f4f4f4;
-  padding-top: 171px;
-  padding-bottom: 100px;
+    background: #f4f4f4;
+    margin-top: -127px;
+    padding-top: 171px;
+    padding-bottom: 100px;
 }
 
 .layer-old-9 .content-2 .row-1 {
-  margin-bottom: 40px;
+    margin-bottom: 40px;
 }
 
 .layer-old-9 .content-2 .text-1 {
-  font-size: 4.5em;
-  font-weight: 600;
-  margin-bottom: 70px;
+    font-size: 4.5em;
+    font-weight: 600;
+    margin-bottom: 70px;
 }
 
 .layer-old-9 .content-2 .text-2 {
-  font-size: 2.4em;
-  font-weight: 600;
+    font-size: 2.4em;
+    font-weight: 600;
 }
 
 .layer-old-9 .content-2 .text-3 {
-  font-size: 1.7em;
-  font-weight: 300;
+    font-size: 1.7em;
+    font-weight: 300;
 }
 
 .layer-old-9 .contact-2 {
-  margin-top: 0;
+    margin-top: 0;
 }
 
 .layer-old-10 .slide-index {
-  padding-top: 68px;
-  padding-bottom: 100px
-}
-
-.layer-old-10 .slide-index .icon-left {
-  margin-top: 35px;
-}
-
-.layer-old-10 .slide-index .icon-right {
-  margin-top: 35px;
-}
-
-.layer-old-10 .slide-index .border-right {
-  border-right: 1px solid #cfd2d6;
-  padding-right: 20px;
+    padding-top: 68px;
+    padding-bottom: 100px
 }
 
 .layer-old-10 .slide-index form {
-  margin-top: 42px;
-  margin-bottom: 71px;
+    margin-top: 42px;
+    margin-bottom: 71px;
 }
 
 .layer-old-10 .slide-index .text-1 {
-  font-size: 5.2em;
-  font-weight: 600;
-  text-transform: uppercase;
+    font-size: 5.2em;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
 .layer-old-10 .slide-index .text-2 {
-  font-size: 5.2em;
-  text-transform: uppercase;
-  margin-bottom: 53px;
-  font-weight: 300
+    font-size: 5.2em;
+    text-transform: uppercase;
+    margin-bottom: 53px;
+    font-weight: 300
 }
 
 .layer-old-10 .slide-index .text-3 {
-  font-size: 2.3em;
-  font-weight: 300;
+    font-size: 2.3em;
+    font-weight: 300;
 }
 
 .layer-old-10 .slide-index .text-4 {
-  font-size: 2.3em;
-  font-weight: normal;
+    font-size: 2.3em;
+    font-weight: normal;
 }
 
 .layer-old-10 .slide-index .text-5 {
-  font-size: 2.3em;
-  font-weight: 100;
+    font-size: 2.3em;
+    font-weight: 100;
 }
 
 .layer-old-10 .content-1 {
-  background: url("images/bg-content-1-index.png");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  padding-top: 78px;
-  padding-bottom: 73px;
+    background: url("images/bg-content-1-index.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 78px;
+    padding-bottom: 73px;
 }
 
 .layer-old-10 .content-1 .text-1 {
-  font-size: 4.8em;
-  font-weight: 600;
-  color: #bf1026;
-  text-transform: uppercase;
-  margin-bottom: 29px;
+    font-size: 4.8em;
+    font-weight: 600;
+    color: #bf1026;
+    text-transform: uppercase;
+    margin-bottom: 29px;
 }
 
 .layer-old-10 .content-1 .text-2 {
-  font-size: 2.2em;
-  font-weight: 100;
-  margin-bottom: 58px;
+    font-size: 2.2em;
+    font-weight: 100;
+    margin-bottom: 58px;
 }
 
 .layer-old-10 .content-2 {
-  background: url("images/bg-content-2-index.png");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  padding-top: 85px;
-  padding-bottom: 85px
+    background: url("images/bg-content-2-index.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 85px;
+    padding-bottom: 85px
 }
 
 .layer-old-10 .content-2 .text-1 {
-  font-size: 4.8em;
-  font-weight: 600;
-  color: #fff;
-  text-transform: uppercase;
-  margin-bottom: 36px;
+    font-size: 4.8em;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 36px;
 }
 
 .layer-old-10 .content-2 .text-2 {
-  font-size: 2.2em;
-  font-weight: 100;
-  color: #fff;
-  margin-bottom: 71px;
+    font-size: 2.2em;
+    font-weight: 100;
+    color: #fff;
+    margin-bottom: 71px;
 }
 
 .layer-old-10 .content-2 .card-1,
-  .layer-old-10 .content-2 .card-2,
-    .layer-old-10 .content-2 .card-3,
-      .layer-old-10 .content-2 .card-4 {
-  padding-bottom: 40px;
-  padding-top: 40px;
-  padding-left: 28px;
-  padding-right: 52px;
+.layer-old-10 .content-2 .card-2,
+.layer-old-10 .content-2 .card-3,
+.layer-old-10 .content-2 .card-4 {
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-left: 28px;
+    padding-right: 52px;
+    margin-bottom: 30px
 }
 
 .layer-old-10 .content-2 .card-1 {
-  background: url("images/card-1.png");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+    background: url("images/card-1.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 .layer-old-10 .content-2 .card-2 {
-  background: url("images/card-2.png");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+    background: url("images/card-2.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 .layer-old-10 .content-2 .card-3 {
-  background: url("images/card-3.png");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+    background: url("images/card-3.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 .layer-old-10 .content-2 .card-4 {
-  background: url("images/card-4.png");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+    background: url("images/card-4.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 .layer-old-10 .content-2 .card-1 .text-1,
-  .layer-old-10 .content-2 .card-2 .text-1,
-    .layer-old-10 .content-2 .card-3 .text-1,
-      .layer-old-10 .content-2 .card-4 .text-1 {
-  font-size: 3.5em;
-  font-weight: 600;
-  text-transform: uppercase;
-  color: #000;
-  margin-bottom: 0;
+.layer-old-10 .content-2 .card-2 .text-1,
+.layer-old-10 .content-2 .card-3 .text-1,
+.layer-old-10 .content-2 .card-4 .text-1 {
+    font-size: 3.5em;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #000;
+    margin-bottom: 0;
 }
 
 .layer-old-10 .content-2 .card-1 .text-2,
-  .layer-old-10 .content-2 .card-2 .text-2,
-    .layer-old-10 .content-2 .card-3 .text-2,
-      .layer-old-10 .content-2 .card-4 .text-2 {
-  font-size: 1.6em;
-  font-weight: normal;
-  color: #000;
-  margin-bottom: 15px;
+.layer-old-10 .content-2 .card-2 .text-2,
+.layer-old-10 .content-2 .card-3 .text-2,
+.layer-old-10 .content-2 .card-4 .text-2 {
+    font-size: 1.6em;
+    font-weight: normal;
+    color: #000;
+    margin-bottom: 15px;
 }
 
 .layer-old-10 .content-2 .card-1 .text-3,
-  .layer-old-10 .content-2 .card-2 .text-3,
-    .layer-old-10 .content-2 .card-3 .text-3,
-      .layer-old-10 .content-2 .card-4 .text-3 {
-  font-size: 1.6em;
-  font-weight: 300;
-  color: #000;
-  margin-bottom: 28px;
+.layer-old-10 .content-2 .card-2 .text-3,
+.layer-old-10 .content-2 .card-3 .text-3,
+.layer-old-10 .content-2 .card-4 .text-3 {
+    font-size: 1.6em;
+    font-weight: 300;
+    color: #000;
+    margin-bottom: 28px;
 }
 
 .layer-old-10 .content-2 .card-1 ul li,
-  .layer-old-10 .content-2 .card-2 ul li,
-    .layer-old-10 .content-2 .card-3 ul li,
-      .layer-old-10 .content-2 .card-4 ul li {
-  list-style: url('images/icon-list-text-card.png');
+.layer-old-10 .content-2 .card-2 ul li,
+.layer-old-10 .content-2 .card-3 ul li,
+.layer-old-10 .content-2 .card-4 ul li {
+    list-style: url('images/icon-list-text-card.png');
 }
 
 .layer-old-10 .content-2 .card-2 ul li, .layer-old-10 .content-2 .card-4 ul li {
@@ -1493,48 +1492,48 @@ body .slide-hosting-wordpress {
 }
 
 .layer-old-10 .content-2 .card-1 .text-4,
-  .layer-old-10 .content-2 .card-2 .text-4,
-    .layer-old-10 .content-2 .card-3 .text-4,
-      .layer-old-10 .content-2 .card-4 .text-4  {
-  font-size: 2.4em;
-  font-weight: 300;
-  color: #ff0000;
-  float: left;
+.layer-old-10 .content-2 .card-2 .text-4,
+.layer-old-10 .content-2 .card-3 .text-4,
+.layer-old-10 .content-2 .card-4 .text-4  {
+    font-size: 2.4em;
+    font-weight: 300;
+    color: #ff0000;
+    float: left;
 }
 
 .layer-old-10 .content-2 .card-2 .text-4,
-  .layer-old-10 .content-2 .card-4 .text-4 {
-  float: right;
+.layer-old-10 .content-2 .card-4 .text-4 {
+    float: right;
 }
 
 .layer-old-10 .content-2 .card-1 .text-5,
-  .layer-old-10 .content-2 .card-2 .text-5,
-    .layer-old-10 .content-2 .card-3 .text-5,
-      .layer-old-10 .content-2 .card-4 .text-5 {
-  float: right;
-  border: 3px solid #fff;
-  border-radius: 10px;
-  padding: 10px 30px;
+.layer-old-10 .content-2 .card-2 .text-5,
+.layer-old-10 .content-2 .card-3 .text-5,
+.layer-old-10 .content-2 .card-4 .text-5 {
+    float: right;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    padding: 10px 30px;
 }
 
 .layer-old-10 .content-2 .card-2 .text-5,
-  .layer-old-10 .content-2 .card-4 .text-5 {
-  float: left;
-  border: 3px solid #000;
+.layer-old-10 .content-2 .card-4 .text-5 {
+    float: left;
+    border: 3px solid #000;
 }
 
 .layer-old-10 .content-2 .card-1 .text-5 a,
-  .layer-old-10 .content-2 .card-2 .text-5 a,
-    .layer-old-10 .content-2 .card-3 .text-5 a,
-      .layer-old-10 .content-2 .card-4 .text-5 a {
-  font-size: 1.7em;
-  font-weight: 600;
-  color: #fff;
+.layer-old-10 .content-2 .card-2 .text-5 a,
+.layer-old-10 .content-2 .card-3 .text-5 a,
+.layer-old-10 .content-2 .card-4 .text-5 a {
+    font-size: 1.7em;
+    font-weight: 600;
+    color: #fff;
 }
 
 .layer-old-10 .content-2 .card-2 .text-5 a,
-  .layer-old-10 .content-2 .card-4 .text-5 a {
-  color: #000;
+.layer-old-10 .content-2 .card-4 .text-5 a {
+    color: #000;
 }
 
 .layer-old-10 .hosting-company.feedbacks .owl-carousel .owl-next{
@@ -1544,329 +1543,333 @@ body .slide-hosting-wordpress {
     background: url(images/icon-mui-ten-right-slide-thiet-ke-web.png) no-repeat right center
 }
 .layer-old-10 .hosting-company {
-  background: #fff;
-  padding-top: 115px;
+    background: #fff;
+    padding-top: 115px;
 }
 
 .layer-old-10 .hosting-company .text-1 {
-  font-size: 4.8em;
-  font-weight: 600;
-  text-transform: uppercase;
-  margin-bottom: 35px;
+    font-size: 4.8em;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 35px;
 }
 
 .layer-old-10 .hosting-company .text-2 {
-  font-size: 2.2em;
-  font-weight: 100;
-  margin-bottom: 90px;
+    font-size: 2.2em;
+    font-weight: 100;
+    margin-bottom: 90px;
 }
 
 .layer-old-10 .hosting-company .wrap-slide-intro-customer {
-  position: relative;
-  border: 1px solid #d7d7d7;
-  padding-bottom: 50px;
-  padding-left: 35px;
-  padding-right: 35px; 
+    position: relative;
+    border: 1px solid #d7d7d7;
+    padding-bottom: 50px;
+    padding-left: 35px;
+    padding-right: 35px; 
 }
 
 .layer-old-10 .hosting-company .wrap-slide-intro-customer .text-3 {
-  font-size: 1.5em;
-  font-weight: 300;
+    font-size: 1.5em;
+    font-weight: 300;
 }
 
 .layer-old-10 .hosting-company .wrap-slide-intro-customer a {
-  font-size: 1.5em;
-  font-weight: 600;
-  color: #000;
-  text-decoration: none;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
 }
 
 .layer-old-10 .hosting-company .wrap-slide-intro-customer .line {
-  border-bottom: 1px solid #d7d7d7;
-  margin: 33px 50px 0 50px;
+    border-bottom: 1px solid #d7d7d7;
+    margin: 33px 50px 0 50px;
 }
 
 .layer-old-10 .hosting-company .wrap-slide-intro-customer .text-4 {
-  font-size: 2.5em;
-  font-weight: normal;
-  margin-top: 41px;
+    font-size: 2.5em;
+    font-weight: normal;
+    margin-top: 41px;
 }
 
 .layer-old-10 .hosting-company .wrap-slide-intro-customer .text-5 {
-  font-size: 1.7em;
-  font-weight: 300;
-  margin-top: 14px;
+    font-size: 1.7em;
+    font-weight: 300;
+    margin-top: 14px;
 }
 
 .layer-old-10 .hosting-company .wrap-slide-intro-customer .icon-quote {
-  position: absolute;
-  top: 20px;
-  left: 20px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
 }
 
 .layer-old-10 .hosting-company .wrap-slide-intro-customer .icon-avatar {
-  margin-top: 33px;
-  margin-left: 35%;
-  margin-bottom: 27px;
+    margin-top: 33px;
+    margin-left: 35%;
+    margin-bottom: 27px;
 }
 
 .layer-old-10 .hosting-company .owl-carousel .owl-item img {
-  width: auto;
+    width: auto;
 }
 
+.layer-old-11 .text-slide-2{font-size: 2.2em}
 .layer-old-11 .content-1 {
-  padding-top: 68px;
-  padding-bottom: 72px;
+    padding-top: 68px;
+    padding-bottom: 72px;
 }
 
 .layer-old-11 .content-1 .text-1 {
-  margin-bottom: 32px;
+    margin-bottom: 32px;
 }
 
 .layer-old-11 .content-1 .text-1,
-  .layer-old-11 .content-1 .text-2 {
-  font-size: 1.8em;
-  font-weight: 300;
+.layer-old-11 .content-1 .text-2 {
+    font-size: 1.8em;
+    font-weight: 300;
 }
 
 .layer-old-11 .content-1 .text-2 a {
-  color: #da4c4d;
+    color: #da4c4d;
 }
 
 .layer-old-11 .content-2 {
-  background: url('images/bg-content2-email-g-suite.png');
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  padding-top: 105px;
-  padding-bottom: 140px;
+    background: url('images/bg-content2-email-g-suite.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 105px;
+    padding-bottom: 140px;
 }
 
 .layer-old-11 .content-2 .wrap-content {
-  background: #fff;
-  padding-top: 53px;
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-bottom: 32px;
+    background: #fff;
+    padding-top: 53px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 32px;
 }
 
 .layer-old-11 .content-2 .wrap-content .text-1 {
-  font-size: 5.3em;
-  font-weight: bold;
-  text-transform: uppercase;
-  margin-bottom: 29px;
+    font-size: 5.3em;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 29px;
 }
 
 .layer-old-11 .content-2 .wrap-content .text-2 {
-  font-size: 4.8em;
-  color: #d21d22;
-  margin-bottom: 17px;
+    font-size: 4.8em;
+    color: #d21d22;
+    margin-bottom: 17px;
 }
 
 .layer-old-11 .content-2 .wrap-content .text-3 {
-  font-size: 3.1em;
-  font-weight: 100;
-  color: #b0b0b0;
-  margin-bottom: 15px;
+    font-size: 3.1em;
+    font-weight: 100;
+    color: #b0b0b0;
+    margin-bottom: 15px;
 }
 
 .layer-old-11 .content-2 .wrap-content .text-4 {
-  font-size: 1.5em;
-  font-weight: 300;
+    font-size: 1.5em;
+    font-weight: 300;
 }
 
 .layer-old-11 .content-2 .wrap-content .text-5 {
-  background: #ff9c00;
-  padding: 13px 25px;
-  margin-top: 33px;
-  margin-left: 17px;
-  margin-right: 17px;
+    background: #ff9c00;
+    padding: 13px 25px;
+    margin-top: 33px;
+    margin-left: 17px;
+    margin-right: 17px;
 }
 
 .layer-old-11 .content-2 .wrap-content .text-5 a {
-  font-size: 1.5em;
-  font-weight: 300;
-  color: #fff;
-  text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: 300;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none
 }
 
 .layer-old-11 .content-2 .wrap-content .text-6 {
-  font-size: 1.6em;
-  font-weight: 300;
-  margin-top: 43px;
+    font-size: 1.6em;
+    font-weight: 300;
+    margin-top: 20px
 }
 
 .layer-old-11 .content-2 .wrap-content .text-7 {
-  background: #d41617;
-  text-transform: uppercase;
-  padding: 15px 25px;
-  margin-top: 32px;
-  margin-left: 100px;
-  margin-right: 100px;
+    background: #d41617;
+    text-transform: uppercase;
+    padding: 15px 25px;
+    margin-top: 32px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .layer-old-11 .content-2 .wrap-content .text-7 a {
-  text-transform: uppercase;
-  color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.4em
 }
 
 .layer-old-11 .content-3 {
-  background: #87da77;
-  padding-top: 37px;
-  padding-bottom: 32px;
+    background: #87da77;
+    padding-top: 37px;
+    padding-bottom: 32px;
 }
 
 .layer-old-11 .content-3 .text-1 {
-  font-size: 6em;
-  font-weight: 300;
-  text-transform: uppercase;
-  color: #fff;
+    font-size: 6em;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #fff;
 }
 
 .layer-old-11 .content-4 {
-  padding-top: 80px;
-  padding-bottom: 47px;
+    padding-top: 80px;
+    padding-bottom: 47px;
 }
 
 .layer-old-11 .content-4 .text-1 {
-  font-size: 3.6em;
-  font-weight: 300;
-  text-transform: uppercase;
-  margin-bottom: 50px;
+    font-size: 3.6em;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 50px;
 }
 
 .layer-old-11 .content-4 .text-2 {
-  font-size: 2.4em;
-  font-weight: 300;
+    font-size: 2.4em;
+    font-weight: 300;
 }
 
 .layer-old-11 .content-4 .text-2 ul li {
-  list-style: none;
-  display: inline-block;
+    list-style: none;
+    display: inline-block;
 }
 
 .layer-old-11 .content-4 .text-2 ul li a {
-  text-decoration: none;
-  color: #000;
+    text-decoration: none;
+    color: #000;
 }
 
 .layer-old-11 .content-4 .text-2 ul .active {
-  border-bottom: 1px solid #000;
-  padding-bottom: 14px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 14px;
 }
 
 .layer-old-11 #gmail {
-  background: url("images/bg-content-gmail.png");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  padding-top: 65px;
+    background: url("images/bg-content-gmail.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 65px;
 }
 
 .layer-old-11 #driver {
-  background: url("images/bg-content-driver.png");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  padding-top: 65px;
+    background: url("images/bg-content-driver.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 65px;
 }
 
 .layer-old-11 #tailieu {
-  background: #e5fff3;
-  padding-top: 38px;
-  padding-bottom: 47px;
+    background: #e5fff3;
+    padding-top: 38px;
+    padding-bottom: 47px;
 }
 
 .layer-old-11 #adminstrator {
-  background: #fff3ff;
-  padding-top: 38px;
-  padding-bottom: 47px;
+    background: #fff3ff;
+    padding-top: 38px;
+    padding-bottom: 47px;
 }
 
 .layer-old-11 #tailieu .text-1,
-  .layer-old-11 #adminstrator .text-1 {
-  font-size: 3em;
-  font-weight: 300;
-  margin-top: 40px;
+.layer-old-11 #adminstrator .text-1 {
+    font-size: 3em;
+    font-weight: 300;
+    margin-top: 40px;
 }
 
 .layer-old-11 #adminstrator .text-1 {
-  margin-bottom: 35px;
-  margin-top: 70px;
+    margin-bottom: 35px;
+    margin-top: 70px;
 }
 
 .layer-old-11 #tailieu .text-2,
-  .layer-old-11 #adminstrator .text-2 {
-  font-size: 1.7em;
-  font-weight: 300;
+.layer-old-11 #adminstrator .text-2 {
+    font-size: 1.7em;
+    font-weight: 300;
 }
 
 .layer-old-11 #gmail .text-1,
-  .layer-old-11 #driver .text-1 {
-  font-size: 3.6em;
-  font-weight: 300;
-  margin-bottom: 34px;
+.layer-old-11 #driver .text-1 {
+    font-size: 3.6em;
+    font-weight: 300;
+    margin-bottom: 34px;
 }
 
 .layer-old-11 #gmail .text-2,
-  .layer-old-11 #driver .text-2 {
-  font-size: 1.8em;
-  font-weight: 300;
-  margin-bottom: 34px;
+.layer-old-11 #driver .text-2 {
+    font-size: 1.8em;
+    font-weight: 300;
+    margin-bottom: 34px;
 }
 
 .layer-old-11 #gmail .icon-left, .layer-old-11 #gmail .icon-right,
-  .layer-old-11 #driver .icon-left, .layer-old-11 #driver .icon-right {
-  margin-top: 115px;
+.layer-old-11 #driver .icon-left, .layer-old-11 #driver .icon-right {
+    margin-top: 115px;
 }
 
 .layer-old-11 #tailieu .icon-left, .layer-old-11 #tailieu .icon-right,
-  .layer-old-11 #adminstrator .icon-left, .layer-old-11 #adminstrator .icon-right {
-  margin-top: 130px;
+.layer-old-11 #adminstrator .icon-left, .layer-old-11 #adminstrator .icon-right {
+    margin-top: 130px;
 }
 
 .layer-old-11 #gmail .text-3,
-  .layer-old-11 #driver .text-3 {
-  float: left;
-  margin-bottom: 60px;
+.layer-old-11 #driver .text-3 {
+    float: left;
+    margin-bottom: 60px;
 }
 
 .layer-old-11 #gmail .text-3 a,
-  .layer-old-11 #driver .text-3 a {
-  font-size: 1.6em;
-  font-weight: 300;
-  color: #fff;
-  text-transform: uppercase;
-  padding: 11px 39px;
-  text-decoration: none;
-  background: #21beff;
-  border-radius: 20px;
+.layer-old-11 #driver .text-3 a {
+    font-size: 1.6em;
+    font-weight: 300;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 11px 39px;
+    text-decoration: none;
+    background: #21beff;
+    border-radius: 20px;
 }
 
 .layer-old-11 .content-5 {
-  padding-top: 93px;
-  padding-bottom: 154px;
+    padding-top: 93px;
+    padding-bottom: 154px;
 }
 
 .layer-old-11 .content-5 .text-1 {
-  margin-top: 0;
-  font-size: 4.5em;
-  font-weight: bold;
-  text-transform: uppercase;
-  margin-bottom: 71px;
+    margin-top: 0;
+    font-size: 4.5em;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 71px;
 }
 
 .layer-old-11 .content-5 .text-2 {
-  font-size: 1.8em;
-  font-weight: bold;
+    font-size: 1.8em;
+    font-weight: 600;
 }
 
 .layer-old-11 .content-5 .text-3 {
-  font-size: 1.6em;
-  font-weight: 300;
+    font-size: 1.6em;
+    font-weight: 300;
 }
 
 .layer-old-11 .content-5 .row-1 {
-  margin-bottom: 71px;
+    margin-bottom: 71px;
 }
 
 .layer-old-11 .content-6 {
-  padding-bottom: 112px;
+    padding-bottom: 112px;
 }

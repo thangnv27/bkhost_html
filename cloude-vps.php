@@ -56,7 +56,7 @@
                         <p>Công nghệ ảo hóa: VMware</p>
                         <p>Tặng RAM khi đăng ký 6 tháng</p>
                     </div>
-                    <a href="#" class="btn-register-hosting">
+                    <a href="https://manage.bkhost.vn/cart.php?a=add&pid=189" class="btn-register-hosting">
                         Đăng ký ngay
                     </a>
                 </div>
@@ -81,7 +81,7 @@
                         <p>Công nghệ ảo hóa: VMware</p>
                         <p>Tặng RAM khi đăng ký 6 tháng</p>
                     </div>
-                    <a href="#" class="btn-register-hosting">
+                    <a href="https://manage.bkhost.vn/cart.php?a=add&pid=190" class="btn-register-hosting">
                         Đăng ký ngay
                     </a>
                 </div>
@@ -106,7 +106,7 @@
                         <p>Công nghệ ảo hóa: VMware</p>
                         <p>Tặng RAM khi đăng ký 6 tháng</p>
                     </div>
-                    <a href="#" class="btn-register-hosting">
+                    <a href="https://manage.bkhost.vn/cart.php?a=add&pid=191" class="btn-register-hosting">
                         Đăng ký ngay
                     </a>
                 </div>
@@ -131,7 +131,32 @@
                         <p>Công nghệ ảo hóa: VMware</p>
                         <p>Tặng RAM khi đăng ký 6 tháng</p>
                     </div>
-                    <a href="#" class="btn-register-hosting">
+                    <a href="https://manage.bkhost.vn/cart.php?a=add&pid=192" class="btn-register-hosting">
+                        Đăng ký ngay
+                    </a>
+                </div>
+                <div class="content-web-hosting">
+                    <p class="text-hosting-1">CLOUD VPS 05</p>
+                    <p class="text-hosting-2">200.000</p>
+                    <strike class="text-hosting-3">250.000</strike>
+                    <p class="text-hosting-4">- 1 tháng - </p>
+                    <div class="discount-code-email">
+                        <p class="text-hosting-5">Nhập mã khuyến mãi (-50%) áp dụng 25/10 - 25/11/2017</p>
+                        <div class="line-discount"><p></p></div>
+                        <p class="text-hosting-6">KMHT850</p>
+                    </div>
+                    <div class="details-service">
+                        <p>vCPU: 2 Core</b></p>
+                        <p style="color: red">RAM: 1 GB + 512 MB free</p>
+                        <p>SSD Cloud Storage : 20 GB</p>
+                        <p>Lưu trữ: <b>100% Ổ SSD</b> Intel Pro</p>
+                        <p>Băng Thông: Unlimited</p>
+                        <p>Địa chỉ IP: 1</p>
+                        <p>Software: Free Directadmin</p>
+                        <p>Công nghệ ảo hóa: VMware</p>
+                        <p>Tặng RAM khi đăng ký 6 tháng</p>
+                    </div>
+                    <a href="https://manage.bkhost.vn/cart.php?a=add&pid=193" class="btn-register-hosting">
                         Đăng ký ngay
                     </a>
                 </div>

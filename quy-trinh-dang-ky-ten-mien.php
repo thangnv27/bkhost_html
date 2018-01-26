@@ -47,8 +47,8 @@
                 <b class="title-3">Qúy khách cần làm những thủ tục sau đây:</b>
                 <div class="title-2">
                     <p>Download bản khai đăng ký tại đây, điền đầy đủ thông tin trong bản khai, đóng dấu ký tên (nếu là người thay mặt cơ quan đăng ký tên miền), ký tên và CMND kèm theo (nếu là cá nhân).
-                    Giấy tờ tùy thân: Giấy CMND (hoặc hộ chiếu đối với người nước ngoài)của chủ thể là cá nhân hoặc người thay mặt 
-                    tổ chức làm thủ tục đăng ký; Giấy tờ tùy thân là bản gốc để NĐK đối chiếu với thông tin trong bản khai và bản có công chứng nếu gửi qua đường bưu chính tới địa chỉ của NĐK.</p>
+                        Giấy tờ tùy thân: Giấy CMND (hoặc hộ chiếu đối với người nước ngoài)của chủ thể là cá nhân hoặc người thay mặt 
+                        tổ chức làm thủ tục đăng ký; Giấy tờ tùy thân là bản gốc để NĐK đối chiếu với thông tin trong bản khai và bản có công chứng nếu gửi qua đường bưu chính tới địa chỉ của NĐK.</p>
                     <p>Quý khách đến trực tiếp văn phòng BKHOST Việt Nam để thanh toán phí và nộp hồ sơ chờ cấp phát. 
                         Hoặc đăng ký online thông qua website www.bkhost.vn và cập nhật hồ sơ, phí theo hướng dẫn đăng ký online.</p>
                 </div>

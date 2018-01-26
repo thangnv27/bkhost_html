@@ -40,8 +40,6 @@
                 <img class="img-1" src="images/logo-jvc.png">
                 <p class="text-2">Tập đoàn điện tử JVC</p>
             </div>
-        </div>
-        <div class="row text-center">
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <img class="img-1" src="images/logo-hong-linh.png">
                 <p class="text-3">Công ty TNHH Hồng Lĩnh</p>

@@ -33,7 +33,7 @@
                         <div class="text-4">
                             Miễn phí khởi tạo
                         </div>
-                        <a href="#" class="btn-register-hosting">
+                        <a href="https://manage.bkhost.vn/cart.php?a=add&pid=199" class="btn-register-hosting">
                             Đăng ký
                         </a>
                     </div>
@@ -55,7 +55,7 @@
                         <div class="text-4">
                             Miễn phí khởi tạo
                         </div>
-                        <a href="#" class="btn-register-hosting">
+                        <a href="https://manage.bkhost.vn/cart.php?a=add&pid=200" class="btn-register-hosting">
                             Đăng ký
                         </a>
                     </div>
@@ -77,7 +77,7 @@
                         <div class="text-4">
                             Miễn phí khởi tạo
                         </div>
-                        <a href="#" class="btn-register-hosting">
+                        <a href="https://manage.bkhost.vn/cart.php?a=add&pid=201" class="btn-register-hosting">
                             Đăng ký
                         </a>
                     </div>
@@ -99,7 +99,7 @@
                         <div class="text-4">
                             Miễn phí khởi tạo
                         </div>
-                        <a href="#" class="btn-register-hosting">
+                        <a href="https://manage.bkhost.vn/cart.php?a=add&pid=202" class="btn-register-hosting">
                             Đăng ký
                         </a>
                     </div>
@@ -121,7 +121,7 @@
                         <div class="text-4">
                             Miễn phí khởi tạo
                         </div>
-                        <a href="#" class="btn-register-hosting">
+                        <a href="https://manage.bkhost.vn/cart.php?a=add&pid=203" class="btn-register-hosting">
                             Đăng ký
                         </a>
                     </div>

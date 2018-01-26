@@ -24,7 +24,7 @@
                     </a>
                 </li>
                 <li class="active">
-                    <a data-toggle="tab" href="#tab2">
+                    <a data-toggle="tab" href="phan-mem-webserver.php">
                         cpanel
                     </a>
                 </li>
@@ -49,22 +49,27 @@
     <div class="tab-hosting">
         <div class="container">
             <div class="tab-content">
-                <div id="tab2" class="tab-pane fade in active">
+                <div id="tab1" class="tab-pane fade in active">
                     <div class="text-1 text-left">
-                        Bản quyền Cpanel
-                    </div>
-                    <div class="text-2 text-left">
-                        Phần mềm quản trị cPanel là gì?
+                        Bản quyền Cloud Linux
                     </div>
                     <div class="text-3 text-left">
-                        cPanel là một hệ thống quản lý dành riêng cho máy chủ lưu trữ web. cPanel có nhiều tính năng mạnh mẽ và tạo cho quản trị viên khả năng can thiệp sâu và chính xác hơn đối với các thiết lập quy định khả năng khai thác tài nguyên máy chủ. Tính năng của hệ thống cPanel được phân chia thành 2 cấp độ là tài khoản đại lý và tài khoản quyền root (cao nhất). Việc phân chia cấp độ cho phép người quản trị lọc bớt các chức năng không cần thiết hoặc ít sử dụng trong một giao diện quản lý thường xuyên sử dụng và phục vụ cả mục đích đào tạo đối với người mới sử dụng.
+                        Là hệ điều hành *Nix đầu tiên, được thiết kế dành riêng cho nhu cầu lưu trữ web, đặc biệt là phục vụ nhu cầu của các 
+                        nhà cung cấp Hosting (Hosting Provider). Cloud Linux sử dụng công nghệ LVE (Lightweight Virtual Environments – 
+                        Tạo môi trường ảo hóa) tạo nên sự đột phá trong viêc quản lý, chia sẻ tài nguyên máy chủ cho các tài khoản người dùng.
+                    </div>
+                    <div class="text-3 text-left">
+                        Trên CloudLinux, khách hàng được giới hạn tài nguyên % CPU Load. Thông thường với CentOS, một user có thể chạy full 
+                        99,9% CPU cho process của website, nhưng ở đây, con số này bị giới hạn lại theo cấu hình của nhà cung cấp. Điều này 
+                        nhằm đảm bảo chắc chắn rằng, hosting, website của bạn bỏ chi phí ra thuê sẽ không bị ảnh hưởng bởi một người nào đó 
+                        trên cùng server, kể cả trong trường hợp các cuộc tấn công DDOS nhỏ và vừa.
                     </div>
                     <div class="hosting-company">
                         <div class="owl-carousel">
                             <div class="content-web-hosting">
                                 <div class="block">
                                     <div class="text-1">
-                                        VPS - Internal
+                                        Máy chủ ảo - VPS
                                     </div>
                                 </div>
                                 <div class="block">
@@ -86,16 +91,16 @@
                                     <div class="text-2">12 tháng</div>
                                     <div class="text-3">2.100.000</div>
                                     <div class="text-3-1">(Tiết kiệm 420.000 đ)</div>
-                                    <div class="text-4"><strike>300.000</strike></div>
+                                    <div class="text-4"><strike>3.000.000</strike></div>
                                 </div>
-                                <a href="#" class="btn-register-hosting">
+                                <a href="https://manage.bkhost.vn/cart.php?a=add&pid=149" class="btn-register-hosting">
                                     Đăng ký ngay
                                 </a>
                             </div>
                             <div class="content-web-hosting">
                                 <div class="block">
                                     <div class="text-1">
-                                        VPS - Internal
+                                        Máy chủ riêng
                                     </div>
                                 </div>
                                 <div class="block">
@@ -119,14 +124,14 @@
                                     <div class="text-3-1">(Tiết kiệm 420.000 đ)</div>
                                     <div class="text-4"><strike>300.000</strike></div>
                                 </div>
-                                <a href="#" class="btn-register-hosting">
+                                <a href="https://manage.bkhost.vn/cart.php?a=add&pid=150" class="btn-register-hosting">
                                     Đăng ký ngay
                                 </a>
                             </div>
                             <div class="content-web-hosting">
                                 <div class="block">
                                     <div class="text-1">
-                                        Server - Internal
+                                        Lifetime
                                     </div>
                                 </div>
                                 <div class="block">
@@ -150,7 +155,7 @@
                                     <div class="text-3-1">(Tiết kiệm 420.000 đ)</div>
                                     <div class="text-4"><strike>300.000</strike></div>
                                 </div>
-                                <a href="#" class="btn-register-hosting">
+                                <a href="https://manage.bkhost.vn/cart.php?a=add&pid=151" class="btn-register-hosting">
                                     Đăng ký ngay
                                 </a>
                             </div>
